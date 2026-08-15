@@ -1,0 +1,5 @@
+Segment,Age,AnnualIncome,MembershipYears,RecencyDays,Frequency,AvgOrderValue,TotalSpend,DiscountSensitivity,OnlineEngagementScore,CartAbandonRate,ReturnsRate,SegmentSize,SegmentSharePct,Gender,CityTier,PreferredCategory,ChurnRisk,SegmentName
+0,35.8,59062.0,1.6,127.6,5.6,69.0,392.4,0.4,44.2,0.3,0.1,148,12.3,Male,Tier 2,Groceries,Medium,At-Risk / Dormant
+1,35.8,75308.8,1.4,30.0,6.0,88.3,526.2,0.4,58.2,0.3,0.1,455,37.9,Male,Tier 1,Fashion,Medium,Mainstream Regulars
+2,36.6,72051.2,5.2,34.7,12.5,82.1,1021.6,0.4,73.9,0.3,0.1,202,16.8,Female,Tier 1,Fashion,Low,Champions (High-Value Loyal)
+3,33.5,45619.4,1.7,28.8,5.5,52.3,285.8,0.4,58.6,0.3,0.1,395,32.9,Male,Tier 2,Fashion,Medium,Budget-Conscious / New
