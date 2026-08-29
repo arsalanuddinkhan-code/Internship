@@ -1,0 +1,1623 @@
+OrderID,OrderDate,CustomerName,Email,Country,ProductCategory,Quantity,UnitPrice,Discount,PaymentMethod,IsReturned
+ORD-21390,07-May-2026,Customer 1490,customer1490@example.com,CANADA, Apparel,2.0,70.76,0.08,Credit Card,No
+ORD-20002,26-Jun-2025,Customer 1002,customer1002@example.com,DE,Apparel,1.0,$122.24,0.18,Credit Card,false
+ORD-20503,"April 07, 2025",Customer 1503,customer1503@example.com,AUS,Home & Garden,3.0,$197.06,0.13,Gift Card,0
+ORD-21340,2026-01-31,Customer 1440,  customer1440@example.com ,United kingdom,electronics,5.0,24.27,0.07,,FALSE
+ORD-21025,09/17/2025,Customer 1125,customer1125@example.com,USA,Sports ,1.0,$149.32,0.18,Credit Card,No
+ORD-20472,2025-12-09,Customer 1472,customer1472@example.com,America,Sport,1.0,$51.30,,Credit Card,FALSE
+ORD-20481,07/16/2025,Customer 1481,customer1481@example.com,UK,Sport,2.0,$140.65,0.26,PayPal,no
+ORD-20368,2025-09-14,Customer 1368,customer1368@example.com,United States,Home & Garden,4.0,25.65,0.15,PayPal,No
+ORD-20458,30-Jan-2026,Customer 1458,  customer1458@example.com ,AUS,apparel,4.0,$80.58,0.07,PayPal,No
+ORD-20861,05/19/2026,Customer 1861,  customer1861@example.com ,england,Beuaty,3.0,$54.61,0.02,Debit Card,No
+ORD-20592,2026-05-06,Customer 1592,customer1592@example.com,America,SPORTS,2.0,23.74,0.25,Credit Card,TRUE
+ORD-21498,19-Sep-2025,Customer 1598,customer1598@example.com,USA,Sports ,3.0,$66.88,0.22,PayPal,FALSE
+ORD-21448,2026-07-05,Customer 1548,customer1548@example.com,America,Sports,5.0,179.61,0.24,Credit Card,No
+ORD-21372,2026-07-27,Customer 1472,  customer1472@example.com ,United states,ELECTRONICS,1.0,119.87,0.05,PayPal,FALSE
+ORD-20626,01-Aug-2025,Customer 1626,customer1626@example.com,england,Electronics ,5.0,$121.12,0.04,Debit Card,false
+ORD-20174,20-Sep-2025,Customer 1174,  customer1174@example.com ,us, Apparel,3.0,$123.22,0.16,Debit Card,false
+ORD-20615,"May 11, 2025",Customer 1615,customer1615@example.com,CA,Home & garden,1.0,$46.19,0.22,Debit Card,FALSE
+ORD-21194,13-Dec-2025,Customer 1294,  customer1294@example.com ,germany,Beauty,1.0,$163.86,0.01,Credit Card,0
+ORD-20570,14-Sep-2025,Customer 1570,customer1570@example.com,england,,2.0,110.87,0.07,PayPal,No
+ORD-20764,2025-03-18,Customer 1764,customer1764@example.com,canada,SPORTS,5.0,122.9,0.11,Gift Card,false
+ORD-20611,"February 26, 2026",Customer 1611,customer1611@example.com,CANADA,Sport,4.0,138.92,0.13,Gift Card,1
+ORD-20795,"April 01, 2026",Customer 1795,customer1795@example.com,AUS,HOME & GARDEN,3.0,158.38,0.23,Gift Card,N
+ORD-20834,26-May-2026,Customer 1834,  customer1834@example.com ,United States,Appreal,3.0,22.72,0.16,Gift Card,N
+ORD-20272,2026-06-07,Customer 1272,customer1272@example.com,Canada,apparel,4.0,29.64,0.06,Debit Card,FALSE
+ORD-21362,03-May-2026,Customer 1462,customer1462@example.com,U.S.A.,sports,3.0,76.95,0.22,Gift Card,No
+ORD-20972,2025-09-29,Customer 1072,customer1072@example.com,AUSTRALIA,Appreal,4.0,106.45,0.1,Debit Card,1
+ORD-20709,08/09/2025,Customer 1709,,AUS, Beauty,5.0,$18.22,0.24,Credit Card,Yes
+ORD-20292,2025-10-19,Customer 1292,customer1292@example.com,DE,Home & garden,4.0,$165.16,0.2,Gift Card,N
+ORD-20056,2026-05-22,Customer 1056,customer1056@example.com,USA,apparel,3.0,52.95,0.21,Gift Card,no
+ORD-21063,"May 24, 2025",Customer 1163,  customer1163@example.com ,United kingdom, Apparel,4.0,$137.75,0.11,Gift Card,FALSE
+ORD-21358,23-Mar-2026,Customer 1458,customer1458@example.com,United kingdom,sports,2.0,194.95,0.14,PayPal,no
+ORD-21384,2025-07-16,Customer 1484,  customer1484@example.com ,United Kingdom,Electronics,5.0,174.78,0.04,Debit Card,TRUE
+ORD-20841,09/18/2025,Customer 1841,  customer1841@example.com ,U.K.,Beuaty,2.0,74.86,0.3,PayPal,false
+ORD-21215,"June 09, 2026",Customer 1315,customer1315@example.com,DE,apparel,5.0,106.93,0.09,Debit Card,false
+ORD-20974,25-Feb-2026,Customer 1074,  customer1074@example.com ,Germany,Electronic,5.0,98.87,0.01,Gift Card,N
+ORD-20311,"September 20, 2025",Customer 1311,customer1311@example.com,CANADA,Home&Garden,3.0,$112.89,0.15,Gift Card,N
+ORD-20442,01-Sep-2025,Customer 1442,customer1442@example.com,germany,beauty,4.0,215.83,0.26,Gift Card,false
+ORD-21517,01/12/2026,Customer 1617,  customer1617@example.com ,U.S.A., Beauty,4.0,76.22,0.13,PayPal,false
+ORD-20093,04/08/2025,Customer 1093,customer1093@example.com,U.K.,Home&Garden,3.0,$196.37,0.04,Gift Card,no
+ORD-20720,2026-08-19,Customer 1720,customer1720@example.com,CA,beauty,5.0,$137.63,0.28,PayPal,FALSE
+ORD-21184,2025-03-09,Customer 1284,customer1284@example.com,U.S.A.,Sports,5.0,36.74,0.16,PayPal,0
+ORD-21189,03/18/2025,Customer 1289,customer1289@example.com,GERMANY,Home & garden,5.0,69.55,0.15,PayPal,no
+ORD-21325,05/17/2026,Customer 1425,customer1425@example.com,Germany, Beauty,4.0,173.28,0.16,Credit Card,false
+ORD-20618,11-Jun-2026,Customer 1618,  customer1618@example.com ,United kingdom,Electronic,4.0,70.85,0.2,Credit Card,false
+ORD-20136,2026-05-06,Customer 1136,  customer1136@example.com ,UK,Beuaty,3.0,$93.01,0.04,PayPal,FALSE
+ORD-21574,13-Jan-2026,Customer 1674,,U.S.A.,Sports,3.0,120.34,0.01,PayPal,false
+ORD-21122,19-Oct-2025,Customer 1222,customer1222@example.com,CANADA,ELECTRONICS,4.0,$128.83,0.11,Credit Card,false
+ORD-20269,05/26/2025,Customer 1269,customer1269@example.com,DE,APPAREL,1.0,$210.30,0.02,Credit Card,0
+ORD-21181,06/17/2025,Customer 1281,customer1281@example.com,USA,electronics,2.0,$11.24,0.29,Gift Card,0
+ORD-21460,2025-11-09,Customer 1560,customer1560@example.com,Canada,Home&Garden,1.0,159.18,0.09,Gift Card,FALSE
+ORD-20780,2025-06-15,Customer 1780,  customer1780@example.com ,germany,home and garden,4.0,8.51,0.16,Gift Card,N
+ORD-20891,"November 21, 2025",Customer 1891,customer1891@example.com,DE,sports,,$26.38,0.3,Credit Card,FALSE
+ORD-21543,"December 23, 2025",Customer 1643,customer1643@example.com,CANADA,Home & garden,1.0,67.16,0.28,Credit Card,false
+ORD-21081,03/20/2025,Customer 1181,customer1181@example.com,Canada,sports,1.0,201.75,0.23,PayPal,0
+ORD-20279,"July 28, 2026",Customer 1279,customer1279@example.com,GERMANY,Home&Garden,3.0,$169.57,0.14,Debit Card,false
+ORD-20965,04/22/2025,Customer 1065,customer1065@example.com,Australia,Electronics,2.0,199.93,0.23,Debit Card,FALSE
+ORD-20260,2026-02-03,Customer 1260,,U.S.A.,Electronics,3.0,$205.57,0.15,Debit Card,FALSE
+ORD-20928,2025-11-15,Customer 1028,customer1028@example.com,AUS,APPAREL,5.0,146.35,0.03,Credit Card,FALSE
+ORD-21401,02/06/2026,Customer 1501,  customer1501@example.com ,GERMANY,Electronics,4.0,96.41,0.08,PayPal,FALSE
+ORD-20232,2026-02-02,Customer 1232,customer1232@example.com,United kingdom,HOME & GARDEN,2.0,80.09,0.23,PayPal,No
+ORD-21268,2025-04-22,Customer 1368,customer1368@example.com,Australia,Beuaty,4.0,$162.16,0.21,Gift Card,No
+ORD-20036,2025-05-11,Customer 1036,customer1036@example.com,USA,Sports ,5.0,$15.82,0.23,Credit Card,true
+ORD-21085,07/05/2026,Customer 1185,customer1185@example.com,America,Home & garden,5.0,$139.65,0.08,Debit Card,0
+ORD-21487,"February 08, 2026",Customer 1587,customer1587@example.com,United states,Electronics ,5.0,55.58,0.06,Debit Card,FALSE
+ORD-20065,02/19/2026,Customer 1065,customer1065@example.com,AUS,home and garden,1.0,153.27,0.02,Credit Card,No
+ORD-20632,2025-06-09,Customer 1632,customer1632@example.com,GERMANY,HOME & GARDEN,5.0,90.77,0.14,PayPal,0
+ORD-21059,"January 13, 2026",Customer 1159,  customer1159@example.com ,UK, Beauty,4.0,131.99,0.14,Gift Card,no
+ORD-21235,"July 07, 2025",Customer 1335,customer1335@example.com,UK,Electronics ,4.0,99.53,0.27,PayPal,0
+ORD-21263,"December 05, 2025",Customer 1363,  customer1363@example.com ,AUS,Sport,1.0,$190.50,0.07,Credit Card,Y
+ORD-20940,2025-09-11,Customer 1040,customer1040@example.com,DE,ELECTRONICS,4.0,$198.21,0.29,Debit Card,FALSE
+ORD-20080,2025-04-17,Customer 1080,customer1080@example.com,United Kingdom,Sports,4.0,$186.33,0.16,Credit Card,yes
+ORD-21107,"May 23, 2025",Customer 1207,,Germany,sports,1.0,$79.45,0.21,Credit Card,No
+ORD-20473,03/26/2026,Customer 1473,  customer1473@example.com ,Australia,Electronics,2.0,85.14,0.15,Debit Card,false
+ORD-20022,22-Jan-2026,Customer 1022,customer1022@example.com,DE, Beauty,3.0,$71.45,0.01,PayPal,0
+ORD-20607,"January 21, 2026",Customer 1607,,AUS,Electronics,3.0,159.98,0.16,Gift Card,false
+ORD-20901,07/11/2025,Customer 1001,customer1001@example.com,Canada,APPAREL,1.0,141.59,0.19,PayPal,No
+ORD-20082,21-Jun-2026,Customer 1082,customer1082@example.com,UK,apparel,5.0,192.53,0.04,PayPal,0
+ORD-20171,"August 03, 2025",Customer 1171,,UK,electronics,5.0,$37.15,0.03,Gift Card,No
+ORD-20984,2025-03-01,Customer 1084,  customer1084@example.com ,DE,Sports ,4.0,$207.43,0.3,Credit Card,false
+ORD-20750,04-Feb-2026,Customer 1750,customer1750@example.com,United kingdom,Home & Garden,3.0,$165.10,0.15,Gift Card,N
+ORD-21100,2026-04-09,Customer 1200,customer1200@example.com,AUSTRALIA,home and garden,1.0,$25.89,0.16,Credit Card,0
+ORD-20127,"March 15, 2025",Customer 1127,customer1127@example.com,england,Electronics ,4.0,135.98,0.26,Gift Card,0
+ORD-20557,09/04/2025,Customer 1557,customer1557@example.com,AUSTRALIA,Electronic,3.0,177.34,0.3,PayPal,false
+ORD-20857,05/16/2025,Customer 1857,customer1857@example.com,germany,Apparel,5.0,$98.42,0.0,Debit Card,0
+ORD-21195,"November 20, 2025",Customer 1295,  customer1295@example.com ,canada,Beuaty,4.0,$36.54,0.15,PayPal,0
+ORD-21159,"August 20, 2025",Customer 1259,customer1259@example.com,DE,Electronics ,1.0,88.21,0.08,Credit Card,FALSE
+ORD-21328,2026-06-02,Customer 1428,customer1428@example.com,australia,apparel,3.0,61.01,0.24,PayPal,0
+ORD-20659,"April 02, 2025",Customer 1659,customer1659@example.com,germany,electronics,2.0,31.59,0.27,Debit Card,N
+ORD-20460,2025-03-24,Customer 1460,customer1460@example.com,Canada,sports,,77.76,0.17,PayPal,FALSE
+ORD-20088,2026-01-20,Customer 1088,customer1088@example.com,Germany,Sports,5.0,$22.54,0.05,Gift Card,false
+ORD-20447,"September 29, 2025",Customer 1447,  customer1447@example.com ,GERMANY,electronics,1.0,188.45,0.03,Debit Card,No
+ORD-20785,12/14/2025,Customer 1785,  customer1785@example.com ,U.S.A.,Electronics,,$22.69,0.06,Debit Card,0
+ORD-21456,2026-04-23,Customer 1556,customer1556@example.com,United states,apparel,3.0,$51.33,0.22,,1
+ORD-21345,07/07/2026,Customer 1445,customer1445@example.com,America, Beauty,1.0,139.15,0.14,Gift Card,N
+ORD-20325,04/03/2025,Customer 1325,  customer1325@example.com ,AUSTRALIA,ELECTRONICS,1.0,11.84,0.29,PayPal,No
+ORD-20869,05/08/2025,Customer 1869,customer1869@example.com,United kingdom,apparel,3.0,$135.29,0.22,Gift Card,N
+ORD-20246,08-Apr-2025,Customer 1246,customer1246@example.com,United States,Beauty,2.0,184.82,0.21,Gift Card,no
+ORD-20278,27-Feb-2025,Customer 1278,  customer1278@example.com ,australia,Electronic,2.0,$178.69,0.19,Credit Card,FALSE
+ORD-21058,21-Feb-2026,Customer 1158,  customer1158@example.com ,england,home and garden,4.0,$47.03,0.02,Credit Card,0
+ORD-21444,2025-11-13,Customer 1544,customer1544@example.com,canada,APPAREL,3.0,$39.79,0.3,Credit Card,No
+ORD-20716,2025-11-09,Customer 1716,customer1716@example.com,United Kingdom,Beauty,4.0,$102.99,0.24,PayPal,N
+ORD-21553,03/19/2026,Customer 1653,customer1653@example.com,United kingdom,Electronics,4.0,27.17,0.28,Credit Card,FALSE
+ORD-20787,"July 08, 2026",Customer 1787,customer1787@example.com,us,Beauty,2.0,$213.31,0.28,Debit Card,false
+ORD-20997,11/10/2025,Customer 1097,  customer1097@example.com ,Australia,Home & Garden,4.0,147.66,0.08,Debit Card,0
+ORD-20710,25-Feb-2026,Customer 1710,  customer1710@example.com ,USA,Appreal,5.0,$33.17,0.04,PayPal,0
+ORD-20905,07/12/2026,Customer 1005,customer1005@example.com,U.K.,Apparel,1.0,$30.80,,Credit Card,0
+ORD-21351,"February 18, 2026",Customer 1451,  customer1451@example.com ,AUS,Sports,4.0,$19.21,0.21,Credit Card,FALSE
+ORD-20324,2025-11-15,Customer 1324,customer1324@example.com,canada,Home & garden,1.0,181.0,0.23,PayPal,no
+ORD-20457,03/24/2025,Customer 1457,customer1457@example.com,england,Home & Garden,2.0,27.12,0.03,Gift Card,0
+ORD-20425,05/18/2025,Customer 1425,customer1425@example.com,AUS,Home & garden,2.0,$90.31,0.02,Credit Card,No
+ORD-21366,16-Feb-2026,Customer 1466,customer1466@example.com,CANADA,Beauty,5.0,151.27,0.02,Gift Card,no
+ORD-20107,"August 09, 2025",Customer 1107,customer1107@example.com,germany,Electronic,2.0,$23.82,0.02,Debit Card,no
+ORD-20995,"March 08, 2025",Customer 1095,  customer1095@example.com ,GERMANY,Home & garden,2.0,$20.11,0.19,PayPal,FALSE
+ORD-21198,17-Jun-2025,Customer 1298,  customer1298@example.com ,DE,Beuaty,4.0,197.48,0.21,Debit Card,No
+ORD-20309,05/04/2025,Customer 1309,  customer1309@example.com ,GERMANY,Electronics ,5.0,$114.34,0.04,Gift Card,No
+ORD-20783,"July 03, 2026",Customer 1783,customer1783@example.com,U.K., Apparel,4.0,$178.09,0.1,Credit Card,N
+ORD-20239,"February 24, 2026",Customer 1239,  customer1239@example.com ,America,Sports,4.0,54.21,0.18,Gift Card,0
+ORD-21308,2025-08-06,Customer 1408,customer1408@example.com,Canada,Electronics ,3.0,132.68,0.23,Debit Card,false
+ORD-21290,13-Dec-2025,Customer 1390,customer1390@example.com,GERMANY,Home & Garden,4.0,$163.21,0.02,Gift Card,Yes
+ORD-21476,2025-12-27,Customer 1576,customer1576@example.com,germany,Home&Garden,1.0,71.2,,PayPal,N
+ORD-20217,08/23/2025,Customer 1217,customer1217@example.com,United kingdom,Apparel,5.0,198.43,,Debit Card,0
+ORD-20820,2026-08-17,Customer 1820,customer1820@example.com,AUSTRALIA,Apparel,1.0,148.55,0.1,Credit Card,false
+ORD-21549,06/01/2026,Customer 1649,customer1649@example.com,U.K.,SPORTS,5.0,102.38,0.18,Gift Card,TRUE
+ORD-21173,04/22/2025,Customer 1273,customer1273@example.com,CA,Sports,3.0,$172.95,0.06,Credit Card,FALSE
+ORD-20980,2025-11-24,Customer 1080,  customer1080@example.com ,australia,APPAREL,1.0,177.25,0.28,Debit Card,no
+ORD-20672,2025-07-12,Customer 1672,customer1672@example.com,Australia, Beauty,5.0,$121.76,0.26,Gift Card,false
+ORD-21220,2025-04-24,Customer 1320,customer1320@example.com,Canada,apparel,3.0,$92.05,0.16,PayPal,false
+ORD-21296,2025-12-11,Customer 1396,  customer1396@example.com ,United States,Electronics ,1.0,$215.37,0.21,PayPal,true
+ORD-20573,12/20/2025,Customer 1573,customer1573@example.com,U.K., Apparel,5.0,$63.67,0.15,Gift Card,no
+ORD-20655,"June 21, 2026",Customer 1655,customer1655@example.com,United States,Home & Garden,4.0,90.29,0.27,PayPal,FALSE
+ORD-20943,"June 04, 2026",Customer 1043,customer1043@example.com,GERMANY,Sports,4.0,59.03,0.23,PayPal,N
+ORD-20201,07/14/2026,Customer 1201,customer1201@example.com,United kingdom,Beauty,2.0,186.77,0.29,Gift Card,0
+ORD-20470,22-Apr-2026,Customer 1470,customer1470@example.com,USA,home and garden,1.0,110.73,0.1,Credit Card,false
+ORD-21408,2025-04-21,Customer 1508,customer1508@example.com,canada,Sports,1.0,94.91,0.17,Gift Card,TRUE
+ORD-20070,21-Jun-2025,Customer 1070,customer1070@example.com,germany,ELECTRONICS,1.0,$24.18,0.09,Debit Card,N
+ORD-21230,14-Aug-2026,Customer 1330,customer1330@example.com,United Kingdom,electronics,4.0,150.56,0.02,Debit Card,0
+ORD-21232,2025-07-03,Customer 1332,,GERMANY,Appreal,,191.31,0.22,PayPal,FALSE
+ORD-20117,09/24/2025,Customer 1117,  customer1117@example.com ,AUS,electronics,2.0,$70.34,0.17,Debit Card,0
+ORD-21197,06/28/2025,Customer 1297,customer1297@example.com,germany,sports,2.0,$201.36,0.02,Debit Card,TRUE
+ORD-20499,"February 18, 2026",Customer 1499,  customer1499@example.com ,Germany,Electronics ,4.0,$28.62,0.13,Gift Card,no
+ORD-20053,12/03/2025,Customer 1053,customer1053@example.com,U.K.,Sports ,4.0,$42.79,0.13,Debit Card,false
+ORD-20461,04/19/2026,Customer 1461,customer1461@example.com,United Kingdom,home and garden,1.0,$74.56,0.26,Debit Card,no
+ORD-20754,08-Nov-2025,Customer 1754,  customer1754@example.com ,GERMANY,Appreal,2.0,191.24,0.25,Debit Card,0
+ORD-21165,09/30/2025,Customer 1265,customer1265@example.com,AUSTRALIA,SPORTS,4.0,33.39,0.28,Credit Card,TRUE
+ORD-20041,05/28/2026,Customer 1041,  customer1041@example.com ,America,Appreal,1.0,175.49,0.06,Gift Card,No
+ORD-21144,2025-03-26,Customer 1244,  customer1244@example.com ,AUS, Apparel,1.0,$191.99,0.21,Gift Card,false
+ORD-20394,02-Feb-2026,Customer 1394,  customer1394@example.com ,germany, Apparel,2.0,$85.90,0.29,Credit Card,no
+ORD-20369,02/20/2026,Customer 1369,  customer1369@example.com ,AUSTRALIA,ELECTRONICS,1.0,$114.40,0.25,Credit Card,yes
+ORD-20413,05/20/2026,Customer 1413,customer1413@example.com,U.K.,electronics,1.0,$155.37,0.12,Debit Card,0
+ORD-20958,03-Sep-2025,Customer 1058,customer1058@example.com,canada,Home & Garden,1.0,135.93,0.11,Gift Card,FALSE
+ORD-20711,"September 02, 2025",Customer 1711,  customer1711@example.com ,Germany, Beauty,2.0,200.48,0.07,Debit Card,No
+ORD-20214,19-Feb-2026,Customer 1214,customer1214@example.com,germany,Sports ,2.0,71.64,0.15,Debit Card,FALSE
+ORD-21349,04/05/2026,Customer 1449,  customer1449@example.com ,germany,HOME & GARDEN,5.0,$44.00,0.19,PayPal,1
+ORD-21472,2025-06-28,Customer 1572,customer1572@example.com,America,Electronic,5.0,$143.16,0.24,Gift Card,0
+ORD-20175,"September 21, 2025",Customer 1175,customer1175@example.com,Canada,home and garden,2.0,69.63,0.27,PayPal,Yes
+ORD-21528,2026-08-04,Customer 1628,,United Kingdom,apparel,5.0,73.75,0.05,Credit Card,no
+ORD-21006,17-May-2026,Customer 1106,customer1106@example.com,germany,Electronic,,160.45,0.03,Gift Card,0
+ORD-20677,07/10/2026,Customer 1677,customer1677@example.com,Germany,Electronics ,1.0,135.91,0.16,Credit Card,N
+ORD-20237,06/15/2026,Customer 1237,  customer1237@example.com ,CANADA,ELECTRONICS,3.0,$143.81,0.03,Debit Card,no
+ORD-20722,12-Apr-2026,Customer 1722,  customer1722@example.com ,United States,BEAUTY,2.0,$208.74,0.1,Gift Card,no
+ORD-20236,2025-07-24,Customer 1236,  customer1236@example.com ,GERMANY,Sports,3.0,45.92,0.2,Credit Card,0
+ORD-21578,11-Jul-2025,Customer 1678,customer1678@example.com,CANADA,apparel,5.0,20.94,0.24,Debit Card,no
+ORD-20911,"May 05, 2026",Customer 1011,customer1011@example.com,United States,Home&Garden,2.0,210.82,0.04,Gift Card,false
+ORD-20411,"June 23, 2025",Customer 1411,customer1411@example.com,United Kingdom, Apparel,4.0,125.65,0.14,Debit Card,0
+ORD-20130,15-Jun-2026,Customer 1130,  customer1130@example.com ,Australia,Beauty,5.0,180.61,0.26,Gift Card,no
+ORD-20870,07-Apr-2025,Customer 1870,customer1870@example.com,AUSTRALIA,Sports ,3.0,218.48,0.1,PayPal,No
+ORD-20539,"August 24, 2025",Customer 1539,customer1539@example.com,,electronics,2.0,153.68,0.05,PayPal,No
+ORD-21382,13-Aug-2026,Customer 1482,  customer1482@example.com ,AUSTRALIA,Sport,1.0,$36.55,0.18,PayPal,No
+ORD-21402,05-Jul-2025,Customer 1502,customer1502@example.com,United Kingdom,Sport,5.0,$20.11,0.11,PayPal,false
+ORD-20293,04/28/2026,Customer 1293,  customer1293@example.com ,GERMANY,Beuaty,1.0,100.26,0.14,Gift Card,no
+ORD-21259,"August 02, 2026",Customer 1359,customer1359@example.com,germany,ELECTRONICS,3.0,$18.52,0.2,Gift Card,FALSE
+ORD-20921,05/15/2025,Customer 1021,customer1021@example.com,Australia,APPAREL,4.0,132.63,0.29,Credit Card,N
+ORD-20476,2025-07-12,Customer 1476,  customer1476@example.com ,Canada,Sport,3.0,157.77,0.07,Credit Card,0
+ORD-21004,2026-05-07,Customer 1104,customer1104@example.com,australia,Beauty,1.0,44.48,0.2,Debit Card,No
+ORD-20398,15-Nov-2025,Customer 1398,customer1398@example.com,United Kingdom,apparel,4.0,155.04,0.26,PayPal,0
+ORD-21576,2026-01-20,Customer 1676,customer1676@example.com,DE,sports,2.0,181.18,0.07,Credit Card,no
+ORD-21177,11/30/2025,Customer 1277,customer1277@example.com,Germany, Apparel,1.0,116.54,0.24,Credit Card,no
+ORD-21141,08/03/2026,Customer 1241,customer1241@example.com,AUSTRALIA,Electronic,3.0,$169.88,0.03,PayPal,N
+ORD-20123,"December 16, 2025",Customer 1123,customer1123@example.com,AUS, Beauty,4.0,55.76,0.05,Gift Card,false
+ORD-21491,"June 02, 2026",Customer 1591,customer1591@example.com,germany, Apparel,5.0,$214.77,0.01,Credit Card,0
+ORD-21447,"May 05, 2025",Customer 1547,customer1547@example.com,australia,APPAREL,2.0,146.13,0.27,Gift Card,no
+ORD-20687,"November 15, 2025",Customer 1687,  customer1687@example.com ,,Electronics ,2.0,188.94,0.02,Gift Card,false
+ORD-20967,"April 17, 2026",Customer 1067,customer1067@example.com,germany,Home & Garden,1.0,180.29,,Gift Card,false
+ORD-20595,"March 23, 2025",Customer 1595,customer1595@example.com,,Beauty,3.0,$83.68,0.26,Debit Card,N
+ORD-20730,07-Jan-2026,Customer 1730,  customer1730@example.com ,U.K.,APPAREL,2.0,73.56,0.03,PayPal,No
+ORD-20538,18-Feb-2026,Customer 1538,  customer1538@example.com ,australia, Apparel,4.0,$70.65,0.07,,FALSE
+ORD-20735,"December 07, 2025",Customer 1735,customer1735@example.com,Australia,Electronic,1.0,191.95,0.06,Credit Card,no
+ORD-20828,2026-06-04,Customer 1828,customer1828@example.com,United states,Sports ,2.0,$105.56,0.22,Debit Card,N
+ORD-20763,"February 16, 2026",Customer 1763,customer1763@example.com,australia,apparel,2.0,11.62,0.28,PayPal,false
+ORD-20925,04/16/2025,Customer 1025,customer1025@example.com,Australia,Beuaty,5.0,147.74,0.17,Credit Card,false
+ORD-21139,"April 05, 2026",Customer 1239,  customer1239@example.com ,United Kingdom,home and garden,3.0,$111.82,0.26,Debit Card,N
+ORD-20613,09/02/2025,Customer 1613,customer1613@example.com,DE,Electronic,1.0,$127.76,0.14,Credit Card,FALSE
+ORD-21421,05/30/2025,Customer 1521,customer1521@example.com,U.K.,Sports ,1.0,129.03,0.03,Credit Card,no
+ORD-21167,"September 09, 2025",Customer 1267,,australia,electronics,4.0,104.05,0.03,Credit Card,No
+ORD-20916,2025-04-04,Customer 1016,customer1016@example.com,America,HOME & GARDEN,2.0,35.1,0.16,PayPal,FALSE
+ORD-20746,08-Jul-2025,Customer 1746,customer1746@example.com,germany,,2.0,$14.42,0.3,PayPal,FALSE
+ORD-21090,23-Aug-2025,Customer 1190,customer1190@example.com,CANADA,ELECTRONICS,2.0,$103.79,0.04,Debit Card,false
+ORD-21510,24-Jun-2026,Customer 1610,customer1610@example.com,AUSTRALIA,Electronics,1.0,200.29,0.01,Debit Card,true
+ORD-21385,08/13/2025,Customer 1485,customer1485@example.com,AUS,Sports,1.0,$197.99,0.29,Debit Card,no
+ORD-21526,08-May-2025,Customer 1626,customer1626@example.com,Germany,Sports,1.0,29.81,0.22,Gift Card,no
+ORD-20349,10/16/2025,Customer 1349,customer1349@example.com,CANADA,Beauty,4.0,70.83,0.22,Gift Card,false
+ORD-20255,"July 03, 2025",Customer 1255,  customer1255@example.com ,Australia,Electronic,1.0,214.54,0.15,PayPal,N
+ORD-20771,"February 02, 2026",Customer 1771,customer1771@example.com,germany,APPAREL,2.0,193.21,0.12,Debit Card,false
+ORD-21117,12/27/2025,Customer 1217,  customer1217@example.com ,GERMANY,Electronics,4.0,91.26,,Credit Card,No
+ORD-20021,11/16/2025,Customer 1021,customer1021@example.com,United Kingdom,Home & Garden,3.0,81.11,0.19,Debit Card,false
+ORD-21179,"March 21, 2025",Customer 1279,customer1279@example.com,USA,Sports ,4.0,32.94,0.17,PayPal,false
+ORD-20061,09/29/2025,Customer 1061,customer1061@example.com,United Kingdom,Sports ,2.0,$195.95,0.11,Gift Card,0
+ORD-20801,05/04/2026,Customer 1801,customer1801@example.com,America,Home&Garden,3.0,187.07,0.12,Debit Card,0
+ORD-20707,"August 28, 2025",Customer 1707,customer1707@example.com,U.K.,Apparel,5.0,$150.85,0.27,Credit Card,false
+ORD-20220,2025-11-12,Customer 1220,  customer1220@example.com ,AUS,Apparel,1.0,39.48,0.26,Debit Card,N
+ORD-20800,2025-11-18,Customer 1800,customer1800@example.com,AUSTRALIA,beauty,4.0,83.32,0.23,Gift Card,false
+ORD-20561,06/18/2025,Customer 1561,customer1561@example.com,Germany,ELECTRONICS,5.0,34.8,0.16,Debit Card,N
+ORD-20402,14-Dec-2025,Customer 1402,customer1402@example.com,us,Home & Garden,2.0,140.3,0.23,PayPal,no
+ORD-20647,"May 24, 2026",Customer 1647,  customer1647@example.com ,us,Electronic,2.0,17.59,0.21,Gift Card,false
+ORD-20135,"May 26, 2026",Customer 1135,customer1135@example.com,U.K.,Apparel,1.0,$54.76,0.04,PayPal,No
+ORD-21411,"July 29, 2025",Customer 1511,customer1511@example.com,U.K.,electronics,1.0,$104.60,0.01,Gift Card,FALSE
+ORD-21110,01-Oct-2025,Customer 1210,  customer1210@example.com ,America,SPORTS,1.0,$108.53,0.2,Credit Card,0
+ORD-20549,05/25/2025,Customer 1549,customer1549@example.com,canada,beauty,4.0,63.51,0.24,Credit Card,no
+ORD-20563,"February 27, 2025",Customer 1563,customer1563@example.com,AUSTRALIA,home and garden,2.0,$99.77,0.19,Debit Card,FALSE
+ORD-21559,"August 05, 2026",Customer 1659,customer1659@example.com,USA,Sport,3.0,123.38,0.23,PayPal,no
+ORD-20169,05/23/2025,Customer 1169,customer1169@example.com,germany,Beuaty,4.0,$151.93,0.29,Credit Card,1
+ORD-21497,04/10/2026,Customer 1597,customer1597@example.com,UK,beauty,2.0,$219.18,0.07,Gift Card,N
+ORD-21354,28-Mar-2025,Customer 1454,customer1454@example.com,UK,home and garden,4.0,196.34,0.15,Gift Card,false
+ORD-21367,"February 24, 2026",Customer 1467,  customer1467@example.com ,U.K.,Appreal,4.0,128.41,0.21,,0
+ORD-20767,"August 29, 2025",Customer 1767,customer1767@example.com,United Kingdom,Home&Garden,4.0,86.13,0.28,Gift Card,no
+ORD-20320,2025-07-31,Customer 1320,customer1320@example.com,DE,sports,4.0,$146.97,0.15,Gift Card,0
+ORD-20356,2025-11-24,Customer 1356,customer1356@example.com,germany,ELECTRONICS,3.0,132.49,0.25,Debit Card,no
+ORD-20531,"June 15, 2025",Customer 1531,  customer1531@example.com ,Canada,Sports,4.0,121.95,0.21,Debit Card,0
+ORD-20512,2026-07-20,Customer 1512,customer1512@example.com,United kingdom,Beauty,2.0,$213.35,0.26,Credit Card,0
+ORD-21562,14-Jan-2026,Customer 1662,  customer1662@example.com ,CA,home and garden,3.0,89.66,0.1,Credit Card,no
+ORD-21586,11-Jan-2026,Customer 1686,  customer1686@example.com ,United Kingdom,Home & garden,2.0,126.52,0.15,Debit Card,FALSE
+ORD-21275,"February 23, 2026",Customer 1375,customer1375@example.com,AUS,ELECTRONICS,3.0,86.67,0.16,Debit Card,no
+ORD-21187,"November 22, 2025",Customer 1287,customer1287@example.com,AUS,Beuaty,2.0,202.16,0.25,Gift Card,false
+ORD-20329,04/08/2026,Customer 1329,  customer1329@example.com ,USA,Electronic,2.0,18.09,0.07,PayPal,no
+ORD-20360,2025-06-17,Customer 1360,customer1360@example.com,United Kingdom,home and garden,1.0,117.63,0.12,Credit Card,No
+ORD-21088,2026-06-07,Customer 1188,customer1188@example.com,AUSTRALIA,,1.0,$14.99,0.28,Credit Card,true
+ORD-20433,02/04/2026,Customer 1433,,AUS, Apparel,4.0,$14.41,0.03,Debit Card,0
+ORD-21233,02/28/2025,Customer 1333,customer1333@example.com,United states,Apparel,4.0,$138.32,0.25,Credit Card,N
+ORD-20773,03/26/2025,Customer 1773,customer1773@example.com,United states,Electronics ,3.0,$63.69,0.1,PayPal,FALSE
+ORD-21391,"August 17, 2025",Customer 1491,customer1491@example.com,canada,Electronic,1.0,82.47,0.27,PayPal,No
+ORD-21596,2025-10-07,Customer 1696,customer1696@example.com,CA,Beauty,2.0,$208.65,,PayPal,No
+ORD-20371,"February 26, 2026",Customer 1371,customer1371@example.com,UK,sports,3.0,$101.78,0.0,Debit Card,0
+ORD-20731,"April 12, 2026",Customer 1731,customer1731@example.com,us,Appreal,1.0,195.1,0.21,Credit Card,No
+ORD-20998,18-May-2026,Customer 1098,customer1098@example.com,AUS,APPAREL,3.0,54.03,0.23,Debit Card,N
+ORD-21397,02/12/2026,Customer 1497,customer1497@example.com,australia,Beauty,1.0,$69.05,0.18,Credit Card,0
+ORD-20042,22-Jun-2026,Customer 1042,customer1042@example.com,U.K.,Home&Garden,2.0,$156.77,0.1,Debit Card,No
+ORD-21147,"May 10, 2026",Customer 1247,  customer1247@example.com ,AUSTRALIA,home and garden,2.0,$166.17,0.06,PayPal,no
+ORD-21425,07/20/2025,Customer 1525,customer1525@example.com,CANADA,Sport,1.0,51.01,0.29,Credit Card,false
+ORD-20430,06-Sep-2025,Customer 1430,customer1430@example.com,Australia,BEAUTY,1.0,194.29,0.24,Credit Card,N
+ORD-20599,"March 18, 2026",Customer 1599,customer1599@example.com,United states,,3.0,$180.48,0.29,PayPal,No
+ORD-21003,"October 29, 2025",Customer 1103,customer1103@example.com,germany,SPORTS,5.0,205.41,0.02,Gift Card,0
+ORD-21229,08/06/2026,Customer 1329,customer1329@example.com,GERMANY, Apparel,2.0,67.58,0.01,Debit Card,N
+ORD-20737,06/19/2025,Customer 1737,customer1737@example.com,germany,BEAUTY,5.0,135.49,0.12,Debit Card,false
+ORD-21080,2025-07-08,Customer 1180,customer1180@example.com,United Kingdom,Apparel,3.0,$94.35,0.07,Credit Card,false
+ORD-21151,"March 23, 2026",Customer 1251,customer1251@example.com,CANADA,Home & garden,3.0,111.46,0.15,Debit Card,FALSE
+ORD-21302,17-Jan-2026,Customer 1402,  customer1402@example.com ,United Kingdom,Beuaty,5.0,$113.60,0.09,PayPal,0
+ORD-20514,29-Jun-2026,Customer 1514,customer1514@example.com,germany,Beauty,4.0,$147.88,0.11,Debit Card,no
+ORD-20964,2026-04-17,Customer 1064,  customer1064@example.com ,england,Appreal,4.0,$205.66,0.22,Credit Card,false
+ORD-20671,"March 23, 2025",Customer 1671,customer1671@example.com,CA, Beauty,5.0,$178.34,0.18,Credit Card,no
+ORD-21071,"March 30, 2025",Customer 1171,customer1171@example.com,U.K.,Sport,5.0,152.64,0.27,PayPal,no
+ORD-20340,2025-12-06,Customer 1340,customer1340@example.com,Australia,sports,2.0,73.91,0.01,Debit Card,N
+ORD-20776,2026-05-06,Customer 1776,customer1776@example.com,United kingdom,BEAUTY,1.0,$198.91,0.13,Credit Card,FALSE
+ORD-20378,25-Apr-2026,Customer 1378,customer1378@example.com,Canada,Home&Garden,4.0,$124.22,0.25,Debit Card,false
+ORD-20616,2025-08-19,Customer 1616,  customer1616@example.com ,AUSTRALIA,apparel,2.0,163.14,0.2,Credit Card,false
+ORD-20604,2025-11-23,Customer 1604,  customer1604@example.com ,United States, Beauty,3.0,40.01,0.03,Gift Card,N
+ORD-20873,08/28/2025,Customer 1873,customer1873@example.com,CANADA,SPORTS,4.0,$59.19,0.01,PayPal,false
+ORD-20456,2026-05-05,Customer 1456,customer1456@example.com,CANADA,Sports ,5.0,110.86,0.25,PayPal,no
+ORD-20262,25-Jul-2026,Customer 1262,  customer1262@example.com ,Germany,Electronics ,5.0,117.38,1.73,Gift Card,false
+ORD-20363,"May 15, 2025",Customer 1363,  customer1363@example.com ,Germany, Beauty,1.0,134.57,0.21,Credit Card,N
+ORD-21454,13-Aug-2025,Customer 1554,customer1554@example.com,UK, Beauty,5.0,215.1,0.22,PayPal,N
+ORD-20508,2025-09-03,Customer 1508,  customer1508@example.com ,canada,apparel,1.0,$124.50,0.15,Credit Card,no
+ORD-21363,"April 08, 2025",Customer 1463,customer1463@example.com,england,Electronic,4.0,142.13,0.26,PayPal,N
+ORD-20558,31-May-2026,Customer 1558,customer1558@example.com,Germany, Apparel,4.0,46.9,0.02,,N
+ORD-20434,08-Feb-2026,Customer 1434,customer1434@example.com,U.S.A.,Electronics,2.0,$183.11,0.23,PayPal,false
+ORD-21028,2025-05-12,Customer 1128,customer1128@example.com,United States,BEAUTY,3.0,64.65,0.22,Gift Card,no
+ORD-20247,"June 07, 2025",Customer 1247,customer1247@example.com,england,BEAUTY,5.0,$134.96,0.12,PayPal,0
+ORD-21101,03/20/2025,Customer 1201,customer1201@example.com,GERMANY,sports,4.0,65.23,0.1,PayPal,No
+ORD-21206,27-Jan-2026,Customer 1306,customer1306@example.com,germany,Electronic,2.0,$193.54,0.17,Gift Card,N
+ORD-21523,"September 23, 2025",Customer 1623,customer1623@example.com,DE,sports,5.0,$21.98,0.27,Debit Card,no
+ORD-21084,2025-07-01,Customer 1184,customer1184@example.com,us,Home&Garden,2.0,172.28,0.1,Credit Card,1
+ORD-20164,2026-03-01,Customer 1164,  customer1164@example.com ,USA,Appreal,5.0,60.68,0.08,Credit Card,No
+ORD-20195,"April 27, 2026",Customer 1195,customer1195@example.com,USA,Apparel,5.0,$200.56,0.05,Credit Card,false
+ORD-20646,17-Jul-2026,Customer 1646,,CA,APPAREL,1.0,131.5,0.21,Debit Card,FALSE
+ORD-21027,"June 10, 2025",Customer 1127,  customer1127@example.com ,AUSTRALIA,sports,2.0,47.47,0.13,Debit Card,N
+ORD-21524,2025-09-12,Customer 1624,customer1624@example.com,england,Home & garden,2.0,$58.22,0.23,PayPal,FALSE
+ORD-20333,05/07/2026,Customer 1333,customer1333@example.com,australia,Sport,3.0,105.73,0.09,Credit Card,no
+ORD-21043,"March 23, 2026",Customer 1143,customer1143@example.com,United kingdom,sports,4.0,$131.30,0.07,Debit Card,yes
+ORD-21355,"July 18, 2026",Customer 1455,customer1455@example.com,U.S.A.,home and garden,5.0,125.22,0.18,Debit Card,0
+ORD-20609,08/06/2025,Customer 1609,customer1609@example.com,germany,Electronic,3.0,$86.34,,Gift Card,false
+ORD-21535,"December 12, 2025",Customer 1635,  customer1635@example.com ,AUS,Electronic,2.0,212.07,0.23,PayPal,No
+ORD-20026,05-Oct-2025,Customer 1026,customer1026@example.com,United states,SPORTS,5.0,$174.92,0.15,Credit Card,0
+ORD-21186,13-May-2026,Customer 1286,  customer1286@example.com ,United kingdom,Sports,5.0,25.33,0.02,Debit Card,0
+ORD-21582,02-Aug-2025,Customer 1682,  customer1682@example.com ,germany,ELECTRONICS,5.0,92.2,0.19,Credit Card,FALSE
+ORD-20612,2025-09-10,Customer 1612,customer1612@example.com,Australia,,1.0,$81.97,0.23,Gift Card,0
+ORD-21212,2025-08-02,Customer 1312,customer1312@example.com,U.K.,Home & garden,2.0,$219.51,0.27,Debit Card,false
+ORD-20397,11/03/2025,Customer 1397,customer1397@example.com,DE,beauty,2.0,$47.49,0.01,PayPal,0
+ORD-20271,"August 04, 2025",Customer 1271,customer1271@example.com,GERMANY,APPAREL,3.0,143.13,0.02,Credit Card,N
+ORD-20163,"April 27, 2026",Customer 1163,  customer1163@example.com ,United states,APPAREL,5.0,$14.64,0.21,Gift Card,0
+ORD-20288,2026-03-12,Customer 1288,customer1288@example.com,United kingdom,Electronics ,4.0,$122.95,0.25,Debit Card,false
+ORD-20847,"December 24, 2025",Customer 1847,,Canada,Beuaty,4.0,130.8,0.29,PayPal,N
+ORD-20500,2025-08-11,Customer 1500,customer1500@example.com,United Kingdom,Sports,4.0,$65.56,0.25,Credit Card,N
+ORD-21445,08/10/2026,Customer 1545,customer1545@example.com,United kingdom,Home & Garden,3.0,14.17,0.11,Debit Card,0
+ORD-20304,2026-04-02,Customer 1304,  customer1304@example.com ,GERMANY,Electronics ,4.0,$25.35,0.21,Debit Card,N
+ORD-20678,11-Dec-2025,Customer 1678,customer1678@example.com,United States,Home & Garden,3.0,$51.92,0.19,Credit Card,no
+ORD-21436,2026-07-14,Customer 1536,customer1536@example.com,canada,home and garden,5.0,211.44,0.16,Credit Card,FALSE
+ORD-20484,2026-02-11,Customer 1484,  customer1484@example.com ,Germany,Apparel,3.0,$181.80,0.16,Gift Card,N
+ORD-21319,"December 09, 2025",Customer 1419,customer1419@example.com,us,ELECTRONICS,2.0,$50.42,0.24,Gift Card,0
+ORD-20039,"October 16, 2025",Customer 1039,customer1039@example.com,AUS,Sports,1.0,152.9,0.18,Credit Card,no
+ORD-20043,"December 19, 2025",Customer 1043,customer1043@example.com,us,APPAREL,5.0,127.07,0.23,Gift Card,FALSE
+ORD-21125,07/12/2025,Customer 1225,customer1225@example.com,DE,Sports,1.0,205.26,0.09,Gift Card,No
+ORD-21286,12-Oct-2025,Customer 1386,  customer1386@example.com ,Canada,Beauty,5.0,$52.25,1.76,Gift Card,no
+ORD-20289,03/16/2025,Customer 1289,customer1289@example.com,America,ELECTRONICS,3.0,$46.74,0.18,PayPal,0
+ORD-20919,"December 18, 2025",Customer 1019,customer1019@example.com,australia, Beauty,4.0,$103.78,0.14,Debit Card,No
+ORD-20571,"September 28, 2025",Customer 1571,  customer1571@example.com ,england,electronics,4.0,$192.50,0.21,Gift Card,FALSE
+ORD-20243,"February 27, 2025",Customer 1243,  customer1243@example.com ,AUS,Sport,5.0,70.14,0.07,Gift Card,FALSE
+ORD-20798,07-Apr-2026,Customer 1798,customer1798@example.com,australia,Apparel,2.0,56.84,0.2,PayPal,FALSE
+ORD-21109,03/17/2026,Customer 1209,  customer1209@example.com ,United Kingdom,,5.0,63.59,0.09,PayPal,0
+ORD-20455,"March 23, 2026",Customer 1455,  customer1455@example.com ,CA,Appreal,4.0,73.27,0.17,PayPal,false
+ORD-20920,2025-12-12,Customer 1020,customer1020@example.com,United kingdom,Home&Garden,3.0,62.05,0.05,PayPal,No
+ORD-20702,14-Aug-2026,Customer 1702,customer1702@example.com,U.S.A.,Apparel,2.0,94.72,0.01,PayPal,FALSE
+ORD-20938,07-Mar-2026,Customer 1038,customer1038@example.com,USA,sports,4.0,175.1,0.27,Gift Card,false
+ORD-20815,"October 05, 2025",Customer 1815,customer1815@example.com,CANADA,Sport,3.0,23.59,0.06,Gift Card,N
+ORD-20856,2026-01-03,Customer 1856,customer1856@example.com,england,HOME & GARDEN,1.0,$43.53,0.27,Credit Card,no
+ORD-20985,01/21/2026,Customer 1085,  customer1085@example.com ,UK,ELECTRONICS,4.0,146.6,0.21,PayPal,false
+ORD-20867,"November 21, 2025",Customer 1867,customer1867@example.com,Australia,Sports ,2.0,172.51,0.21,PayPal,FALSE
+ORD-20477,05/09/2025,Customer 1477,customer1477@example.com,U.K.,Sports ,1.0,33.93,0.04,PayPal,FALSE
+ORD-20073,05/15/2026,Customer 1073,customer1073@example.com,england, Apparel,4.0,198.84,,Credit Card,Yes
+ORD-20151,"March 31, 2025",Customer 1151,customer1151@example.com,germany,Home & Garden,1.0,72.0,0.21,Gift Card,no
+ORD-21400,2025-07-15,Customer 1500,  customer1500@example.com ,GERMANY,Sport,1.0,$34.25,,PayPal,No
+ORD-21514,22-Jan-2026,Customer 1614,customer1614@example.com,,Apparel,1.0,100.04,,Credit Card,0
+ORD-20725,04/27/2026,Customer 1725,customer1725@example.com,AUSTRALIA,Home & garden,,28.85,0.13,Credit Card,0
+ORD-20489,12/01/2025,Customer 1489,customer1489@example.com,england,Home & Garden,2.0,188.51,0.03,Debit Card,FALSE
+ORD-20319,"March 07, 2026",Customer 1319,  customer1319@example.com ,canada,Electronic,2.0,98.23,0.28,Credit Card,FALSE
+ORD-21049,09/27/2025,Customer 1149,  customer1149@example.com ,CANADA,sports,3.0,125.48,0.06,Debit Card,0
+ORD-20148,2025-12-16,Customer 1148,customer1148@example.com,AUS,electronics,2.0,$118.29,0.16,PayPal,No
+ORD-20344,2025-07-21,Customer 1344,customer1344@example.com,UK,Electronic,1.0,127.81,1.51,Gift Card,false
+ORD-21023,"July 11, 2026",Customer 1123,customer1123@example.com,Germany,Electronics,4.0,60.64,0.04,Gift Card,false
+ORD-20831,"March 27, 2026",Customer 1831,customer1831@example.com,,Sports ,5.0,$127.30,0.19,Gift Card,FALSE
+ORD-21041,04/18/2025,Customer 1141,customer1141@example.com,australia,SPORTS,5.0,$103.49,0.25,Debit Card,0
+ORD-20480,2026-04-13,Customer 1480,customer1480@example.com,USA,HOME & GARDEN,3.0,$51.59,0.22,Gift Card,1
+ORD-20454,03-May-2026,Customer 1454,customer1454@example.com,AUS, Apparel,4.0,173.09,0.03,Debit Card,false
+ORD-20537,07/20/2026,Customer 1537,customer1537@example.com,germany,APPAREL,4.0,114.49,0.02,Credit Card,FALSE
+ORD-21477,02/16/2026,Customer 1577,customer1577@example.com,DE,APPAREL,4.0,122.26,0.22,PayPal,no
+ORD-20739,"September 01, 2025",Customer 1739,customer1739@example.com,UK,Appreal,1.0,$137.89,0.25,Debit Card,N
+ORD-20897,08/19/2026,Customer 1897,  customer1897@example.com ,australia,HOME & GARDEN,5.0,159.82,0.25,PayPal,N
+ORD-20937,08/02/2025,Customer 1037,customer1037@example.com,United kingdom,ELECTRONICS,4.0,159.91,0.11,Debit Card,Y
+ORD-20526,26-Apr-2026,Customer 1526,  customer1526@example.com ,U.K.,,5.0,57.25,0.17,PayPal,false
+ORD-21463,"August 16, 2025",Customer 1563,customer1563@example.com,CA,Beuaty,2.0,171.78,0.06,PayPal,no
+ORD-20909,12/24/2025,Customer 1009,  customer1009@example.com ,Germany, Beauty,2.0,139.32,0.17,Debit Card,No
+ORD-21123,"October 25, 2025",Customer 1223,customer1223@example.com,U.K.,HOME & GARDEN,1.0,$151.22,0.27,Debit Card,FALSE
+ORD-20177,05/11/2025,Customer 1177,customer1177@example.com,CANADA,apparel,2.0,$148.32,0.05,Debit Card,0
+ORD-21500,2026-08-10,Customer 1600,  customer1600@example.com ,U.S.A.,Appreal,4.0,$163.84,0.18,Credit Card,1
+ORD-20982,03-May-2025,Customer 1082,customer1082@example.com,DE,Electronics ,1.0,38.3,0.2,PayPal,false
+ORD-20793,03/04/2025,Customer 1793,customer1793@example.com,us,Electronics,2.0,9.9,0.29,Credit Card,N
+ORD-20724,2026-02-05,Customer 1724,customer1724@example.com,USA,home and garden,1.0,112.59,0.24,PayPal,false
+ORD-20346,15-Apr-2025,Customer 1346,customer1346@example.com,GERMANY,Beauty,1.0,51.2,0.05,Gift Card,no
+ORD-20933,08/15/2025,Customer 1033,customer1033@example.com,U.S.A.,Appreal,3.0,$193.60,0.28,Gift Card,0
+ORD-21161,05/28/2025,Customer 1261,customer1261@example.com,U.K.,Beuaty,1.0,115.22,0.16,PayPal,FALSE
+ORD-20128,2025-06-06,Customer 1128,customer1128@example.com,United States, Beauty,1.0,$214.89,0.21,Debit Card,yes
+ORD-20700,2025-04-21,Customer 1700,  customer1700@example.com ,germany,Sport,3.0,180.53,0.15,Gift Card,No
+ORD-20822,02-Apr-2026,Customer 1822,customer1822@example.com,GERMANY,Apparel,3.0,$110.40,0.18,Credit Card,No
+ORD-21178,12-Jul-2025,Customer 1278,  customer1278@example.com ,canada,Home & Garden,2.0,$11.51,0.15,Gift Card,N
+ORD-21303,"September 14, 2025",Customer 1403,customer1403@example.com,U.K.,sports,5.0,$119.36,0.14,Credit Card,No
+ORD-20505,06/19/2025,Customer 1505,customer1505@example.com,england,Home & garden,1.0,$82.07,0.07,Gift Card,0
+ORD-21343,"September 28, 2025",Customer 1443,  customer1443@example.com ,Canada,APPAREL,1.0,38.03,0.04,Gift Card,0
+ORD-20556,2026-03-24,Customer 1556,  customer1556@example.com ,CANADA,apparel,1.0,148.06,0.08,Gift Card,no
+ORD-20331,"May 15, 2025",Customer 1331,,us,SPORTS,3.0,$123.52,0.03,PayPal,FALSE
+ORD-20194,05-Jun-2025,Customer 1194,customer1194@example.com,United states, Apparel,2.0,73.45,0.25,Debit Card,0
+ORD-20872,2026-05-15,Customer 1872,  customer1872@example.com ,germany,BEAUTY,4.0,207.5,0.0,PayPal,false
+ORD-20536,2025-08-24,Customer 1536,customer1536@example.com,AUS,Beauty,2.0,195.01,0.2,PayPal,0
+ORD-20086,09-Oct-2025,Customer 1086,customer1086@example.com,United kingdom,Electronics ,1.0,52.75,0.19,PayPal,0
+ORD-20752,2025-12-21,Customer 1752,  customer1752@example.com ,england,Sport,1.0,164.15,0.21,Credit Card,No
+ORD-20535,"April 22, 2026",Customer 1535,customer1535@example.com,AUS,Sports,5.0,$110.97,0.03,Credit Card,false
+ORD-21227,"July 27, 2026",Customer 1327,customer1327@example.com,United kingdom, Beauty,5.0,$27.61,0.27,Credit Card,Y
+ORD-20892,2026-04-01,Customer 1892,customer1892@example.com,United Kingdom,Electronic,5.0,217.84,0.06,Credit Card,false
+ORD-20903,"September 27, 2025",Customer 1003,customer1003@example.com,USA,BEAUTY,4.0,175.27,0.25,PayPal,N
+ORD-20482,23-Oct-2025,Customer 1482,customer1482@example.com,CANADA,Sports,,85.33,0.29,Gift Card,TRUE
+ORD-20216,2025-12-22,Customer 1216,customer1216@example.com,Germany,home and garden,1.0,205.87,0.14,PayPal,No
+ORD-20427,"June 06, 2025",Customer 1427,  customer1427@example.com ,,beauty,3.0,58.38,0.29,Credit Card,N
+ORD-20104,2025-12-10,Customer 1104,customer1104@example.com,,HOME & GARDEN,5.0,133.54,0.11,Credit Card,N
+ORD-20577,09/19/2025,Customer 1577,customer1577@example.com,DE,SPORTS,3.0,36.69,0.26,PayPal,0
+ORD-20544,2025-07-08,Customer 1544,customer1544@example.com,AUSTRALIA,BEAUTY,4.0,180.06,0.18,PayPal,No
+ORD-20918,20-Oct-2025,Customer 1018,  customer1018@example.com ,australia,HOME & GARDEN,5.0,212.97,0.28,Gift Card,false
+ORD-20748,2026-03-03,Customer 1748,  customer1748@example.com ,Germany,Electronics,,165.63,0.21,Gift Card,N
+ORD-21168,2025-12-24,Customer 1268,customer1268@example.com,USA, Apparel,1.0,55.31,0.28,Gift Card,0
+ORD-20907,"March 08, 2025",Customer 1007,customer1007@example.com,canada,Electronics ,2.0,33.37,0.24,Credit Card,no
+ORD-21225,09/15/2025,Customer 1325,customer1325@example.com,australia,Appreal,5.0,$111.06,0.27,Credit Card,No
+ORD-21223,"September 04, 2025",Customer 1323,,UK, Beauty,1.0,204.71,0.29,Credit Card,no
+ORD-21388,2026-06-25,Customer 1488,  customer1488@example.com ,United Kingdom,Home&Garden,1.0,95.08,0.21,Credit Card,N
+ORD-20864,2026-03-19,Customer 1864,customer1864@example.com,canada,home and garden,1.0,42.27,0.01,PayPal,no
+ORD-20497,03/18/2026,Customer 1497,customer1497@example.com,CANADA,sports,1.0,$143.27,0.13,Credit Card,No
+ORD-20915,"April 06, 2026",Customer 1015,customer1015@example.com,United States,APPAREL,5.0,$63.99,0.06,Gift Card,FALSE
+ORD-21216,2026-07-11,Customer 1316,customer1316@example.com,UK,Electronics,3.0,142.07,1.89,Debit Card,FALSE
+ORD-20519,"April 12, 2025",Customer 1519,  customer1519@example.com ,AUS,Home & garden,5.0,$55.08,0.07,PayPal,false
+ORD-20189,05/29/2026,Customer 1189,customer1189@example.com,United Kingdom,ELECTRONICS,3.0,56.96,0.07,Credit Card,no
+ORD-20044,2026-06-08,Customer 1044,customer1044@example.com,GERMANY,SPORTS,5.0,$110.98,0.14,Debit Card,No
+ORD-20789,11/06/2025,Customer 1789,customer1789@example.com,CANADA,Sports,5.0,25.01,0.02,Credit Card,FALSE
+ORD-20202,12-Aug-2026,Customer 1202,customer1202@example.com,GERMANY,Home&Garden,1.0,$171.84,0.3,Gift Card,false
+ORD-20631,"May 22, 2025",Customer 1631,customer1631@example.com,,electronics,3.0,39.3,0.24,Debit Card,0
+ORD-21432,2026-04-04,Customer 1532,  customer1532@example.com ,United states,Sport,1.0,99.42,0.25,Credit Card,N
+ORD-21441,12/24/2025,Customer 1541,customer1541@example.com,GERMANY,Beuaty,1.0,11.77,0.15,Gift Card,0
+ORD-21193,06/06/2025,Customer 1293,customer1293@example.com,germany,Home & Garden,4.0,151.98,0.11,,0
+ORD-20353,11/17/2025,Customer 1353,  customer1353@example.com ,United Kingdom,Sports,1.0,$20.59,0.3,Credit Card,No
+ORD-20066,13-Nov-2025,Customer 1066,,australia,beauty,5.0,179.64,0.14,Gift Card,FALSE
+ORD-20810,02-Apr-2026,Customer 1810,customer1810@example.com,australia,Electronics ,2.0,$29.19,0.08,Gift Card,No
+ORD-21560,2025-04-25,Customer 1660,  customer1660@example.com ,GERMANY,APPAREL,4.0,54.34,0.05,PayPal,Yes
+ORD-21317,01/02/2026,Customer 1417,  customer1417@example.com ,CANADA,Electronic,2.0,85.97,0.2,Credit Card,false
+ORD-20993,10/22/2025,Customer 1093,customer1093@example.com,United Kingdom,Home & Garden,5.0,170.9,0.2,Debit Card,0
+ORD-20384,2025-08-18,Customer 1384,customer1384@example.com,canada,Apparel,3.0,191.82,0.28,Credit Card,0
+ORD-20046,03-May-2026,Customer 1046,  customer1046@example.com ,United Kingdom,apparel,1.0,$103.76,0.28,Debit Card,no
+ORD-21292,2025-11-22,Customer 1392,customer1392@example.com,CA,home and garden,3.0,$45.98,0.08,PayPal,No
+ORD-21138,14-Apr-2026,Customer 1238,  customer1238@example.com ,england,HOME & GARDEN,4.0,$23.28,0.14,PayPal,false
+ORD-20719,"October 28, 2025",Customer 1719,  customer1719@example.com ,Australia,Beauty,3.0,66.58,0.02,Credit Card,0
+ORD-20863,"May 16, 2025",Customer 1863,customer1863@example.com,U.K.,ELECTRONICS,1.0,$106.03,0.04,Debit Card,false
+ORD-21483,"November 28, 2025",Customer 1583,customer1583@example.com,Germany,Home & Garden,5.0,$30.88,0.01,Gift Card,No
+ORD-20083,"October 01, 2025",Customer 1083,  customer1083@example.com ,UK,Electronic,4.0,173.81,0.03,Credit Card,no
+ORD-21493,07/27/2025,Customer 1593,customer1593@example.com,GERMANY,Electronic,4.0,$24.39,0.04,Gift Card,FALSE
+ORD-21239,"January 06, 2026",Customer 1339,customer1339@example.com,U.K.,Sport,1.0,$166.44,0.24,Gift Card,0
+ORD-21016,2025-05-02,Customer 1116,  customer1116@example.com ,U.K.,Electronics ,1.0,33.7,0.3,Credit Card,yes
+ORD-20904,2025-08-19,Customer 1004,customer1004@example.com,us,electronics,1.0,38.41,0.22,Debit Card,No
+ORD-20893,01/21/2026,Customer 1893,customer1893@example.com,CANADA,electronics,2.0,$217.28,0.16,Debit Card,No
+ORD-20551,"August 31, 2025",Customer 1551,customer1551@example.com,australia,Appreal,2.0,$196.76,0.23,PayPal,No
+ORD-20775,"January 17, 2026",Customer 1775,customer1775@example.com,United states,home and garden,1.0,49.3,0.15,PayPal,Yes
+ORD-21111,"October 11, 2025",Customer 1211,  customer1211@example.com ,,BEAUTY,4.0,210.0,0.25,Credit Card,no
+ORD-21577,11/30/2025,Customer 1677,customer1677@example.com,United Kingdom,Home & garden,3.0,$76.71,0.28,Credit Card,false
+ORD-20836,2026-04-20,Customer 1836,customer1836@example.com,United Kingdom, Apparel,1.0,$8.14,0.07,Gift Card,Y
+ORD-20464,2025-08-20,Customer 1464,customer1464@example.com,,apparel,3.0,76.34,0.09,Gift Card,0
+ORD-21217,09/09/2025,Customer 1317,customer1317@example.com,AUS,Electronic,4.0,62.09,0.04,Gift Card,false
+ORD-20067,"January 24, 2026",Customer 1067,  customer1067@example.com ,United States,apparel,3.0,197.47,0.07,Debit Card,0
+ORD-20908,2025-11-08,Customer 1008,  customer1008@example.com ,United states,home and garden,5.0,49.03,0.21,Credit Card,FALSE
+ORD-20025,10/13/2025,Customer 1025,customer1025@example.com,germany,Electronics,4.0,32.61,0.11,Gift Card,no
+ORD-21065,10/14/2025,Customer 1165,  customer1165@example.com ,United Kingdom,SPORTS,5.0,49.97,0.15,Debit Card,no
+ORD-21507,"August 13, 2026",Customer 1607,  customer1607@example.com ,germany,Appreal,2.0,$104.34,0.28,Gift Card,false
+ORD-21331,"February 19, 2026",Customer 1431,customer1431@example.com,Australia, Apparel,2.0,$219.12,0.14,Credit Card,0
+ORD-20245,04/04/2025,Customer 1245,customer1245@example.com,UK,sports,4.0,$171.83,0.12,Gift Card,FALSE
+ORD-20221,09/03/2025,Customer 1221,  customer1221@example.com ,United kingdom,Sports ,1.0,$78.31,0.17,Gift Card,N
+ORD-20784,2025-03-28,Customer 1784,customer1784@example.com,canada,Home & Garden,5.0,146.28,0.27,Gift Card,N
+ORD-21556,2026-01-27,Customer 1656,  customer1656@example.com ,America, Beauty,5.0,25.52,0.25,Gift Card,FALSE
+ORD-20184,2025-03-05,Customer 1184,customer1184@example.com,AUSTRALIA,home and garden,2.0,36.49,0.29,Gift Card,No
+ORD-20253,03/15/2025,Customer 1253,customer1253@example.com,CA,APPAREL,2.0,$158.99,0.0,Gift Card,Y
+ORD-21515,"June 12, 2025",Customer 1615,  customer1615@example.com ,,electronics,5.0,105.12,0.1,Gift Card,FALSE
+ORD-20824,2025-10-24,Customer 1824,customer1824@example.com,england,apparel,4.0,33.95,0.1,Gift Card,No
+ORD-20225,07/25/2026,Customer 1225,  customer1225@example.com ,CA,BEAUTY,5.0,$194.82,0.17,Credit Card,true
+ORD-20572,2025-09-12,Customer 1572,customer1572@example.com,AUS,apparel,3.0,31.01,0.02,Debit Card,no
+ORD-20949,04/03/2025,Customer 1049,customer1049@example.com,DE,electronics,5.0,$145.06,0.01,Debit Card,false
+ORD-21509,07/04/2026,Customer 1609,  customer1609@example.com ,Australia,BEAUTY,2.0,$179.11,0.12,Debit Card,N
+ORD-20786,06-Aug-2026,Customer 1786,customer1786@example.com,CANADA,Home & garden,1.0,$170.91,0.15,Debit Card,true
+ORD-20694,15-Apr-2025,Customer 1694,customer1694@example.com,CA,Appreal,2.0,$215.22,0.25,Credit Card,FALSE
+ORD-20837,07/03/2026,Customer 1837,customer1837@example.com,australia, Beauty,2.0,$174.71,0.06,Credit Card,no
+ORD-20610,14-Mar-2025,Customer 1610,customer1610@example.com,AUS,Beuaty,2.0,$101.29,0.2,,No
+ORD-21218,04-Aug-2025,Customer 1318,customer1318@example.com,United states,APPAREL,3.0,203.8,0.22,Gift Card,no
+ORD-20388,2026-07-16,Customer 1388,customer1388@example.com,United States,Appreal,3.0,39.9,0.07,Gift Card,no
+ORD-20386,01-Sep-2025,Customer 1386,,germany,electronics,3.0,$11.27,0.25,Credit Card,FALSE
+ORD-20259,"February 27, 2026",Customer 1259,  customer1259@example.com ,, Beauty,1.0,61.8,0.11,PayPal,N
+ORD-20316,2025-07-22,Customer 1316,,Canada,Home&Garden,2.0,153.33,0.16,Credit Card,N
+ORD-20181,08/25/2025,Customer 1181,customer1181@example.com,AUSTRALIA,Sport,2.0,180.1,0.2,PayPal,FALSE
+ORD-20605,04/28/2025,Customer 1605,customer1605@example.com,england,Apparel,1.0,191.12,0.15,Gift Card,FALSE
+ORD-21323,"December 29, 2025",Customer 1423,  customer1423@example.com ,australia,Electronics,2.0,122.58,0.04,Debit Card,no
+ORD-20550,03-Dec-2025,Customer 1550,  customer1550@example.com ,United Kingdom,SPORTS,5.0,$93.14,0.01,Credit Card,N
+ORD-20092,2026-01-21,Customer 1092,customer1092@example.com,GERMANY,APPAREL,2.0,65.14,0.28,Gift Card,false
+ORD-21035,"June 17, 2025",Customer 1135,customer1135@example.com,USA,Home&Garden,4.0,117.84,0.14,PayPal,false
+ORD-21254,29-Mar-2025,Customer 1354,customer1354@example.com,United states,HOME & GARDEN,2.0,43.1,0.0,Debit Card,false
+ORD-21306,07-Jul-2026,Customer 1406,customer1406@example.com,canada, Beauty,5.0,$80.62,0.19,Credit Card,TRUE
+ORD-21074,08-Apr-2026,Customer 1174,  customer1174@example.com ,CANADA,apparel,4.0,$59.49,0.26,Debit Card,no
+ORD-21030,21-Dec-2025,Customer 1130,,United States,sports,2.0,$204.94,0.3,Gift Card,0
+ORD-20584,2025-09-22,Customer 1584,  customer1584@example.com ,CANADA,Electronics,5.0,81.42,0.19,Debit Card,no
+ORD-20689,07/30/2026,Customer 1689,customer1689@example.com,Canada,APPAREL,3.0,12.84,0.05,Gift Card,false
+ORD-21501,06/21/2026,Customer 1601,customer1601@example.com,United kingdom,Apparel,5.0,40.76,0.21,PayPal,No
+ORD-20317,03/04/2025,Customer 1317,customer1317@example.com,GERMANY,BEAUTY,5.0,$128.06,0.09,PayPal,FALSE
+ORD-21228,2025-11-10,Customer 1328,customer1328@example.com,CA,Electronics,5.0,38.07,0.07,Gift Card,FALSE
+ORD-20576,2025-12-17,Customer 1576,customer1576@example.com,australia,Electronics ,1.0,$148.22,0.14,Gift Card,yes
+ORD-20294,05-Mar-2025,Customer 1294,  customer1294@example.com ,America,Apparel,2.0,$167.29,0.02,Gift Card,TRUE
+ORD-20926,07-May-2025,Customer 1026,customer1026@example.com,GERMANY,BEAUTY,2.0,163.78,0.16,PayPal,no
+ORD-21201,12/24/2025,Customer 1301,customer1301@example.com,australia,Beauty,3.0,161.67,0.27,Debit Card,No
+ORD-20060,2025-08-25,Customer 1060,  customer1060@example.com ,America,Apparel,1.0,102.9,0.07,PayPal,no
+ORD-20606,06-Mar-2025,Customer 1606,customer1606@example.com,CANADA,Sports ,3.0,178.39,0.13,PayPal,no
+ORD-20250,14-May-2026,Customer 1250,customer1250@example.com,U.K.,electronics,5.0,$47.35,0.26,PayPal,N
+ORD-21551,"November 09, 2025",Customer 1651,customer1651@example.com,America,Home&Garden,2.0,111.09,0.08,Debit Card,false
+ORD-21482,01-Aug-2026,Customer 1582,,CANADA,electronics,3.0,127.83,0.25,Debit Card,false
+ORD-20277,07/15/2025,Customer 1277,  customer1277@example.com ,germany,apparel,4.0,35.07,0.13,PayPal,Yes
+ORD-20597,12/21/2025,Customer 1597,customer1597@example.com,U.S.A., Apparel,1.0,21.52,0.02,PayPal,0
+ORD-20038,05-Jan-2026,Customer 1038,customer1038@example.com,Australia,Home & Garden,2.0,19.04,0.01,PayPal,false
+ORD-20673,07/06/2025,Customer 1673,customer1673@example.com,United Kingdom,Home & Garden,4.0,193.13,0.11,Gift Card,No
+ORD-20941,09/09/2025,Customer 1041,customer1041@example.com,CA,beauty,5.0,20.89,0.06,,No
+ORD-20077,07/25/2025,Customer 1077,customer1077@example.com,Canada,Appreal,3.0,$70.86,0.18,Credit Card,No
+ORD-20287,"June 17, 2026",Customer 1287,customer1287@example.com,canada,Electronics ,2.0,184.73,0.01,Credit Card,no
+ORD-20291,"September 22, 2025",Customer 1291,customer1291@example.com,australia, Apparel,2.0,$55.14,0.03,Credit Card,FALSE
+ORD-20569,04/20/2026,Customer 1569,customer1569@example.com,United Kingdom,APPAREL,4.0,$35.87,0.14,Gift Card,no
+ORD-21454,13-Aug-2025,Customer 1554,customer1554@example.com,UK, Beauty,5.0,215.1,0.22,PayPal,N
+ORD-20352,2026-05-03,Customer 1352,customer1352@example.com,United Kingdom,beauty,1.0,122.16,0.1,Gift Card,no
+ORD-21251,"May 29, 2025",Customer 1351,customer1351@example.com,United States,Home & Garden,1.0,$127.10,0.07,Debit Card,no
+ORD-21415,"October 12, 2025",Customer 1515,  customer1515@example.com ,CA,Sports ,5.0,130.72,0.1,PayPal,FALSE
+ORD-21207,"February 07, 2026",Customer 1307,customer1307@example.com,United kingdom,Home & Garden,3.0,$79.82,0.29,Debit Card,No
+ORD-21018,02-May-2026,Customer 1118,customer1118@example.com,AUS,HOME & GARDEN,1.0,17.91,0.2,Gift Card,FALSE
+ORD-21406,20-Feb-2026,Customer 1506,  customer1506@example.com ,Australia,Electronic,3.0,$159.63,0.01,Gift Card,yes
+ORD-20031,"July 09, 2026",Customer 1031,customer1031@example.com,germany,Sport,5.0,128.72,0.03,PayPal,0
+ORD-20553,10/27/2025,Customer 1553,  customer1553@example.com ,Canada,Electronics ,1.0,47.79,0.05,PayPal,0
+ORD-20757,07/17/2025,Customer 1757,customer1757@example.com,england, Apparel,1.0,47.35,0.25,Credit Card,No
+ORD-20172,2025-07-28,Customer 1172,customer1172@example.com,United States,Sport,4.0,161.6,0.21,Gift Card,no
+ORD-21336,2025-08-17,Customer 1436,customer1436@example.com,United States,electronics,4.0,14.14,0.19,Debit Card,Y
+ORD-20095,"April 23, 2025",Customer 1095,customer1095@example.com,australia,Home & Garden,2.0,8.31,0.03,Credit Card,FALSE
+ORD-20069,04/01/2026,Customer 1069,customer1069@example.com,australia,ELECTRONICS,3.0,$12.04,0.19,Gift Card,1
+ORD-20348,2025-03-23,Customer 1348,customer1348@example.com,Canada,ELECTRONICS,4.0,188.97,0.26,Gift Card,FALSE
+ORD-21431,"June 18, 2025",Customer 1531,customer1531@example.com,germany,Home & garden,3.0,194.41,0.16,Credit Card,FALSE
+ORD-21145,05/03/2026,Customer 1245,  customer1245@example.com ,GERMANY, Apparel,3.0,$15.48,0.1,Gift Card,no
+ORD-20354,18-Oct-2025,Customer 1354,  customer1354@example.com ,australia,Sports ,1.0,$22.39,0.26,Credit Card,0
+ORD-20906,19-Aug-2026,Customer 1006,  customer1006@example.com ,GERMANY,Beauty,5.0,18.51,0.29,Debit Card,No
+ORD-21005,11/03/2025,Customer 1105,customer1105@example.com,AUS,APPAREL,3.0,147.24,0.18,Credit Card,N
+ORD-21219,"July 14, 2025",Customer 1319,customer1319@example.com,CA,Home & garden,1.0,$165.39,0.05,Gift Card,no
+ORD-20326,09-Jun-2025,Customer 1326,customer1326@example.com,UK,Beauty,1.0,78.77,0.01,Credit Card,false
+ORD-20005,07/17/2025,Customer 1005,customer1005@example.com,CA,Home&Garden,1.0,$119.87,0.06,PayPal,N
+ORD-20971,"June 23, 2025",Customer 1071,customer1071@example.com,AUSTRALIA,HOME & GARDEN,5.0,153.36,0.27,Gift Card,FALSE
+ORD-20298,03-May-2025,Customer 1298,customer1298@example.com,Germany,Beauty,2.0,214.16,0.03,Debit Card,no
+ORD-21174,01-Mar-2026,Customer 1274,customer1274@example.com,Australia,SPORTS,1.0,171.86,0.23,Debit Card,Yes
+ORD-20762,13-Jun-2026,Customer 1762,customer1762@example.com,United kingdom,sports,1.0,$211.02,0.05,Credit Card,false
+ORD-20968,2026-07-04,Customer 1068,customer1068@example.com,GERMANY,electronics,1.0,28.25,0.28,Debit Card,TRUE
+ORD-20552,2026-05-02,Customer 1552,customer1552@example.com,CANADA,home and garden,5.0,158.42,0.27,PayPal,N
+ORD-20802,10-Mar-2025,Customer 1802,customer1802@example.com,U.S.A.,Appreal,3.0,$121.40,0.21,PayPal,no
+ORD-20654,18-Jul-2026,Customer 1654,customer1654@example.com,UK,Home&Garden,1.0,$77.10,0.27,Credit Card,N
+ORD-21031,"March 16, 2026",Customer 1131,  customer1131@example.com ,CA,Appreal,2.0,50.83,0.03,PayPal,no
+ORD-20144,2025-08-29,Customer 1144,customer1144@example.com,United kingdom,Electronics,2.0,$94.50,0.14,Debit Card,N
+ORD-21183,"September 06, 2025",Customer 1283,customer1283@example.com,england,HOME & GARDEN,5.0,$208.49,0.04,PayPal,No
+ORD-20881,06/13/2025,Customer 1881,customer1881@example.com,GERMANY,sports,4.0,13.84,0.15,Credit Card,N
+ORD-20296,2026-03-10,Customer 1296,  customer1296@example.com ,America,Appreal,1.0,$41.08,0.02,Debit Card,No
+ORD-21033,04/21/2025,Customer 1133,customer1133@example.com,DE,HOME & GARDEN,2.0,$25.04,0.19,Credit Card,false
+ORD-20826,06-Jun-2026,Customer 1826,customer1826@example.com,CANADA,ELECTRONICS,3.0,183.03,0.18,Credit Card,FALSE
+ORD-20670,16-Aug-2025,Customer 1670,customer1670@example.com,GERMANY,Apparel,3.0,$56.37,0.1,PayPal,FALSE
+ORD-21282,16-May-2026,Customer 1382,customer1382@example.com,canada,SPORTS,5.0,148.51,0.2,Credit Card,0
+ORD-20880,2025-07-03,Customer 1880,  customer1880@example.com ,AUSTRALIA,Electronics ,4.0,34.42,0.23,PayPal,FALSE
+ORD-20952,2026-02-22,Customer 1052,customer1052@example.com,Australia,Appreal,3.0,87.25,0.15,Credit Card,No
+ORD-21321,03/11/2025,Customer 1421,customer1421@example.com,germany,,5.0,$198.70,0.06,Gift Card,no
+ORD-20660,2026-03-26,Customer 1660,customer1660@example.com,United Kingdom,apparel,4.0,84.76,0.04,Debit Card,FALSE
+ORD-20327,"May 14, 2025",Customer 1327,customer1327@example.com,United States,Home & Garden,2.0,$179.79,0.23,Gift Card,no
+ORD-20942,23-Mar-2026,Customer 1042,customer1042@example.com,australia,Sports ,5.0,$39.26,0.08,PayPal,no
+ORD-20823,"November 21, 2025",Customer 1823,customer1823@example.com,DE,Home & garden,1.0,$91.19,0.27,Credit Card,no
+ORD-21548,2026-03-25,Customer 1648,  customer1648@example.com ,USA,HOME & GARDEN,1.0,$149.52,0.02,PayPal,No
+ORD-21330,14-Oct-2025,Customer 1430,customer1430@example.com,germany,electronics,2.0,172.07,0.26,Gift Card,false
+ORD-21529,11/05/2025,Customer 1629,customer1629@example.com,australia,home and garden,2.0,47.58,0.21,PayPal,FALSE
+ORD-21312,2025-04-13,Customer 1412,customer1412@example.com,U.K.,,3.0,$16.97,0.24,PayPal,N
+ORD-20770,02-Mar-2026,Customer 1770,  customer1770@example.com ,,Electronics ,3.0,70.34,0.17,PayPal,yes
+ORD-20155,"July 01, 2025",Customer 1155,customer1155@example.com,United states,Electronics ,4.0,88.75,0.06,Debit Card,0
+ORD-20954,31-May-2025,Customer 1054,  customer1054@example.com ,CA,Sports,2.0,$123.31,0.23,Gift Card,FALSE
+ORD-20405,07/11/2025,Customer 1405,  customer1405@example.com ,UK,beauty,4.0,$193.90,0.11,Gift Card,N
+ORD-21407,"June 13, 2025",Customer 1507,customer1507@example.com,CA,Sports ,3.0,8.13,0.17,Debit Card,FALSE
+ORD-20910,24-Sep-2025,Customer 1010,customer1010@example.com,U.K.,Apparel,4.0,$173.65,0.04,PayPal,No
+ORD-20057,06/09/2025,Customer 1057,customer1057@example.com,United Kingdom,Electronics ,5.0,185.04,0.24,Credit Card,no
+ORD-20121,02/25/2026,Customer 1121,  customer1121@example.com ,AUS,Home&Garden,5.0,$198.51,0.21,Credit Card,false
+ORD-21245,08/09/2025,Customer 1345,  customer1345@example.com ,australia,Home & Garden,2.0,156.33,0.0,Gift Card,FALSE
+ORD-20625,03/18/2025,Customer 1625,customer1625@example.com,AUSTRALIA,Home & garden,4.0,$122.12,0.27,Debit Card,Y
+ORD-20488,2025-10-22,Customer 1488,  customer1488@example.com ,england,sports,1.0,67.44,0.19,Credit Card,no
+ORD-21550,15-Nov-2025,Customer 1650,customer1650@example.com,Germany,home and garden,5.0,$31.18,0.22,PayPal,No
+ORD-21380,2025-06-08,Customer 1480,customer1480@example.com,America,Sport,,$205.64,0.23,Credit Card,0
+ORD-20222,01-Nov-2025,Customer 1222,customer1222@example.com,Australia,Electronics ,3.0,174.6,0.08,PayPal,0
+ORD-20736,2025-04-09,Customer 1736,  customer1736@example.com ,CANADA,home and garden,3.0,25.9,,Debit Card,FALSE
+ORD-21163,"August 04, 2026",Customer 1263,customer1263@example.com,Australia,Beuaty,3.0,$85.79,0.16,Credit Card,no
+ORD-21098,26-Jan-2026,Customer 1198,customer1198@example.com,America,Home & Garden,2.0,$218.69,0.23,Credit Card,false
+ORD-21364,2026-05-13,Customer 1464,  customer1464@example.com ,Australia,BEAUTY,1.0,49.25,0.16,PayPal,No
+ORD-21038,25-Aug-2025,Customer 1138,  customer1138@example.com ,America,SPORTS,1.0,129.14,0.06,PayPal,No
+ORD-21032,2025-10-17,Customer 1132,customer1132@example.com,Australia,beauty,3.0,$44.01,0.24,Gift Card,0
+ORD-21171,"March 18, 2026",Customer 1271,  customer1271@example.com ,Canada,Home & Garden,3.0,44.98,0.06,Gift Card,N
+ORD-20016,2026-06-24,Customer 1016,customer1016@example.com,Germany,Apparel,2.0,192.23,0.13,,FALSE
+ORD-20814,09-Mar-2025,Customer 1814,customer1814@example.com,CA,Beauty,5.0,145.48,0.27,Gift Card,No
+ORD-20641,05/26/2026,Customer 1641,customer1641@example.com,germany,beauty,1.0,166.02,0.15,Debit Card,FALSE
+ORD-20691,"December 26, 2025",Customer 1691,customer1691@example.com,, Beauty,1.0,187.96,0.18,Gift Card,false
+ORD-21279,"January 09, 2026",Customer 1379,  customer1379@example.com ,United Kingdom,Electronics ,5.0,130.39,0.24,Gift Card,0
+ORD-20422,04-May-2025,Customer 1422,customer1422@example.com,germany, Apparel,3.0,125.74,0.23,PayPal,N
+ORD-20851,"September 02, 2025",Customer 1851,  customer1851@example.com ,Canada,Sports ,2.0,94.26,0.23,Credit Card,false
+ORD-20871,"August 16, 2026",Customer 1871,customer1871@example.com,canada,Sports,4.0,201.12,0.2,Credit Card,no
+ORD-21257,11/03/2025,Customer 1357,customer1357@example.com,AUS,ELECTRONICS,4.0,116.7,0.29,Gift Card,Yes
+ORD-20995,"March 08, 2025",Customer 1095,  customer1095@example.com ,GERMANY,Home & garden,2.0,$20.11,0.19,PayPal,FALSE
+ORD-20315,"April 02, 2025",Customer 1315,  customer1315@example.com ,australia,Electronics,3.0,$19.77,0.09,Gift Card,0
+ORD-20713,01/13/2026,Customer 1713,  customer1713@example.com ,GERMANY,ELECTRONICS,4.0,17.29,0.17,Gift Card,No
+ORD-20662,10-Aug-2025,Customer 1662,customer1662@example.com,United Kingdom,Sport,2.0,$161.07,0.23,Credit Card,false
+ORD-20896,2025-06-10,Customer 1896,customer1896@example.com,United Kingdom,APPAREL,2.0,$188.43,,Credit Card,no
+ORD-20365,01/07/2026,Customer 1365,customer1365@example.com,england,ELECTRONICS,3.0,31.54,0.18,Debit Card,No
+ORD-20695,"March 29, 2026",Customer 1695,customer1695@example.com,DE,Electronic,3.0,$209.60,0.2,PayPal,false
+ORD-21294,25-Aug-2025,Customer 1394,customer1394@example.com,CANADA,home and garden,1.0,185.45,0.12,Credit Card,N
+ORD-21185,07/31/2025,Customer 1285,customer1285@example.com,canada,Sport,1.0,$118.06,,PayPal,N
+ORD-20377,03/17/2025,Customer 1377,customer1377@example.com,canada,Beauty,3.0,$124.14,0.01,Debit Card,0
+ORD-20372,2025-09-09,Customer 1372,customer1372@example.com,Canada,HOME & GARDEN,1.0,$12.18,0.04,PayPal,N
+ORD-21554,26-Mar-2026,Customer 1654,customer1654@example.com,United States,Appreal,5.0,12.09,0.06,Debit Card,N
+ORD-20664,2025-06-13,Customer 1664,customer1664@example.com,UK,HOME & GARDEN,2.0,89.33,0.16,Debit Card,true
+ORD-20788,2026-01-29,Customer 1788,customer1788@example.com,AUS,HOME & GARDEN,5.0,$72.91,0.01,Debit Card,No
+ORD-21552,2025-10-20,Customer 1652,  customer1652@example.com ,United states,Beauty,1.0,80.41,0.23,Credit Card,N
+ORD-21208,2026-04-19,Customer 1308,customer1308@example.com,germany,Home & Garden,5.0,$65.44,0.19,Debit Card,N
+ORD-21335,"January 24, 2026",Customer 1435,customer1435@example.com,england,Sports,5.0,73.89,0.26,PayPal,0
+ORD-20079,"July 04, 2025",Customer 1079,  customer1079@example.com ,,Home&Garden,4.0,$179.01,0.19,Credit Card,FALSE
+ORD-20825,03/21/2025,Customer 1825,customer1825@example.com,AUSTRALIA,Beuaty,5.0,$75.04,0.1,Credit Card,no
+ORD-21417,08/08/2025,Customer 1517,,America,Beuaty,3.0,$141.78,0.12,Credit Card,No
+ORD-21118,24-Jul-2026,Customer 1218,  customer1218@example.com ,U.S.A.,BEAUTY,5.0,$104.34,0.07,Credit Card,No
+ORD-21238,29-Nov-2025,Customer 1338,  customer1338@example.com ,england,APPAREL,3.0,52.86,0.08,Debit Card,1
+ORD-20426,02-May-2026,Customer 1426,  customer1426@example.com ,United States,electronics,4.0,89.77,0.11,Credit Card,No
+ORD-20013,03/16/2025,Customer 1013,customer1013@example.com,AUS,sports,1.0,199.93,0.17,,no
+ORD-21589,09/30/2025,Customer 1689,customer1689@example.com,AUS,Electronics,1.0,218.42,0.14,Debit Card,N
+ORD-20449,04/04/2026,Customer 1449,  customer1449@example.com ,canada,SPORTS,1.0,$185.82,0.22,PayPal,N
+ORD-20751,"July 28, 2026",Customer 1751,customer1751@example.com,germany,Beuaty,1.0,69.6,0.02,Credit Card,No
+ORD-21338,15-May-2026,Customer 1438,customer1438@example.com,Australia,Home&Garden,4.0,$161.08,0.25,Credit Card,0
+ORD-20124,2026-06-07,Customer 1124,customer1124@example.com,U.K.,Beuaty,1.0,69.06,0.11,Debit Card,no
+ORD-20665,05/18/2026,Customer 1665,  customer1665@example.com ,United kingdom,home and garden,5.0,64.67,0.0,PayPal,1
+ORD-21540,2026-03-21,Customer 1640,customer1640@example.com,U.S.A.,Sport,4.0,$163.56,0.1,Gift Card,false
+ORD-21039,"January 26, 2026",Customer 1139,customer1139@example.com,UK,Home & Garden,2.0,78.11,0.04,Gift Card,FALSE
+ORD-21457,05/02/2025,Customer 1557,customer1557@example.com,CA,HOME & GARDEN,4.0,$151.67,0.27,Credit Card,No
+ORD-20899,"April 16, 2026",Customer 1899,customer1899@example.com,,Home & Garden,4.0,93.04,0.07,Debit Card,false
+ORD-21519,"December 15, 2025",Customer 1619,customer1619@example.com,United States,Sport,5.0,74.99,0.1,PayPal,0
+ORD-20212,2026-02-17,Customer 1212,customer1212@example.com,germany, Beauty,4.0,20.85,0.27,Credit Card,0
+ORD-21532,2026-01-27,Customer 1632,  customer1632@example.com ,Germany,SPORTS,3.0,23.54,0.19,Debit Card,N
+ORD-20951,"February 05, 2026",Customer 1051,customer1051@example.com,Germany,HOME & GARDEN,1.0,135.9,0.26,Gift Card,N
+ORD-21379,"August 16, 2026",Customer 1479,  customer1479@example.com ,United kingdom,HOME & GARDEN,1.0,197.36,0.14,Debit Card,FALSE
+ORD-20191,"October 12, 2025",Customer 1191,  customer1191@example.com ,United states,Home & Garden,2.0,217.47,0.11,Credit Card,FALSE
+ORD-20409,01/30/2026,Customer 1409,customer1409@example.com,AUS,Electronics ,3.0,148.25,0.02,Credit Card,N
+ORD-20393,10/27/2025,Customer 1393,customer1393@example.com,AUSTRALIA,home and garden,3.0,67.3,0.12,Credit Card,N
+ORD-21001,03/21/2026,Customer 1101,customer1101@example.com,America,Electronics ,4.0,$191.58,0.01,Debit Card,No
+ORD-21231,"May 17, 2026",Customer 1331,  customer1331@example.com ,United kingdom,home and garden,4.0,141.91,0.04,Gift Card,no
+ORD-20898,07-Jul-2026,Customer 1898,  customer1898@example.com ,United Kingdom,Beauty,2.0,130.7,0.23,Debit Card,0
+ORD-20663,"May 21, 2025",Customer 1663,  customer1663@example.com ,DE,Electronics,2.0,155.82,0.12,PayPal,0
+ORD-20936,2025-08-06,Customer 1036,customer1036@example.com,england,home and garden,4.0,$184.91,0.23,Credit Card,no
+ORD-20701,08/18/2026,Customer 1701,customer1701@example.com,U.K.,Beuaty,4.0,$133.03,0.05,Gift Card,FALSE
+ORD-20633,06/04/2026,Customer 1633,,United kingdom,BEAUTY,,$95.79,0.07,,false
+ORD-20170,25-Jan-2026,Customer 1170,customer1170@example.com,Germany,beauty,2.0,$155.76,0.17,Gift Card,false
+ORD-21277,04/01/2026,Customer 1377,  customer1377@example.com ,United kingdom,Home&Garden,3.0,204.26,0.21,Gift Card,no
+ORD-20183,"November 22, 2025",Customer 1183,customer1183@example.com,GERMANY,Electronic,5.0,138.34,0.23,Debit Card,false
+ORD-21210,06-Jul-2026,Customer 1310,customer1310@example.com,Germany,Appreal,2.0,$53.74,0.12,Debit Card,0
+ORD-20097,06/11/2026,Customer 1097,  customer1097@example.com ,Australia,home and garden,2.0,$170.33,0.18,Debit Card,false
+ORD-21333,01/05/2026,Customer 1433,customer1433@example.com,DE,Sport,1.0,89.1,0.17,Credit Card,no
+ORD-20742,23-Apr-2026,Customer 1742,customer1742@example.com,DE,SPORTS,4.0,$72.17,0.0,Credit Card,TRUE
+ORD-21453,05/14/2026,Customer 1553,  customer1553@example.com ,U.K.,APPAREL,5.0,$129.65,,PayPal,0
+ORD-20635,"May 16, 2026",Customer 1635,customer1635@example.com,AUS,Sports ,3.0,186.92,0.07,PayPal,no
+ORD-20267,"December 24, 2025",Customer 1267,customer1267@example.com,australia,Home & Garden,2.0,180.95,0.01,Credit Card,N
+ORD-20102,21-Mar-2025,Customer 1102,  customer1102@example.com ,australia,sports,3.0,67.05,0.04,Gift Card,0
+ORD-20744,2025-10-09,Customer 1744,  customer1744@example.com ,AUS,Electronics,2.0,191.78,2.7,Credit Card,No
+ORD-21575,"December 11, 2025",Customer 1675,  customer1675@example.com ,Germany,home and garden,3.0,42.76,0.07,Credit Card,No
+ORD-21094,05-Apr-2025,Customer 1194,,GERMANY,ELECTRONICS,1.0,83.22,0.09,Debit Card,false
+ORD-20431,"April 17, 2025",Customer 1431,  customer1431@example.com ,england,Beuaty,5.0,$122.88,0.19,Gift Card,yes
+ORD-21057,06/10/2025,Customer 1157,customer1157@example.com,us,BEAUTY,1.0,105.21,0.26,Gift Card,false
+ORD-21520,2025-12-25,Customer 1620,,CANADA,beauty,4.0,52.87,0.22,Gift Card,FALSE
+ORD-20772,2025-04-03,Customer 1772,customer1772@example.com,canada,Sports ,5.0,111.31,0.05,Gift Card,FALSE
+ORD-21598,26-Apr-2026,Customer 1698,customer1698@example.com,USA,ELECTRONICS,2.0,97.36,0.18,Credit Card,No
+ORD-20235,"January 31, 2026",Customer 1235,customer1235@example.com,AUSTRALIA,Sports,5.0,79.0,0.18,PayPal,0
+ORD-21591,"September 24, 2025",Customer 1691,customer1691@example.com,United Kingdom,Electronics ,4.0,121.01,0.28,Gift Card,No
+ORD-20833,12/11/2025,Customer 1833,customer1833@example.com,CANADA,Apparel,3.0,$216.26,0.25,,No
+ORD-21222,10-May-2025,Customer 1322,customer1322@example.com,Australia,Home & garden,5.0,69.49,0.05,PayPal,true
+ORD-20674,25-Aug-2025,Customer 1674,customer1674@example.com,australia,Electronics ,4.0,70.4,0.19,Debit Card,0
+ORD-20154,09-Jul-2025,Customer 1154,  customer1154@example.com ,canada,Sports ,4.0,$172.23,0.2,Gift Card,N
+ORD-20726,25-Oct-2025,Customer 1726,customer1726@example.com,us,Home & garden,3.0,80.79,0.1,Gift Card,0
+ORD-21360,2025-08-31,Customer 1460,customer1460@example.com,U.K., Apparel,1.0,$68.93,0.11,Gift Card,false
+ORD-21423,"May 19, 2025",Customer 1523,  customer1523@example.com ,United States,Home & Garden,2.0,53.08,0.25,Gift Card,false
+ORD-20176,2025-05-15,Customer 1176,customer1176@example.com,Canada,Beuaty,5.0,52.99,0.16,Debit Card,N
+ORD-21434,27-Aug-2025,Customer 1534,  customer1534@example.com ,CANADA,Apparel,5.0,175.34,0.01,Debit Card,false
+ORD-21450,03-Aug-2025,Customer 1550,customer1550@example.com,Canada,Electronic,1.0,$105.27,0.09,Gift Card,N
+ORD-21443,"March 15, 2026",Customer 1543,  customer1543@example.com ,GERMANY,Home & Garden,5.0,161.78,0.01,PayPal,FALSE
+ORD-20614,26-Sep-2025,Customer 1614,customer1614@example.com,CANADA, Beauty,1.0,132.97,0.06,Credit Card,false
+ORD-21134,05-Aug-2026,Customer 1234,  customer1234@example.com ,CANADA,Home&Garden,5.0,$72.27,0.12,Credit Card,0
+ORD-21042,26-Jun-2025,Customer 1142,customer1142@example.com,Canada,SPORTS,3.0,$87.64,0.15,Credit Card,FALSE
+ORD-20451,"August 06, 2026",Customer 1451,customer1451@example.com,DE,home and garden,4.0,$109.14,0.03,Gift Card,N
+ORD-20792,2025-08-21,Customer 1792,  customer1792@example.com ,CANADA,Home & Garden,5.0,$18.85,0.3,Credit Card,false
+ORD-20806,11-Mar-2025,Customer 1806,customer1806@example.com,australia,Sports,4.0,$66.01,0.19,PayPal,No
+ORD-21494,15-Jun-2026,Customer 1594,customer1594@example.com,,apparel,4.0,181.17,0.13,Gift Card,false
+ORD-20532,2026-07-20,Customer 1532,  customer1532@example.com ,UK,Sports ,5.0,$212.42,0.12,Debit Card,N
+ORD-20977,11/08/2025,Customer 1077,  customer1077@example.com ,,Sports,1.0,167.12,0.21,PayPal,N
+ORD-20190,04-Jul-2026,Customer 1190,customer1190@example.com,CA,electronics,1.0,$29.40,0.24,Gift Card,FALSE
+ORD-21334,10-Jan-2026,Customer 1434,customer1434@example.com,england,Electronics ,1.0,29.97,,Credit Card,no
+ORD-21172,2026-07-14,Customer 1272,customer1272@example.com,canada,sports,2.0,40.24,0.17,Gift Card,N
+ORD-20437,12/01/2025,Customer 1437,  customer1437@example.com ,UK,sports,3.0,164.9,0.15,Credit Card,No
+ORD-20562,15-Nov-2025,Customer 1562,customer1562@example.com,us,sports,1.0,178.57,0.26,Debit Card,no
+ORD-20658,22-Aug-2025,Customer 1658,  customer1658@example.com ,United kingdom,Sports,4.0,$44.29,0.24,Gift Card,No
+ORD-20403,"August 31, 2025",Customer 1403,  customer1403@example.com ,United states,HOME & GARDEN,5.0,89.99,0.05,Gift Card,no
+ORD-21479,"May 03, 2025",Customer 1579,customer1579@example.com,england,Electronics ,4.0,108.0,0.15,Credit Card,N
+ORD-20028,2026-07-09,Customer 1028,customer1028@example.com,AUSTRALIA,home and garden,3.0,$96.47,0.23,Gift Card,0
+ORD-20989,04/04/2025,Customer 1089,customer1089@example.com,UK,Home & garden,4.0,$45.13,0.29,Debit Card,no
+ORD-20976,2026-04-16,Customer 1076,customer1076@example.com,CANADA,electronics,5.0,$144.77,,Debit Card,true
+ORD-20834,26-May-2026,Customer 1834,  customer1834@example.com ,United States,Appreal,3.0,22.72,0.16,Gift Card,N
+ORD-20300,2025-02-26,Customer 1300,  customer1300@example.com ,AUSTRALIA,Electronic,4.0,$174.73,0.06,,N
+ORD-20591,"January 06, 2026",Customer 1591,customer1591@example.com,,Sports,3.0,$44.48,0.18,Debit Card,no
+ORD-21534,08-Aug-2026,Customer 1634,customer1634@example.com,U.K.,apparel,5.0,200.52,0.29,Debit Card,false
+ORD-21095,"June 06, 2025",Customer 1195,,AUS,sports,4.0,123.59,0.04,Credit Card,N
+ORD-20629,08/22/2025,Customer 1629,customer1629@example.com,CANADA,apparel,5.0,55.79,0.15,Debit Card,no
+ORD-21339,"March 21, 2025",Customer 1439,customer1439@example.com,Australia,beauty,1.0,20.97,0.1,Debit Card,FALSE
+ORD-20791,"February 02, 2026",Customer 1791,  customer1791@example.com ,Germany,sports,5.0,162.78,0.1,Gift Card,N
+ORD-21461,05/05/2025,Customer 1561,  customer1561@example.com ,United States,Electronic,1.0,48.82,0.19,,no
+ORD-20469,02/24/2026,Customer 1469,customer1469@example.com,canada,sports,4.0,26.77,0.07,PayPal,false
+ORD-21092,2025-07-04,Customer 1192,customer1192@example.com,DE,SPORTS,3.0,171.6,0.27,Gift Card,N
+ORD-20959,"January 02, 2026",Customer 1059,  customer1059@example.com ,USA,Electronics ,5.0,$148.79,0.09,Gift Card,0
+ORD-20568,2026-05-27,Customer 1568,customer1568@example.com,Germany,Beauty,5.0,36.82,0.11,PayPal,FALSE
+ORD-21077,06/16/2026,Customer 1177,  customer1177@example.com ,UK,Beauty,3.0,55.66,0.12,Gift Card,no
+ORD-20852,2025-03-08,Customer 1852,customer1852@example.com,Canada,HOME & GARDEN,4.0,31.04,0.15,Gift Card,no
+ORD-21571,"December 16, 2025",Customer 1671,  customer1671@example.com ,Canada,Home & Garden,4.0,194.34,0.28,Credit Card,false
+ORD-21471,"July 10, 2026",Customer 1571,customer1571@example.com,Canada,Sports,4.0,104.52,0.11,Debit Card,0
+ORD-20179,"August 18, 2025",Customer 1179,customer1179@example.com,UK,Electronics,1.0,$10.27,0.06,Gift Card,no
+ORD-20548,2026-05-06,Customer 1548,  customer1548@example.com ,DE,beauty,2.0,138.71,0.06,Debit Card,false
+ORD-20072,2025-05-20,Customer 1072,customer1072@example.com,australia,Home&Garden,3.0,$130.01,0.18,Debit Card,No
+ORD-20590,05-Apr-2025,Customer 1590,  customer1590@example.com ,Germany,Sports ,4.0,$73.41,0.15,Debit Card,0
+ORD-20988,2025-09-12,Customer 1088,customer1088@example.com,United States, Apparel,4.0,208.12,0.14,Credit Card,false
+ORD-20187,"July 22, 2026",Customer 1187,,UK,home and garden,4.0,51.35,0.1,PayPal,FALSE
+ORD-21070,11-Nov-2025,Customer 1170,customer1170@example.com,CANADA,apparel,5.0,43.86,0.18,Gift Card,N
+ORD-20105,03/09/2025,Customer 1105,  customer1105@example.com ,Canada,Home&Garden,5.0,$98.58,0.29,Credit Card,no
+ORD-20376,2025-12-04,Customer 1376,  customer1376@example.com ,CA,beauty,3.0,$54.44,0.0,Debit Card,N
+ORD-21026,06-Aug-2025,Customer 1126,customer1126@example.com,Australia,,4.0,$219.64,0.22,Credit Card,FALSE
+ORD-21128,2026-05-01,Customer 1228,  customer1228@example.com ,United states,Appreal,2.0,$129.67,0.2,Debit Card,0
+ORD-20547,"November 15, 2025",Customer 1547,,United States, Apparel,4.0,190.56,0.04,Debit Card,FALSE
+ORD-20467,"April 25, 2026",Customer 1467,customer1467@example.com,Australia,electronics,3.0,$157.15,0.16,PayPal,No
+ORD-20996,2025-04-24,Customer 1096,  customer1096@example.com ,australia,Electronics,1.0,$104.66,0.21,Debit Card,N
+ORD-21566,11-Mar-2026,Customer 1666,customer1666@example.com,, Beauty,1.0,82.34,0.23,Credit Card,N
+ORD-20361,03/21/2025,Customer 1361,customer1361@example.com,Germany,Home&Garden,5.0,120.38,0.27,PayPal,0
+ORD-20040,2026-08-09,Customer 1040,  customer1040@example.com ,canada,apparel,3.0,$167.98,0.18,Debit Card,FALSE
+ORD-21008,2026-01-09,Customer 1108,  customer1108@example.com ,United States,Home & garden,4.0,91.03,0.09,Debit Card,no
+ORD-20081,06/15/2025,Customer 1081,customer1081@example.com,,Home & garden,5.0,$137.04,0.1,Gift Card,No
+ORD-21301,07/01/2026,Customer 1401,  customer1401@example.com ,DE,APPAREL,2.0,116.21,0.23,Gift Card,FALSE
+ORD-21330,14-Oct-2025,Customer 1430,customer1430@example.com,germany,electronics,2.0,172.07,0.26,Gift Card,false
+ORD-20602,17-May-2025,Customer 1602,customer1602@example.com,AUS,Electronics,3.0,185.32,0.25,PayPal,false
+ORD-20268,2025-04-29,Customer 1268,customer1268@example.com,us,Sport,5.0,107.3,0.08,Gift Card,No
+ORD-21241,08/09/2025,Customer 1341,  customer1341@example.com ,U.K.,sports,4.0,111.79,0.07,Gift Card,false
+ORD-20328,2026-06-24,Customer 1328,customer1328@example.com,AUSTRALIA,electronics,5.0,$95.13,0.02,PayPal,false
+ORD-21486,07-Jun-2025,Customer 1586,customer1586@example.com,CA,Home&Garden,1.0,131.29,0.01,Gift Card,N
+ORD-20877,07/11/2026,Customer 1877,customer1877@example.com,U.K.,Sport,5.0,203.15,0.29,Credit Card,yes
+ORD-21405,05/28/2026,Customer 1505,,Australia,electronics,4.0,$80.93,0.13,PayPal,1
+ORD-20351,"October 12, 2025",Customer 1351,customer1351@example.com,Canada,apparel,4.0,53.01,0.04,Gift Card,no
+ORD-20101,06/19/2026,Customer 1101,customer1101@example.com,AUS,HOME & GARDEN,4.0,94.9,0.22,Gift Card,false
+ORD-21420,2025-12-01,Customer 1520,customer1520@example.com,CANADA,Electronic,3.0,148.34,0.17,PayPal,false
+ORD-20453,06/18/2025,Customer 1453,customer1453@example.com,United States,Home & garden,5.0,$189.95,0.01,Debit Card,false
+ORD-21337,03/09/2025,Customer 1437,  customer1437@example.com ,U.S.A.,apparel,1.0,154.34,0.04,PayPal,no
+ORD-21593,12/20/2025,Customer 1693,  customer1693@example.com ,America,Apparel,3.0,$29.42,0.06,PayPal,No
+ORD-20033,05/20/2025,Customer 1033,customer1033@example.com,Australia,Sports,2.0,138.25,0.0,Gift Card,0
+ORD-21053,03/25/2025,Customer 1153,customer1153@example.com,DE,sports,4.0,56.65,0.23,PayPal,N
+ORD-20530,06-Jan-2026,Customer 1530,customer1530@example.com,canada,Sports,4.0,$61.91,0.27,Gift Card,No
+ORD-21390,07-May-2026,Customer 1490,customer1490@example.com,CANADA, Apparel,2.0,70.76,0.08,Credit Card,No
+ORD-20492,2026-07-22,Customer 1492,,canada,Apparel,4.0,$98.32,0.13,Gift Card,N
+ORD-21322,01-Jun-2025,Customer 1422,,AUS,electronics,1.0,55.9,0.06,Credit Card,false
+ORD-20983,"May 23, 2026",Customer 1083,  customer1083@example.com ,CANADA,Sport,4.0,15.31,0.17,PayPal,No
+ORD-20523,"April 06, 2026",Customer 1523,customer1523@example.com,CA,Sports ,2.0,178.44,0.19,Gift Card,TRUE
+ORD-21518,22-May-2025,Customer 1618,customer1618@example.com,USA,beauty,3.0,25.6,0.15,PayPal,no
+ORD-21383,"June 24, 2026",Customer 1483,customer1483@example.com,AUS, Apparel,4.0,$41.27,0.03,PayPal,N
+ORD-20906,19-Aug-2026,Customer 1006,  customer1006@example.com ,GERMANY,Beauty,5.0,18.51,0.29,Debit Card,No
+ORD-21584,2025-07-29,Customer 1684,customer1684@example.com,Canada,BEAUTY,3.0,45.48,0.1,PayPal,no
+ORD-21046,03-Apr-2025,Customer 1146,customer1146@example.com,AUS,ELECTRONICS,3.0,$100.21,0.05,Gift Card,FALSE
+ORD-20755,"July 30, 2025",Customer 1755,  customer1755@example.com ,United Kingdom,Home & Garden,4.0,$174.79,0.14,Credit Card,no
+ORD-20207,"May 25, 2025",Customer 1207,  customer1207@example.com ,AUS,ELECTRONICS,3.0,79.17,0.16,Debit Card,no
+ORD-20258,14-Oct-2025,Customer 1258,customer1258@example.com,GERMANY,ELECTRONICS,2.0,31.05,0.07,PayPal,FALSE
+ORD-21414,02-Jul-2025,Customer 1514,  customer1514@example.com ,canada,Beauty,1.0,65.9,0.22,Debit Card,no
+ORD-21533,09/26/2025,Customer 1633,customer1633@example.com,USA,APPAREL,1.0,36.63,0.17,Debit Card,N
+ORD-20143,"September 17, 2025",Customer 1143,customer1143@example.com,AUS,HOME & GARDEN,2.0,42.13,0.22,Debit Card,no
+ORD-20318,14-Aug-2025,Customer 1318,  customer1318@example.com ,england,Home & Garden,2.0,$186.93,0.06,Debit Card,N
+ORD-20513,07/04/2026,Customer 1513,customer1513@example.com,DE,Home & Garden,3.0,$60.50,0.22,Debit Card,no
+ORD-20302,07-Nov-2025,Customer 1302,customer1302@example.com,CANADA,HOME & GARDEN,4.0,59.19,0.11,Debit Card,no
+ORD-21558,17-May-2025,Customer 1658,,CA,BEAUTY,3.0,$92.76,0.07,Credit Card,no
+ORD-21097,01/27/2026,Customer 1197,customer1197@example.com,DE,sports,2.0,63.28,0.27,PayPal,N
+ORD-20922,21-Mar-2026,Customer 1022,customer1022@example.com,CANADA,APPAREL,3.0,25.11,0.24,PayPal,N
+ORD-21468,2025-05-22,Customer 1568,customer1568@example.com,GERMANY,sports,4.0,$190.22,0.24,Gift Card,0
+ORD-21247,"April 03, 2025",Customer 1347,  customer1347@example.com ,Australia,Sports,3.0,$169.62,0.01,PayPal,0
+ORD-21203,"July 18, 2026",Customer 1303,customer1303@example.com,canada,Beauty,4.0,161.01,0.2,Credit Card,false
+ORD-20675,"August 26, 2025",Customer 1675,customer1675@example.com,U.K.,,3.0,111.69,0.28,Gift Card,false
+ORD-21253,04/10/2026,Customer 1353,customer1353@example.com,America,SPORTS,2.0,$66.35,0.14,Debit Card,no
+ORD-20375,"January 27, 2026",Customer 1375,customer1375@example.com,USA,Beauty,2.0,$97.99,0.28,Debit Card,0
+ORD-20515,"August 04, 2026",Customer 1515,customer1515@example.com,USA,Sport,3.0,178.49,0.12,Debit Card,No
+ORD-20263,"February 07, 2026",Customer 1263,,U.S.A.,APPAREL,1.0,127.85,0.02,Gift Card,no
+ORD-21091,"July 01, 2026",Customer 1191,customer1191@example.com,germany,apparel,3.0,$56.45,0.08,Gift Card,No
+ORD-21449,11/15/2025,Customer 1549,customer1549@example.com,DE,apparel,4.0,$195.87,0.27,Gift Card,no
+ORD-20854,24-Nov-2025,Customer 1854,customer1854@example.com,england, Apparel,3.0,$106.83,0.24,Gift Card,Y
+ORD-20923,"April 13, 2026",Customer 1023,customer1023@example.com,DE,Apparel,1.0,46.13,0.19,PayPal,0
+ORD-20932,2025-10-05,Customer 1032,customer1032@example.com,CANADA,Beuaty,2.0,193.63,0.05,PayPal,false
+ORD-20023,"February 03, 2026",Customer 1023,customer1023@example.com,canada,apparel,3.0,$196.74,0.08,Credit Card,0
+ORD-20656,2026-06-28,Customer 1656,  customer1656@example.com ,CANADA,BEAUTY,4.0,67.58,0.06,PayPal,yes
+ORD-20627,"August 11, 2026",Customer 1627,customer1627@example.com,CA,,5.0,41.46,0.17,Gift Card,false
+ORD-20374,26-Dec-2025,Customer 1374,  customer1374@example.com ,AUSTRALIA,Sport,2.0,$40.75,0.29,Credit Card,0
+ORD-20962,27-Oct-2025,Customer 1062,customer1062@example.com,Canada,Electronics,4.0,169.39,0.28,Debit Card,false
+ORD-20274,29-Mar-2026,Customer 1274,  customer1274@example.com ,USA,SPORTS,4.0,$160.75,0.05,PayPal,no
+ORD-20865,08/03/2026,Customer 1865,customer1865@example.com,australia,Electronic,3.0,$17.63,0.03,Credit Card,FALSE
+ORD-20910,24-Sep-2025,Customer 1010,customer1010@example.com,U.K.,Apparel,4.0,$173.65,0.04,PayPal,No
+ORD-20200,2025-03-02,Customer 1200,customer1200@example.com,england,Sports ,2.0,169.15,0.28,Gift Card,No
+ORD-20685,12/17/2025,Customer 1685,customer1685@example.com,UK,Sports ,3.0,62.07,0.1,Debit Card,false
+ORD-20020,2026-03-07,Customer 1020,customer1020@example.com,us,home and garden,1.0,58.34,0.05,Credit Card,FALSE
+ORD-21309,05/22/2025,Customer 1409,  customer1409@example.com ,Germany,Sports ,2.0,$143.59,0.08,Gift Card,N
+ORD-21579,"June 06, 2025",Customer 1679,customer1679@example.com,United Kingdom, Apparel,3.0,130.77,0.08,PayPal,false
+ORD-20619,"June 06, 2026",Customer 1619,customer1619@example.com,,Electronics ,4.0,10.97,,Debit Card,0
+ORD-20087,"September 08, 2025",Customer 1087,customer1087@example.com,United states,beauty,4.0,64.81,0.06,Debit Card,No
+ORD-21264,2026-08-16,Customer 1364,  customer1364@example.com ,UK, Beauty,5.0,$126.04,0.17,Credit Card,yes
+ORD-21150,25-Oct-2025,Customer 1250,  customer1250@example.com ,United kingdom, Apparel,2.0,85.67,0.14,Debit Card,0
+ORD-20357,04/21/2026,Customer 1357,customer1357@example.com,DE,BEAUTY,2.0,152.8,0.11,PayPal,no
+ORD-20745,03/06/2026,Customer 1745,customer1745@example.com,AUS,Beauty,5.0,105.49,0.1,Credit Card,0
+ORD-20306,19-Oct-2025,Customer 1306,  customer1306@example.com ,Germany,sports,4.0,13.97,0.07,Credit Card,Y
+ORD-20483,"February 27, 2025",Customer 1483,customer1483@example.com,CA,home and garden,1.0,$72.89,0.21,Credit Card,FALSE
+ORD-21580,2025-03-01,Customer 1680,customer1680@example.com,CANADA,Home&Garden,3.0,107.23,0.09,Gift Card,N
+ORD-21015,"November 05, 2025",Customer 1115,customer1115@example.com,germany,beauty,5.0,69.23,,Debit Card,N
+ORD-21234,23-Apr-2026,Customer 1334,customer1334@example.com,us,Sports,3.0,214.51,0.09,Gift Card,FALSE
+ORD-20699,"October 03, 2025",Customer 1699,customer1699@example.com,AUSTRALIA, Beauty,1.0,$19.31,0.26,Debit Card,true
+ORD-21204,2026-01-02,Customer 1304,customer1304@example.com,australia,Sports ,1.0,189.28,0.11,Credit Card,No
+ORD-20111,"July 21, 2025",Customer 1111,customer1111@example.com,Australia,Beuaty,5.0,200.07,0.18,Credit Card,No
+ORD-20198,04-Sep-2025,Customer 1198,customer1198@example.com,AUSTRALIA,Sport,4.0,211.24,0.27,Debit Card,no
+ORD-21381,03/06/2025,Customer 1481,customer1481@example.com,USA,Sports ,1.0,134.97,0.11,Debit Card,0
+ORD-20559,"June 25, 2026",Customer 1559,customer1559@example.com,Canada,apparel,3.0,91.97,0.23,Debit Card,N
+ORD-21588,2026-03-12,Customer 1688,customer1688@example.com,AUSTRALIA,Electronics,2.0,210.67,0.03,Credit Card,No
+ORD-21068,2025-06-08,Customer 1168,customer1168@example.com,CA,Electronics,3.0,174.16,0.01,Credit Card,N
+ORD-20049,04/15/2025,Customer 1049,customer1049@example.com,australia,Electronics,3.0,$84.49,0.01,Gift Card,no
+ORD-20913,01/01/2026,Customer 1013,customer1013@example.com,U.K.,BEAUTY,2.0,45.62,0.04,Credit Card,FALSE
+ORD-21329,03/11/2025,Customer 1429,customer1429@example.com,America,BEAUTY,1.0,83.92,0.2,PayPal,FALSE
+ORD-20759,"August 31, 2025",Customer 1759,  customer1759@example.com ,UK,BEAUTY,2.0,55.96,0.22,Credit Card,FALSE
+ORD-21271,"March 13, 2026",Customer 1371,,us,Sports,5.0,$164.67,0.04,PayPal,FALSE
+ORD-20390,27-Apr-2025,Customer 1390,  customer1390@example.com ,AUSTRALIA,Beuaty,2.0,$9.56,0.26,Gift Card,Yes
+ORD-20860,2025-06-26,Customer 1860,  customer1860@example.com ,AUSTRALIA,Sports ,3.0,75.3,0.18,Debit Card,0
+ORD-21592,2026-05-13,Customer 1692,customer1692@example.com,canada, Beauty,3.0,21.86,0.26,Gift Card,N
+ORD-21129,05/17/2026,Customer 1229,customer1229@example.com,GERMANY,apparel,1.0,$74.69,0.16,Credit Card,false
+ORD-20645,07/07/2026,Customer 1645,customer1645@example.com,United states,apparel,4.0,$151.49,0.16,Gift Card,false
+ORD-20821,07/19/2026,Customer 1821,  customer1821@example.com ,CANADA,electronics,3.0,168.74,0.17,Debit Card,FALSE
+ORD-20113,08/25/2025,Customer 1113,  customer1113@example.com ,DE,Apparel,1.0,202.37,0.29,Debit Card,0
+ORD-21007,"February 22, 2026",Customer 1107,  customer1107@example.com ,germany,Electronics,3.0,111.31,0.12,Credit Card,N
+ORD-21585,06/30/2025,Customer 1685,customer1685@example.com,germany,Beauty,2.0,$144.38,0.17,PayPal,no
+ORD-20337,08/13/2026,Customer 1337,customer1337@example.com,us,sports,5.0,$161.08,0.17,PayPal,N
+ORD-20819,"September 07, 2025",Customer 1819,customer1819@example.com,england,Electronics,2.0,8.74,0.18,PayPal,No
+ORD-21237,08/12/2025,Customer 1337,  customer1337@example.com ,GERMANY,APPAREL,3.0,29.59,0.01,Debit Card,FALSE
+ORD-21327,"February 13, 2026",Customer 1427,customer1427@example.com,UK, Apparel,5.0,162.57,,Credit Card,false
+ORD-21510,24-Jun-2026,Customer 1610,customer1610@example.com,AUSTRALIA,Electronics,1.0,200.29,0.01,Debit Card,true
+ORD-21273,08/27/2025,Customer 1373,customer1373@example.com,U.K.,SPORTS,4.0,179.42,0.04,PayPal,0
+ORD-20084,2025-09-10,Customer 1084,customer1084@example.com,australia,Beauty,3.0,33.81,0.01,Gift Card,No
+ORD-20282,14-Dec-2025,Customer 1282,  customer1282@example.com ,DE,Home & garden,5.0,124.04,0.2,Gift Card,No
+ORD-21475,"September 08, 2025",Customer 1575,  customer1575@example.com ,United Kingdom,Appreal,5.0,$163.33,0.13,PayPal,0
+ORD-20131,"March 19, 2025",Customer 1131,customer1131@example.com,U.S.A.,BEAUTY,5.0,190.57,0.25,Debit Card,0
+ORD-20835,"June 24, 2026",Customer 1835,,USA,Sport,5.0,170.94,0.04,Credit Card,false
+ORD-20768,2025-07-22,Customer 1768,customer1768@example.com,USA,Home & Garden,2.0,$199.40,0.04,,TRUE
+ORD-21250,15-Dec-2025,Customer 1350,  customer1350@example.com ,AUSTRALIA,home and garden,3.0,20.83,0.22,Gift Card,true
+ORD-20341,12/19/2025,Customer 1341,customer1341@example.com,United States,Electronic,2.0,$94.04,0.28,Debit Card,Yes
+ORD-20888,2025-08-25,Customer 1888,,DE,Electronic,4.0,$74.43,0.09,Debit Card,no
+ORD-20620,2026-07-30,Customer 1620,  customer1620@example.com ,canada,apparel,4.0,149.5,0.22,PayPal,false
+ORD-21148,2026-02-10,Customer 1248,  customer1248@example.com ,CANADA,BEAUTY,4.0,16.13,,Debit Card,FALSE
+ORD-21396,2025-08-29,Customer 1496,customer1496@example.com,,Apparel,1.0,111.33,0.19,PayPal,N
+ORD-21311,"August 28, 2025",Customer 1411,  customer1411@example.com ,canada,Sport,1.0,59.45,0.21,Debit Card,N
+ORD-21315,"December 28, 2025",Customer 1415,customer1415@example.com,United kingdom,apparel,3.0,$146.16,0.1,Debit Card,TRUE
+ORD-20078,01-May-2025,Customer 1078,  customer1078@example.com ,AUS, Apparel,1.0,215.85,0.2,PayPal,false
+ORD-21568,2026-03-11,Customer 1668,  customer1668@example.com ,germany,Beuaty,2.0,83.55,0.15,Gift Card,no
+ORD-20004,2025-12-13,Customer 1004,customer1004@example.com,AUSTRALIA,Home & garden,5.0,$18.92,0.02,Debit Card,no
+ORD-20062,12-Jun-2026,Customer 1062,customer1062@example.com,United Kingdom,sports,1.0,88.79,0.02,Gift Card,FALSE
+ORD-20975,"September 14, 2025",Customer 1075,customer1075@example.com,CANADA,HOME & GARDEN,5.0,205.79,0.06,PayPal,No
+ORD-20862,27-Nov-2025,Customer 1862,  customer1862@example.com ,canada,ELECTRONICS,3.0,8.99,0.06,PayPal,FALSE
+ORD-20410,01-Jan-2026,Customer 1410,customer1410@example.com,germany,HOME & GARDEN,1.0,$65.81,0.03,PayPal,yes
+ORD-20219,"October 30, 2025",Customer 1219,customer1219@example.com,AUSTRALIA,SPORTS,5.0,39.57,0.29,PayPal,N
+ORD-21464,2026-05-03,Customer 1564,customer1564@example.com,Canada,sports,3.0,107.31,0.28,Credit Card,N
+ORD-20152,2026-01-21,Customer 1152,  customer1152@example.com ,canada,Apparel,3.0,67.13,0.26,Debit Card,0
+ORD-20307,"May 22, 2025",Customer 1307,customer1307@example.com,germany,Beuaty,4.0,158.57,0.28,Gift Card,0
+ORD-21446,02-Jul-2026,Customer 1546,  customer1546@example.com ,America,Sports ,5.0,57.86,0.3,Credit Card,FALSE
+ORD-21316,2025-06-19,Customer 1416,  customer1416@example.com ,GERMANY,SPORTS,4.0,83.75,0.13,PayPal,No
+ORD-21055,"November 30, 2025",Customer 1155,customer1155@example.com,CANADA,BEAUTY,2.0,162.04,0.06,PayPal,TRUE
+ORD-21009,10/19/2025,Customer 1109,  customer1109@example.com ,canada,Apparel,3.0,$210.27,0.11,Credit Card,Y
+ORD-20203,"April 20, 2026",Customer 1203,customer1203@example.com,Australia,Apparel,2.0,$36.38,0.04,Gift Card,no
+ORD-20301,05/01/2026,Customer 1301,  customer1301@example.com ,U.K.,HOME & GARDEN,5.0,152.28,0.27,PayPal,false
+ORD-20516,2026-01-20,Customer 1516,  customer1516@example.com ,england,Electronic,3.0,45.07,0.28,PayPal,No
+ORD-20295,"April 26, 2026",Customer 1295,  customer1295@example.com ,AUS,HOME & GARDEN,3.0,$96.48,0.3,PayPal,N
+ORD-21153,02/27/2026,Customer 1253,customer1253@example.com,germany,Electronic,5.0,86.24,0.04,Credit Card,false
+ORD-20382,26-Oct-2025,Customer 1382,customer1382@example.com,America,Beauty,4.0,114.1,0.12,Debit Card,false
+ORD-21389,06/30/2025,Customer 1489,customer1489@example.com,DE,APPAREL,1.0,112.87,0.03,Credit Card,N
+ORD-20129,08/08/2025,Customer 1129,customer1129@example.com,germany,beauty,1.0,50.57,0.01,Gift Card,no
+ORD-20797,04/28/2026,Customer 1797,customer1797@example.com,canada,APPAREL,3.0,$203.82,0.18,Credit Card,N
+ORD-21121,06/04/2026,Customer 1221,  customer1221@example.com ,Germany,HOME & GARDEN,5.0,110.62,0.27,PayPal,false
+ORD-20100,2025-12-24,Customer 1100,customer1100@example.com,australia,APPAREL,1.0,165.68,0.0,PayPal,false
+ORD-21376,2025-06-25,Customer 1476,  customer1476@example.com ,germany,ELECTRONICS,4.0,14.89,0.14,Credit Card,FALSE
+ORD-21289,07/27/2025,Customer 1389,customer1389@example.com,CANADA,BEAUTY,4.0,39.93,0.03,Gift Card,FALSE
+ORD-21093,06/08/2025,Customer 1193,  customer1193@example.com ,DE,apparel,4.0,$168.88,0.03,Debit Card,N
+ORD-20071,"March 15, 2026",Customer 1071,customer1071@example.com,GERMANY,BEAUTY,2.0,195.54,0.23,Credit Card,0
+ORD-20692,2025-02-28,Customer 1692,customer1692@example.com,U.K.,Sport,5.0,35.07,0.01,Debit Card,false
+ORD-20400,2025-12-08,Customer 1400,  customer1400@example.com ,england,apparel,2.0,59.05,0.15,Debit Card,no
+ORD-20425,05/18/2025,Customer 1425,customer1425@example.com,AUS,Home & garden,2.0,$90.31,0.02,Credit Card,No
+ORD-20696,2026-04-21,Customer 1696,  customer1696@example.com ,germany,Electronic,2.0,$23.21,,Gift Card,No
+ORD-21572,2025-05-24,Customer 1672,customer1672@example.com,germany,Apparel,5.0,82.04,0.14,PayPal,0
+ORD-20261,11/19/2025,Customer 1261,  customer1261@example.com ,germany,Sports ,1.0,137.63,0.02,PayPal,no
+ORD-20502,29-May-2025,Customer 1502,,United states,SPORTS,1.0,94.81,0.12,Debit Card,0
+ORD-20813,06/21/2025,Customer 1813,  customer1813@example.com ,GERMANY,SPORTS,4.0,$140.44,0.28,Debit Card,0
+ORD-21010,14-Apr-2025,Customer 1110,  customer1110@example.com ,Australia,HOME & GARDEN,4.0,$50.58,0.11,PayPal,No
+ORD-20714,20-Feb-2026,Customer 1714,  customer1714@example.com ,United kingdom, Beauty,2.0,207.51,0.15,PayPal,0
+ORD-21555,"September 18, 2025",Customer 1655,  customer1655@example.com ,AUS,Apparel,5.0,$158.93,0.3,Gift Card,no
+ORD-20582,06-Mar-2026,Customer 1582,customer1582@example.com,UK,Sports,,12.34,0.26,Credit Card,TRUE
+ORD-20697,05/21/2025,Customer 1697,customer1697@example.com,australia, Apparel,3.0,167.96,0.28,PayPal,FALSE
+ORD-20601,01/14/2026,Customer 1601,customer1601@example.com,United Kingdom,Electronic,5.0,$82.11,0.08,Debit Card,1
+ORD-21373,12/21/2025,Customer 1473,customer1473@example.com,UK,Home & garden,3.0,139.29,0.24,Debit Card,TRUE
+ORD-20370,28-Jul-2025,Customer 1370,customer1370@example.com,America,Home & Garden,3.0,72.51,0.05,Debit Card,FALSE
+ORD-20134,10-May-2025,Customer 1134,customer1134@example.com,,Home&Garden,4.0,165.25,0.23,Credit Card,Yes
+ORD-21521,04/06/2026,Customer 1621,customer1621@example.com,U.K.,home and garden,4.0,147.13,0.29,PayPal,0
+ORD-20973,02/15/2026,Customer 1073,customer1073@example.com,DE,Home & Garden,3.0,$139.82,0.3,Gift Card,no
+ORD-20733,09/14/2025,Customer 1733,customer1733@example.com,Australia,HOME & GARDEN,5.0,$59.37,,Debit Card,FALSE
+ORD-21481,12/04/2025,Customer 1581,customer1581@example.com,australia,Beuaty,4.0,$9.65,0.03,Credit Card,N
+ORD-21131,"July 29, 2025",Customer 1231,customer1231@example.com,United kingdom,APPAREL,1.0,100.81,0.27,Debit Card,0
+ORD-20560,2025-06-07,Customer 1560,  customer1560@example.com ,Canada,Apparel,4.0,$82.28,0.06,Gift Card,FALSE
+ORD-20055,"March 29, 2026",Customer 1055,customer1055@example.com,Germany,Sports ,5.0,$133.93,,Debit Card,FALSE
+ORD-21182,17-May-2026,Customer 1282,customer1282@example.com,United states,ELECTRONICS,5.0,$170.90,0.05,PayPal,true
+ORD-20116,2025-11-13,Customer 1116,customer1116@example.com,DE,Sport,5.0,$42.18,0.26,PayPal,N
+ORD-21403,"September 04, 2025",Customer 1503,customer1503@example.com,UK,Electronic,4.0,$191.86,0.26,PayPal,true
+ORD-20210,09-May-2025,Customer 1210,customer1210@example.com,GERMANY,Beuaty,5.0,91.51,0.01,PayPal,false
+ORD-20387,"September 20, 2025",Customer 1387,customer1387@example.com,United states,Beuaty,2.0,$15.77,0.16,Credit Card,no
+ORD-20817,11/03/2025,Customer 1817,  customer1817@example.com ,United kingdom,Beuaty,2.0,28.69,0.18,Gift Card,FALSE
+ORD-20162,19-Jun-2026,Customer 1162,customer1162@example.com,CANADA, Beauty,4.0,13.21,0.29,Debit Card,false
+ORD-20728,2025-03-06,Customer 1728,  customer1728@example.com ,USA,Electronic,4.0,70.16,0.2,PayPal,FALSE
+ORD-20774,01-Feb-2026,Customer 1774,customer1774@example.com,Germany,Sport,1.0,197.82,0.16,Credit Card,N
+ORD-20816,2025-11-19,Customer 1816,customer1816@example.com,Canada,Sports,4.0,21.25,0.25,PayPal,N
+ORD-20794,19-Mar-2025,Customer 1794,customer1794@example.com,United Kingdom,Electronics ,5.0,$168.00,0.03,Gift Card,no
+ORD-20421,04/26/2026,Customer 1421,  customer1421@example.com ,U.K.,Home&Garden,4.0,$66.44,0.17,,N
+ORD-20229,03/29/2025,Customer 1229,customer1229@example.com,AUSTRALIA,Home & Garden,1.0,74.74,0.01,PayPal,FALSE
+ORD-20063,"May 11, 2025",Customer 1063,customer1063@example.com,australia,Electronics,2.0,184.06,0.11,Debit Card,FALSE
+ORD-20339,"September 21, 2025",Customer 1339,  customer1339@example.com ,United Kingdom,apparel,3.0,$127.85,0.11,Debit Card,No
+ORD-20336,2026-03-02,Customer 1336,customer1336@example.com,Australia,Appreal,5.0,$56.40,0.17,Debit Card,false
+ORD-20950,24-Jul-2025,Customer 1050,  customer1050@example.com ,AUS,BEAUTY,1.0,$139.34,0.26,Debit Card,false
+ORD-20667,"April 16, 2025",Customer 1667,customer1667@example.com,United Kingdom,home and garden,4.0,114.36,0.13,Gift Card,no
+ORD-21243,"March 10, 2026",Customer 1343,customer1343@example.com,AUS,Sports ,1.0,97.36,0.06,Credit Card,FALSE
+ORD-20096,2026-07-02,Customer 1096,customer1096@example.com,United Kingdom,Electronics,2.0,195.52,0.15,Credit Card,no
+ORD-21368,2025-09-24,Customer 1468,customer1468@example.com,U.S.A., Beauty,1.0,207.88,0.07,Credit Card,FALSE
+ORD-21474,02-Apr-2025,Customer 1574,customer1574@example.com,United Kingdom,Sport,5.0,$190.36,0.26,Credit Card,false
+ORD-21116,2025-11-16,Customer 1216,,CANADA,beauty,3.0,$33.80,0.25,PayPal,N
+ORD-20212,2026-02-17,Customer 1212,customer1212@example.com,germany, Beauty,4.0,20.85,0.27,Credit Card,0
+ORD-21465,12/03/2025,Customer 1565,customer1565@example.com,United Kingdom, Apparel,2.0,$188.75,0.07,PayPal,no
+ORD-20108,2025-12-05,Customer 1108,customer1108@example.com,Canada,Beuaty,1.0,$196.87,0.04,PayPal,No
+ORD-20012,2025-03-05,Customer 1012,,Australia,Sports,5.0,37.86,0.03,Gift Card,0
+ORD-21480,2025-12-05,Customer 1580,customer1580@example.com,U.S.A.,Home&Garden,3.0,9.57,0.12,PayPal,FALSE
+ORD-20765,05/25/2025,Customer 1765,customer1765@example.com,United states,Sports,4.0,114.4,0.1,Debit Card,no
+ORD-21502,16-Oct-2025,Customer 1602,  customer1602@example.com ,DE,Home & Garden,2.0,188.88,0.12,Credit Card,No
+ORD-20608,2025-09-08,Customer 1608,customer1608@example.com,england,HOME & GARDEN,1.0,$162.16,0.0,Gift Card,0
+ORD-20790,24-Oct-2025,Customer 1790,customer1790@example.com,DE,electronics,3.0,41.23,0.0,Debit Card,N
+ORD-20636,2025-05-03,Customer 1636,customer1636@example.com,Canada,Appreal,2.0,$23.66,0.03,Gift Card,0
+ORD-20807,"December 01, 2025",Customer 1807,  customer1807@example.com ,United States, Apparel,1.0,$110.90,0.06,Credit Card,N
+ORD-20037,11/16/2025,Customer 1037,customer1037@example.com,england,home and garden,5.0,$208.51,0.07,,no
+ORD-20345,01/07/2026,Customer 1345,customer1345@example.com,AUS,Home & Garden,5.0,$80.25,0.0,Gift Card,0
+ORD-21439,"October 16, 2025",Customer 1539,customer1539@example.com,australia,APPAREL,5.0,111.22,0.29,Gift Card,no
+ORD-20098,06-Aug-2026,Customer 1098,customer1098@example.com,CA,Apparel,3.0,189.07,0.3,Debit Card,0
+ORD-21332,2025-05-03,Customer 1432,customer1432@example.com,United Kingdom,Home&Garden,3.0,20.53,0.14,PayPal,N
+ORD-21017,07/25/2026,Customer 1117,customer1117@example.com,,Home&Garden,3.0,54.37,0.11,Credit Card,FALSE
+ORD-20494,18-Oct-2025,Customer 1494,customer1494@example.com,AUSTRALIA,ELECTRONICS,4.0,104.27,0.1,Gift Card,0
+ORD-20074,05-Jun-2026,Customer 1074,  customer1074@example.com ,CA,BEAUTY,5.0,109.66,0.2,Gift Card,0
+ORD-20265,04/24/2026,Customer 1265,customer1265@example.com,USA,Sports ,3.0,202.76,0.02,PayPal,FALSE
+ORD-20878,01-Apr-2026,Customer 1878,  customer1878@example.com ,AUS,Appreal,5.0,94.36,0.06,Credit Card,no
+ORD-20642,28-Jul-2025,Customer 1642,customer1642@example.com,AUS, Beauty,1.0,211.71,0.01,Credit Card,false
+ORD-21143,"June 05, 2026",Customer 1243,customer1243@example.com,,sports,2.0,20.24,,Credit Card,No
+ORD-21595,"December 01, 2025",Customer 1695,customer1695@example.com,Australia,Home & garden,3.0,$97.05,0.04,PayPal,0
+ORD-20011,"July 12, 2026",Customer 1011,  customer1011@example.com ,AUS,Electronics ,2.0,$32.64,0.11,,no
+ORD-20661,03/05/2025,Customer 1661,customer1661@example.com,germany,SPORTS,5.0,$34.40,0.1,,no
+ORD-20355,"December 07, 2025",Customer 1355,  customer1355@example.com ,canada,Beuaty,3.0,138.56,0.13,Gift Card,no
+ORD-20027,"May 26, 2025",Customer 1027,customer1027@example.com,CA,BEAUTY,1.0,126.57,0.19,Credit Card,no
+ORD-20669,02/07/2026,Customer 1669,customer1669@example.com,United Kingdom,Sports ,1.0,$142.88,0.26,Credit Card,0
+ORD-21158,29-Sep-2025,Customer 1258,  customer1258@example.com ,germany,home and garden,2.0,$89.90,0.2,Debit Card,0
+ORD-21565,03/04/2025,Customer 1665,customer1665@example.com,GERMANY,Home&Garden,5.0,$164.01,0.16,Gift Card,No
+ORD-20424,2026-07-15,Customer 1424,customer1424@example.com,germany,APPAREL,4.0,$101.29,0.06,Credit Card,No
+ORD-20024,2025-04-04,Customer 1024,customer1024@example.com,Germany,Home & Garden,3.0,$158.82,0.26,Debit Card,N
+ORD-20564,2026-07-01,Customer 1564,  customer1564@example.com ,United Kingdom,beauty,1.0,178.69,0.21,Credit Card,true
+ORD-20330,03-Aug-2025,Customer 1330,customer1330@example.com,germany,Electronic,5.0,$173.42,0.26,Gift Card,false
+ORD-21086,08-Feb-2026,Customer 1186,customer1186@example.com,CA,beauty,3.0,153.77,0.16,Credit Card,No
+ORD-20914,09-Aug-2025,Customer 1014,customer1014@example.com,CANADA,BEAUTY,4.0,37.23,0.14,PayPal,N
+ORD-20703,"June 17, 2025",Customer 1703,customer1703@example.com,canada,Beauty,4.0,85.86,0.02,Gift Card,N
+ORD-20305,02/23/2026,Customer 1305,  customer1305@example.com ,DE,Electronic,5.0,$120.77,0.22,Credit Card,No
+ORD-20501,07/13/2026,Customer 1501,customer1501@example.com,DE,apparel,1.0,156.02,0.08,Credit Card,no
+ORD-21002,22-Sep-2025,Customer 1102,customer1102@example.com,DE,Beuaty,4.0,$157.22,0.22,Gift Card,false
+ORD-20640,2026-04-22,Customer 1640,customer1640@example.com,canada,Home&Garden,4.0,$180.48,,Credit Card,0
+ORD-21258,08-Nov-2025,Customer 1358,customer1358@example.com,canada,Home & Garden,2.0,45.52,0.08,Debit Card,false
+ORD-21599,"August 05, 2025",Customer 1699,customer1699@example.com,Australia,SPORTS,4.0,$18.72,0.07,Credit Card,false
+ORD-21299,"May 28, 2026",Customer 1399,  customer1399@example.com ,United states,APPAREL,5.0,72.37,0.25,Gift Card,No
+ORD-20168,2025-03-14,Customer 1168,customer1168@example.com,CA,electronics,2.0,31.6,0.01,PayPal,N
+ORD-20286,29-Mar-2025,Customer 1286,  customer1286@example.com ,germany,Electronics ,5.0,99.43,0.05,Gift Card,no
+ORD-21106,02-Mar-2025,Customer 1206,customer1206@example.com,AUS,Electronics,4.0,91.58,0.15,Gift Card,No
+ORD-21537,06/22/2026,Customer 1637,customer1637@example.com,UK,beauty,5.0,$70.24,0.3,Gift Card,false
+ORD-21021,11/12/2025,Customer 1121,customer1121@example.com,United Kingdom,Apparel,5.0,$99.88,0.25,Gift Card,0
+ORD-21276,2025-03-13,Customer 1376,  customer1376@example.com ,us,Electronic,2.0,144.26,0.16,PayPal,no
+ORD-20809,07/03/2025,Customer 1809,  customer1809@example.com ,U.K.,Sports,5.0,$86.94,0.16,Gift Card,N
+ORD-20653,08/12/2025,Customer 1653,customer1653@example.com,CA,Home & garden,1.0,$176.08,0.28,Debit Card,No
+ORD-21011,"February 27, 2025",Customer 1111,customer1111@example.com,AUSTRALIA,APPAREL,1.0,147.72,0.27,Debit Card,TRUE
+ORD-20014,25-Mar-2026,Customer 1014,customer1014@example.com,USA,Sports,1.0,$76.39,0.27,PayPal,no
+ORD-20419,"October 23, 2025",Customer 1419,  customer1419@example.com ,Canada,Beuaty,3.0,30.86,0.09,Gift Card,No
+ORD-20188,2025-04-22,Customer 1188,customer1188@example.com,United States,Electronics,5.0,117.13,0.21,Debit Card,0
+ORD-20652,2025-07-26,Customer 1652,customer1652@example.com,GERMANY,Appreal,4.0,203.18,0.12,Gift Card,No
+ORD-20679,"November 07, 2025",Customer 1679,  customer1679@example.com ,canada,Appreal,2.0,110.68,0.27,Debit Card,No
+ORD-20436,2025-12-23,Customer 1436,customer1436@example.com,us,Electronic,2.0,17.13,0.09,Gift Card,no
+ORD-21395,"March 28, 2025",Customer 1495,customer1495@example.com,DE,BEAUTY,3.0,179.24,,PayPal,0
+ORD-21213,07/06/2026,Customer 1313,customer1313@example.com,australia,Electronic,5.0,212.72,0.11,Gift Card,TRUE
+ORD-21499,"February 13, 2026",Customer 1599,  customer1599@example.com ,CA,SPORTS,3.0,$135.09,0.09,PayPal,N
+ORD-21022,07-Nov-2025,Customer 1122,customer1122@example.com,germany,sports,4.0,$84.09,0.04,Credit Card,no
+ORD-21050,18-Jun-2026,Customer 1150,customer1150@example.com,United Kingdom,Electronics ,3.0,123.52,0.24,Gift Card,0
+ORD-20566,21-Sep-2025,Customer 1566,  customer1566@example.com ,UK,home and garden,3.0,184.99,0.06,Debit Card,No
+ORD-20416,2026-05-09,Customer 1416,customer1416@example.com,AUS,Electronics ,1.0,$199.84,0.29,Gift Card,No
+ORD-21205,02/16/2026,Customer 1305,customer1305@example.com,CANADA,apparel,5.0,$123.11,0.09,Gift Card,N
+ORD-20961,11/11/2025,Customer 1061,customer1061@example.com,United kingdom,home and garden,5.0,$20.87,0.0,PayPal,N
+ORD-21244,2025-03-13,Customer 1344,  customer1344@example.com ,germany,,2.0,195.77,,Gift Card,no
+ORD-20778,29-Mar-2025,Customer 1778,customer1778@example.com,,Home & Garden,5.0,21.0,0.07,Gift Card,N
+ORD-21087,"October 23, 2025",Customer 1187,customer1187@example.com,us,apparel,5.0,158.2,0.03,Debit Card,FALSE
+ORD-20407,"May 12, 2026",Customer 1407,customer1407@example.com,Australia,Beuaty,5.0,174.51,0.19,Gift Card,0
+ORD-20587,"June 08, 2025",Customer 1587,customer1587@example.com,england,Sports,1.0,121.25,0.07,PayPal,N
+ORD-20396,2025-06-08,Customer 1396,customer1396@example.com,australia,home and garden,2.0,91.55,0.08,Credit Card,false
+ORD-21304,2026-03-28,Customer 1404,customer1404@example.com,U.S.A.,home and garden,5.0,85.6,0.14,Gift Card,no
+ORD-20366,09-Jul-2026,Customer 1366,  customer1366@example.com ,us, Beauty,5.0,85.9,0.04,PayPal,no
+ORD-21192,2025-10-30,Customer 1292,  customer1292@example.com ,CA,Sport,5.0,$157.50,0.0,Gift Card,false
+ORD-20782,06-Sep-2025,Customer 1782,  customer1782@example.com ,GERMANY,Beauty,2.0,$204.87,0.26,Gift Card,0
+ORD-20729,01/01/2026,Customer 1729,customer1729@example.com,United kingdom,Beuaty,2.0,154.64,0.25,Gift Card,no
+ORD-20796,2026-08-11,Customer 1796,  customer1796@example.com ,Germany,Electronic,2.0,$195.99,0.08,Gift Card,false
+ORD-21295,"December 29, 2025",Customer 1395,  customer1395@example.com ,UK,Electronics ,1.0,93.21,0.07,Credit Card,Y
+ORD-21291,"April 03, 2026",Customer 1391,  customer1391@example.com ,DE,Home & garden,2.0,$29.16,0.01,Credit Card,false
+ORD-20844,2025-11-05,Customer 1844,customer1844@example.com,australia,home and garden,2.0,60.14,0.06,Debit Card,N
+ORD-20192,2025-12-23,Customer 1192,customer1192@example.com,America,Electronics ,3.0,151.59,0.27,Debit Card,FALSE
+ORD-20149,05/29/2026,Customer 1149,customer1149@example.com,U.K.,apparel,4.0,$133.38,0.29,Credit Card,0
+ORD-21513,02/06/2026,Customer 1613,customer1613@example.com,AUSTRALIA, Beauty,5.0,108.19,0.13,Gift Card,FALSE
+ORD-21341,01/14/2026,Customer 1441,customer1441@example.com,AUSTRALIA,Home&Garden,2.0,164.71,2.09,Debit Card,N
+ORD-21112,2025-07-16,Customer 1212,customer1212@example.com,United states,Sport,2.0,176.03,0.17,PayPal,N
+ORD-20334,23-May-2026,Customer 1334,customer1334@example.com,GERMANY,Sport,1.0,$86.46,0.1,PayPal,no
+ORD-20299,"August 01, 2025",Customer 1299,customer1299@example.com,United States, Beauty,5.0,94.8,0.07,Credit Card,false
+ORD-21119,"May 28, 2025",Customer 1219,customer1219@example.com,United States,Sports,5.0,32.09,0.29,PayPal,No
+ORD-21073,04/01/2025,Customer 1173,  customer1173@example.com ,england,Electronics,2.0,182.26,0.19,Gift Card,No
+ORD-20829,03/08/2025,Customer 1829,customer1829@example.com,CANADA,Sports ,2.0,$146.47,0.19,Gift Card,0
+ORD-20887,"November 26, 2025",Customer 1887,customer1887@example.com,Australia,BEAUTY,1.0,154.92,0.04,Debit Card,No
+ORD-21024,2025-10-06,Customer 1124,customer1124@example.com,Canada,Apparel,3.0,$116.29,0.07,Debit Card,FALSE
+ORD-21371,"April 06, 2026",Customer 1471,  customer1471@example.com ,United Kingdom,ELECTRONICS,5.0,121.69,0.23,Credit Card,0
+ORD-20240,2026-06-26,Customer 1240,customer1240@example.com,DE,apparel,1.0,211.49,0.08,Credit Card,Y
+ORD-20199,"January 21, 2026",Customer 1199,customer1199@example.com,USA,Sports,1.0,$195.08,0.02,Credit Card,No
+ORD-20779,"September 01, 2025",Customer 1779,customer1779@example.com,AUSTRALIA,sports,1.0,$63.54,0.14,Credit Card,No
+ORD-20045,06/18/2025,Customer 1045,  customer1045@example.com ,us,Sports ,3.0,130.65,0.21,PayPal,no
+ORD-21154,10-Nov-2025,Customer 1254,customer1254@example.com,england,Sport,1.0,150.84,0.04,PayPal,N
+ORD-20540,2025-06-25,Customer 1540,  customer1540@example.com ,United states, Apparel,5.0,$49.63,0.25,Gift Card,N
+ORD-21072,2025-07-08,Customer 1172,customer1172@example.com,U.K.,apparel,4.0,44.69,0.15,Gift Card,false
+ORD-20137,03/14/2025,Customer 1137,  customer1137@example.com ,United Kingdom,electronics,1.0,$56.92,0.04,Credit Card,FALSE
+ORD-21190,19-May-2025,Customer 1290,  customer1290@example.com ,DE,Beauty,4.0,$39.97,0.11,Gift Card,No
+ORD-21488,2025-08-25,Customer 1588,  customer1588@example.com ,australia,electronics,1.0,199.12,0.23,Gift Card,FALSE
+ORD-20533,08/11/2026,Customer 1533,customer1533@example.com,Australia,,2.0,146.29,0.29,PayPal,yes
+ORD-20209,11/18/2025,Customer 1209,customer1209@example.com,U.K.,Sport,2.0,22.04,0.26,Debit Card,false
+ORD-21597,04/18/2025,Customer 1697,,CA,Electronics ,4.0,211.72,0.19,Credit Card,N
+ORD-21120,2025-12-02,Customer 1220,  customer1220@example.com ,us,HOME & GARDEN,2.0,$17.44,0.15,Credit Card,Yes
+ORD-21375,"June 16, 2025",Customer 1475,customer1475@example.com,UK,Electronics,2.0,217.36,0.23,Credit Card,no
+ORD-21539,"May 01, 2025",Customer 1639,customer1639@example.com,CANADA,Appreal,5.0,215.77,0.27,PayPal,FALSE
+ORD-20381,12/30/2025,Customer 1381,customer1381@example.com,AUS,Beuaty,2.0,$44.64,0.26,Credit Card,no
+ORD-20205,06/20/2025,Customer 1205,customer1205@example.com,AUS,Electronics ,4.0,52.71,0.14,Credit Card,No
+ORD-21378,04-Sep-2025,Customer 1478,customer1478@example.com,USA,SPORTS,3.0,115.14,0.04,Debit Card,N
+ORD-21152,2026-04-16,Customer 1252,  customer1252@example.com ,United states,Beauty,3.0,150.1,0.07,Credit Card,false
+ORD-21346,31-Oct-2025,Customer 1446,  customer1446@example.com ,AUS,Appreal,1.0,38.74,0.28,Debit Card,false
+ORD-21594,30-May-2025,Customer 1694,customer1694@example.com,United kingdom,Electronics ,5.0,127.21,0.06,Gift Card,N
+ORD-20638,26-Feb-2026,Customer 1638,customer1638@example.com,U.K.,Home & garden,3.0,$178.34,0.16,Gift Card,no
+ORD-20884,2026-04-24,Customer 1884,customer1884@example.com,United Kingdom,Beauty,1.0,75.33,0.1,Gift Card,FALSE
+ORD-20448,2025-08-17,Customer 1448,  customer1448@example.com ,Germany,HOME & GARDEN,5.0,121.84,0.27,PayPal,yes
+ORD-20510,04-Aug-2025,Customer 1510,customer1510@example.com,Australia,SPORTS,5.0,116.21,0.25,Gift Card,FALSE
+ORD-20423,"February 01, 2026",Customer 1423,customer1423@example.com,Australia,Beauty,2.0,52.14,0.21,Gift Card,false
+ORD-20006,28-Jun-2026,Customer 1006,customer1006@example.com,GERMANY,ELECTRONICS,1.0,$53.80,0.25,Credit Card,FALSE
+ORD-20158,21-Feb-2026,Customer 1158,  customer1158@example.com ,America,beauty,5.0,103.21,0.12,PayPal,N
+ORD-20032,2025-07-24,Customer 1032,customer1032@example.com,,Beauty,3.0,188.07,0.27,Gift Card,0
+ORD-21564,2026-08-09,Customer 1664,customer1664@example.com,AUS,Electronic,4.0,8.35,0.18,Debit Card,0
+ORD-20156,2025-08-01,Customer 1156,,,Electronic,1.0,$167.50,0.12,Debit Card,no
+ORD-20521,05/18/2026,Customer 1521,customer1521@example.com,Australia,beauty,,143.05,0.05,Credit Card,0
+ORD-20490,27-Nov-2025,Customer 1490,  customer1490@example.com ,USA,Electronic,4.0,$139.07,0.11,Debit Card,N
+ORD-21004,2026-05-07,Customer 1104,customer1104@example.com,australia,Beauty,1.0,44.48,0.2,Debit Card,No
+ORD-20593,08/05/2026,Customer 1593,customer1593@example.com,canada,Sports,1.0,$77.31,0.08,Debit Card,N
+ORD-20622,12-Aug-2025,Customer 1622,customer1622@example.com,Germany,beauty,4.0,18.53,0.3,Credit Card,N
+ORD-20994,17-Jan-2026,Customer 1094,customer1094@example.com,australia,beauty,1.0,$55.24,0.27,,false
+ORD-21386,26-Jan-2026,Customer 1486,  customer1486@example.com ,Australia,Sport,3.0,100.07,0.16,PayPal,no
+ORD-20406,30-Apr-2026,Customer 1406,customer1406@example.com,United kingdom, Apparel,3.0,$110.44,,PayPal,no
+ORD-20939,"November 06, 2025",Customer 1039,customer1039@example.com,USA,apparel,3.0,$117.40,0.01,PayPal,0
+ORD-20545,01/22/2026,Customer 1545,customer1545@example.com,germany,Sports ,3.0,86.81,0.01,PayPal,FALSE
+ORD-21455,"June 15, 2025",Customer 1555,customer1555@example.com,AUS,Electronic,5.0,184.65,0.23,Gift Card,No
+ORD-21267,"August 03, 2025",Customer 1367,customer1367@example.com,AUSTRALIA,ELECTRONICS,3.0,132.62,0.2,Credit Card,no
+ORD-21133,10/05/2025,Customer 1233,customer1233@example.com,england,Home & garden,2.0,$17.99,0.2,Credit Card,N
+ORD-21164,2026-06-07,Customer 1264,  customer1264@example.com ,CANADA,Sport,2.0,53.24,0.18,Credit Card,No
+ORD-20681,02/28/2025,Customer 1681,customer1681@example.com,AUSTRALIA,Home & garden,5.0,$101.31,0.19,Credit Card,yes
+ORD-20895,"August 04, 2026",Customer 1895,customer1895@example.com,,electronics,,126.02,0.24,Debit Card,no
+ORD-20153,03/16/2025,Customer 1153,customer1153@example.com,AUSTRALIA,apparel,4.0,$55.26,0.15,Credit Card,0
+ORD-20122,19-Aug-2025,Customer 1122,,CA,,2.0,156.61,0.23,Debit Card,N
+ORD-20120,2026-04-23,Customer 1120,customer1120@example.com,United states,Sport,5.0,$220.00,0.12,Credit Card,yes
+ORD-20846,05-Feb-2026,Customer 1846,  customer1846@example.com ,UK,ELECTRONICS,1.0,131.38,0.3,Debit Card,1
+ORD-20600,2025-06-11,Customer 1600,  customer1600@example.com ,United states,Beuaty,3.0,200.21,0.24,PayPal,FALSE
+ORD-20463,"December 10, 2025",Customer 1463,  customer1463@example.com ,UK,Beuaty,4.0,$149.69,0.15,PayPal,N
+ORD-21318,18-May-2026,Customer 1418,customer1418@example.com,CANADA,Beauty,2.0,$197.27,0.04,Credit Card,No
+ORD-21226,07-Aug-2026,Customer 1326,customer1326@example.com,,Apparel,1.0,182.77,0.19,Gift Card,no
+ORD-21433,10/15/2025,Customer 1533,  customer1533@example.com ,United Kingdom,electronics,5.0,56.63,0.21,Credit Card,N
+ORD-20586,29-May-2025,Customer 1586,customer1586@example.com,CANADA,home and garden,1.0,198.23,0.05,Debit Card,No
+ORD-20946,17-Sep-2025,Customer 1046,customer1046@example.com,AUS,Electronic,1.0,20.88,0.13,PayPal,N
+ORD-21320,2025-07-07,Customer 1420,customer1420@example.com,england,Home & Garden,3.0,36.99,0.01,Debit Card,no
+ORD-21344,2025-03-26,Customer 1444,customer1444@example.com,United Kingdom,Beauty,5.0,$48.49,0.16,PayPal,0
+ORD-20522,12-Nov-2025,Customer 1522,customer1522@example.com,AUS,beauty,1.0,91.41,0.28,Credit Card,false
+ORD-20197,03/21/2025,Customer 1197,customer1197@example.com,GERMANY,BEAUTY,4.0,$198.66,0.07,PayPal,No
+ORD-20150,02-Aug-2026,Customer 1150,customer1150@example.com,CA,Appreal,3.0,152.76,0.27,Gift Card,FALSE
+ORD-20528,2025-10-29,Customer 1528,customer1528@example.com,UK,SPORTS,1.0,182.28,0.05,Credit Card,0
+ORD-20690,06-Apr-2025,Customer 1690,  customer1690@example.com ,GERMANY,sports,5.0,142.37,0.02,Gift Card,yes
+ORD-20180,2025-12-08,Customer 1180,customer1180@example.com,UK,Apparel,4.0,168.71,0.03,PayPal,1
+ORD-20992,2025-12-20,Customer 1092,customer1092@example.com,AUSTRALIA,Home & Garden,5.0,$87.29,0.03,Credit Card,true
+ORD-21170,11-Jun-2026,Customer 1270,customer1270@example.com,DE,Appreal,5.0,197.6,0.2,PayPal,0
+ORD-20832,2025-06-12,Customer 1832,customer1832@example.com,USA,ELECTRONICS,1.0,$27.15,0.0,Debit Card,FALSE
+ORD-21188,2025-05-18,Customer 1288,customer1288@example.com,GERMANY,SPORTS,1.0,15.25,0.19,Gift Card,true
+ORD-20650,12-Feb-2026,Customer 1650,customer1650@example.com,AUS,electronics,2.0,84.13,0.2,PayPal,false
+ORD-20257,07/03/2025,Customer 1257,  customer1257@example.com ,AUSTRALIA,sports,4.0,53.15,0.12,PayPal,N
+ORD-21142,13-Apr-2026,Customer 1242,  customer1242@example.com ,United states,Sport,5.0,$117.56,0.26,Credit Card,FALSE
+ORD-21045,05/10/2026,Customer 1145,customer1145@example.com,Canada,APPAREL,2.0,$128.12,0.14,Credit Card,N
+ORD-21280,2026-06-14,Customer 1380,  customer1380@example.com ,Australia,Electronics,1.0,14.83,0.13,Gift Card,no
+ORD-20474,23-Feb-2026,Customer 1474,customer1474@example.com,CANADA,Electronics ,1.0,210.16,0.21,Debit Card,TRUE
+ORD-20118,03-Feb-2026,Customer 1118,  customer1118@example.com ,United Kingdom,,4.0,218.59,0.09,Gift Card,FALSE
+ORD-20178,05-Mar-2025,Customer 1178,,CANADA,beauty,3.0,$8.92,0.14,PayPal,false
+ORD-20686,29-Jun-2026,Customer 1686,customer1686@example.com,DE,apparel,4.0,$84.73,0.03,Debit Card,N
+ORD-20297,02/15/2026,Customer 1297,  customer1297@example.com ,United States,home and garden,5.0,127.04,0.25,Credit Card,N
+ORD-21305,06/30/2026,Customer 1405,  customer1405@example.com ,us,BEAUTY,2.0,157.83,0.16,Credit Card,false
+ORD-20761,09/22/2025,Customer 1761,  customer1761@example.com ,UK, Beauty,1.0,$71.51,0.17,Gift Card,FALSE
+ORD-21516,2026-06-29,Customer 1616,customer1616@example.com,Canada,Electronic,5.0,$35.97,0.19,Gift Card,no
+ORD-20109,03/17/2026,Customer 1109,customer1109@example.com,Australia,beauty,5.0,34.23,0.14,Gift Card,0
+ORD-21505,01/05/2026,Customer 1605,customer1605@example.com,Australia,SPORTS,1.0,54.69,0.11,Gift Card,No
+ORD-20542,04-Mar-2026,Customer 1542,customer1542@example.com,Australia,Home & Garden,5.0,$125.21,0.06,PayPal,TRUE
+ORD-20935,"March 28, 2025",Customer 1035,customer1035@example.com,U.K.,BEAUTY,5.0,167.8,0.3,Gift Card,false
+ORD-20649,05/01/2025,Customer 1649,,canada,APPAREL,4.0,174.44,0.17,Gift Card,no
+ORD-20712,2025-06-28,Customer 1712,customer1712@example.com,United Kingdom,Beauty,3.0,$9.78,0.28,Debit Card,No
+ORD-21438,16-Jan-2026,Customer 1538,customer1538@example.com,U.S.A.,Home & garden,4.0,62.27,0.19,Debit Card,Yes
+ORD-21044,2025-12-05,Customer 1144,customer1144@example.com,United states,ELECTRONICS,1.0,$32.54,0.0,Gift Card,FALSE
+ORD-21034,17-May-2026,Customer 1134,customer1134@example.com,U.S.A.,Electronics,2.0,$156.16,2.46,Debit Card,0
+ORD-20732,2026-01-16,Customer 1732,  customer1732@example.com ,Canada,Home & garden,5.0,112.72,0.24,PayPal,FALSE
+ORD-20917,04/03/2025,Customer 1017,customer1017@example.com,germany,sports,4.0,93.74,0.11,Debit Card,no
+ORD-21298,14-Dec-2025,Customer 1398,  customer1398@example.com ,CANADA,home and garden,3.0,133.3,0.28,Debit Card,No
+ORD-20139,"November 28, 2025",Customer 1139,  customer1139@example.com ,America,home and garden,5.0,$25.94,0.12,Debit Card,false
+ORD-20223,"December 26, 2025",Customer 1223,customer1223@example.com,Australia,Sports,4.0,$144.37,0.24,Gift Card,1
+ORD-20075,"June 05, 2025",Customer 1075,customer1075@example.com,United States,,,182.31,0.12,PayPal,false
+ORD-20882,14-Jul-2026,Customer 1882,customer1882@example.com,canada,APPAREL,4.0,$144.52,0.28,Debit Card,false
+ORD-21283,"January 15, 2026",Customer 1383,,USA,Beuaty,1.0,$151.53,0.23,Gift Card,no
+ORD-20643,"January 20, 2026",Customer 1643,customer1643@example.com,U.K.,apparel,4.0,$193.58,0.11,PayPal,N
+ORD-20588,2025-04-23,Customer 1588,  customer1588@example.com ,australia,Sports,2.0,$56.19,0.14,Gift Card,No
+ORD-21561,06/01/2025,Customer 1661,customer1661@example.com,,ELECTRONICS,3.0,135.63,,PayPal,FALSE
+ORD-20708,2026-06-26,Customer 1708,  customer1708@example.com ,UK,Home & Garden,,$158.88,0.28,PayPal,N
+ORD-20623,"June 03, 2025",Customer 1623,  customer1623@example.com ,england,Beauty,1.0,191.15,0.08,Debit Card,false
+ORD-20723,"May 21, 2025",Customer 1723,customer1723@example.com,GERMANY,Electronics ,5.0,$71.34,0.08,Gift Card,false
+ORD-21409,08/23/2025,Customer 1509,customer1509@example.com,canada,sports,3.0,141.61,0.2,Debit Card,No
+ORD-21211,"December 18, 2025",Customer 1311,customer1311@example.com,Germany,electronics,3.0,98.72,0.09,Debit Card,true
+ORD-21324,2025-05-27,Customer 1424,customer1424@example.com,USA,Appreal,2.0,$31.77,0.12,Gift Card,0
+ORD-21242,12-Jun-2025,Customer 1342,customer1342@example.com,GERMANY,beauty,2.0,157.36,0.21,Debit Card,TRUE
+ORD-20395,"June 19, 2025",Customer 1395,  customer1395@example.com ,United Kingdom,Sports ,5.0,$125.50,0.29,Debit Card,false
+ORD-20839,"May 12, 2025",Customer 1839,customer1839@example.com,UK,APPAREL,3.0,$107.34,0.27,Debit Card,N
+ORD-21079,"July 03, 2026",Customer 1179,customer1179@example.com,USA,Sports,1.0,31.15,0.09,Debit Card,0
+ORD-21399,"December 27, 2025",Customer 1499,  customer1499@example.com ,AUS,beauty,1.0,$185.60,0.0,PayPal,false
+ORD-21506,16-Jul-2026,Customer 1606,,Germany,beauty,5.0,$104.55,0.03,PayPal,FALSE
+ORD-20165,04/13/2025,Customer 1165,customer1165@example.com,canada,Home&Garden,2.0,$26.95,0.09,Gift Card,0
+ORD-21410,29-Jun-2025,Customer 1510,customer1510@example.com,CA,ELECTRONICS,1.0,$71.19,0.16,PayPal,false
+ORD-20115,"May 19, 2025",Customer 1115,customer1115@example.com,United Kingdom,Home&Garden,3.0,$168.51,0.09,Gift Card,No
+ORD-20682,18-May-2026,Customer 1682,customer1682@example.com,America,Electronics ,2.0,$173.38,0.13,,0
+ORD-20310,15-Apr-2026,Customer 1310,  customer1310@example.com ,AUSTRALIA, Beauty,1.0,$65.17,0.16,PayPal,true
+ORD-21527,"November 08, 2025",Customer 1627,  customer1627@example.com ,australia,sports,2.0,71.5,0.26,Debit Card,No
+ORD-20475,"August 09, 2026",Customer 1475,customer1475@example.com,United kingdom,Sports,5.0,188.82,0.03,Debit Card,FALSE
+ORD-20420,2026-04-04,Customer 1420,customer1420@example.com,Canada,Sports,5.0,168.53,0.1,Debit Card,0
+ORD-20554,03-Aug-2025,Customer 1554,customer1554@example.com,Australia,APPAREL,1.0,52.05,0.24,Gift Card,no
+ORD-21288,2026-06-09,Customer 1388,,CANADA,Electronic,3.0,108.64,0.11,Debit Card,no
+ORD-20218,14-Feb-2026,Customer 1218,customer1218@example.com,GERMANY,beauty,5.0,63.83,0.0,Debit Card,0
+ORD-20211,"February 14, 2026",Customer 1211,  customer1211@example.com ,GERMANY,Appreal,4.0,$59.45,0.27,Gift Card,No
+ORD-20634,10-Mar-2025,Customer 1634,customer1634@example.com,AUS,BEAUTY,5.0,32.96,0.23,Gift Card,FALSE
+ORD-20054,13-Oct-2025,Customer 1054,customer1054@example.com,America, Apparel,1.0,178.02,0.12,Credit Card,false
+ORD-21078,08-Mar-2025,Customer 1178,customer1178@example.com,germany,Electronic,3.0,73.0,0.01,Credit Card,N
+ORD-21246,15-Apr-2026,Customer 1346,customer1346@example.com,Canada,SPORTS,5.0,212.46,0.18,Gift Card,no
+ORD-20648,2026-06-10,Customer 1648,customer1648@example.com,AUS,Sport,2.0,$114.85,0.26,Debit Card,false
+ORD-21590,09-Sep-2025,Customer 1690,customer1690@example.com,germany,home and garden,4.0,45.99,0.05,Credit Card,No
+ORD-21313,04/05/2026,Customer 1413,customer1413@example.com,U.K.,HOME & GARDEN,4.0,30.03,0.2,Credit Card,0
+ORD-21300,2026-03-15,Customer 1400,  customer1400@example.com ,us,Home & Garden,3.0,87.68,0.15,PayPal,FALSE
+ORD-20718,18-Oct-2025,Customer 1718,  customer1718@example.com ,GERMANY,Home&Garden,4.0,84.31,0.05,Credit Card,FALSE
+ORD-21261,12/08/2025,Customer 1361,customer1361@example.com,DE,BEAUTY,3.0,$103.65,0.11,Gift Card,false
+ORD-20147,"April 28, 2025",Customer 1147,  customer1147@example.com ,Canada,Apparel,2.0,$161.57,0.0,PayPal,No
+ORD-20953,07/20/2026,Customer 1053,customer1053@example.com,england,APPAREL,2.0,178.69,0.2,Gift Card,false
+ORD-20254,21-Apr-2026,Customer 1254,  customer1254@example.com ,Germany,,5.0,$168.89,0.24,Debit Card,N
+ORD-20106,15-Nov-2025,Customer 1106,  customer1106@example.com ,,beauty,2.0,$201.01,0.03,Gift Card,FALSE
+ORD-20565,09/07/2025,Customer 1565,customer1565@example.com,CANADA,Beauty,1.0,30.36,0.19,Credit Card,No
+ORD-20392,2025-03-16,Customer 1392,  customer1392@example.com ,GERMANY,home and garden,2.0,128.77,0.1,Debit Card,FALSE
+ORD-21266,19-Jan-2026,Customer 1366,customer1366@example.com,Canada,HOME & GARDEN,3.0,140.77,0.13,Credit Card,Yes
+ORD-20230,15-Jan-2026,Customer 1230,customer1230@example.com,United kingdom, Apparel,1.0,$38.80,0.11,PayPal,TRUE
+ORD-20146,03-Jan-2026,Customer 1146,customer1146@example.com,us, Apparel,4.0,58.19,0.27,Gift Card,0
+ORD-21557,04/30/2025,Customer 1657,customer1657@example.com,UK,Sport,1.0,76.81,0.17,Gift Card,false
+ORD-21019,"October 29, 2025",Customer 1119,customer1119@example.com,UK,Home&Garden,4.0,118.05,0.16,Credit Card,false
+ORD-20167,"August 27, 2025",Customer 1167,  customer1167@example.com ,USA,Apparel,4.0,65.14,0.1,Debit Card,true
+ORD-20956,2025-08-17,Customer 1056,customer1056@example.com,Germany,electronics,1.0,183.97,0.16,Credit Card,false
+ORD-20052,2025-08-21,Customer 1052,customer1052@example.com,us,sports,2.0,30.4,0.11,Gift Card,FALSE
+ORD-20598,25-Mar-2026,Customer 1598,customer1598@example.com,AUS,apparel,5.0,$111.90,0.11,Debit Card,no
+ORD-20808,2026-03-06,Customer 1808,customer1808@example.com,United States,Home&Garden,5.0,112.79,0.14,Debit Card,no
+ORD-21437,04/13/2026,Customer 1537,customer1537@example.com,USA,Beauty,2.0,$173.42,0.15,PayPal,no
+ORD-20399,"April 23, 2026",Customer 1399,customer1399@example.com,DE,SPORTS,3.0,$85.95,0.19,Gift Card,No
+ORD-21353,10/10/2025,Customer 1453,customer1453@example.com,United kingdom,ELECTRONICS,1.0,$38.53,0.24,Debit Card,false
+ORD-20651,"March 08, 2025",Customer 1651,customer1651@example.com,UK,SPORTS,4.0,$207.25,0.25,Debit Card,N
+ORD-20858,10-Jun-2026,Customer 1858,  customer1858@example.com ,CANADA,Beuaty,5.0,$104.82,0.01,Credit Card,No
+ORD-20468,2026-04-26,Customer 1468,  customer1468@example.com ,germany,sports,4.0,99.91,0.3,PayPal,No
+ORD-21274,14-Mar-2025,Customer 1374,customer1374@example.com,America,BEAUTY,3.0,$88.52,0.26,Debit Card,no
+ORD-21422,28-Sep-2025,Customer 1522,  customer1522@example.com ,Canada,Home & garden,5.0,31.48,0.26,PayPal,false
+ORD-20347,"October 18, 2025",Customer 1347,customer1347@example.com,DE,Home&Garden,3.0,204.61,0.09,Debit Card,No
+ORD-20280,2025-03-21,Customer 1280,customer1280@example.com,UK,electronics,5.0,$58.99,0.01,Gift Card,Y
+ORD-20990,23-Apr-2026,Customer 1090,customer1090@example.com,,Home & Garden,2.0,140.51,0.11,PayPal,N
+ORD-21314,23-Jul-2025,Customer 1414,customer1414@example.com,germany,Electronics,4.0,63.42,0.21,PayPal,no
+ORD-20715,"June 24, 2026",Customer 1715,customer1715@example.com,canada,Home&Garden,1.0,83.1,0.27,Debit Card,0
+ORD-20009,06/05/2026,Customer 1009,,CA, Beauty,5.0,62.47,0.2,Credit Card,false
+ORD-20740,2026-02-02,Customer 1740,customer1740@example.com,DE,Sport,1.0,184.58,0.0,Credit Card,FALSE
+ORD-20270,02-May-2025,Customer 1270,customer1270@example.com,AUS,BEAUTY,3.0,50.18,0.16,Debit Card,FALSE
+ORD-21370,13-Aug-2026,Customer 1470,customer1470@example.com,CANADA,Electronic,4.0,$219.12,0.22,PayPal,false
+ORD-20285,03/04/2026,Customer 1285,  customer1285@example.com ,United kingdom,home and garden,4.0,$124.70,0.0,Gift Card,yes
+ORD-20541,03/08/2026,Customer 1541,customer1541@example.com,australia,Sport,5.0,207.49,0.23,Credit Card,N
+ORD-20741,04/16/2026,Customer 1741,customer1741@example.com,england,SPORTS,1.0,$65.27,0.24,Debit Card,no
+ORD-20444,2026-05-10,Customer 1444,  customer1444@example.com ,United kingdom,Appreal,3.0,43.93,0.18,Debit Card,0
+ORD-21495,"January 26, 2026",Customer 1595,customer1595@example.com,United kingdom,beauty,5.0,133.76,0.12,Debit Card,N
+ORD-20830,26-Aug-2025,Customer 1830,customer1830@example.com,us,apparel,1.0,179.2,0.13,Gift Card,0
+ORD-20103,"October 06, 2025",Customer 1103,customer1103@example.com,USA,Appreal,5.0,135.03,0.12,Gift Card,N
+ORD-21458,21-Jun-2026,Customer 1558,  customer1558@example.com ,AUS,beauty,4.0,128.1,0.3,Gift Card,false
+ORD-20099,"April 14, 2026",Customer 1099,customer1099@example.com,AUSTRALIA,beauty,3.0,117.68,0.13,,1
+ORD-20781,06/10/2025,Customer 1781,customer1781@example.com,germany,HOME & GARDEN,3.0,200.46,0.25,Gift Card,false
+ORD-20803,"December 28, 2025",Customer 1803,customer1803@example.com,CA,SPORTS,5.0,182.27,0.19,Debit Card,false
+ORD-20855,"April 10, 2026",Customer 1855,customer1855@example.com,CA,Sports,3.0,202.92,0.19,PayPal,No
+ORD-21278,23-Jul-2026,Customer 1378,customer1378@example.com,DE,sports,1.0,108.38,0.03,Debit Card,false
+ORD-20495,"April 15, 2025",Customer 1495,customer1495@example.com,,beauty,3.0,32.4,0.06,Debit Card,no
+ORD-20432,2026-08-07,Customer 1432,customer1432@example.com,Canada,Beuaty,2.0,215.29,0.25,Credit Card,0
+ORD-20142,20-Jun-2025,Customer 1142,customer1142@example.com,australia,Beuaty,2.0,117.23,0.06,Gift Card,No
+ORD-20827,"January 13, 2026",Customer 1827,customer1827@example.com,AUSTRALIA,Beauty,4.0,40.57,0.19,PayPal,false
+ORD-20166,06-Dec-2025,Customer 1166,customer1166@example.com,australia,Electronics ,1.0,194.62,0.01,Gift Card,0
+ORD-20161,12/24/2025,Customer 1161,customer1161@example.com,AUSTRALIA,Sports,1.0,49.4,0.15,PayPal,no
+ORD-21160,2026-07-05,Customer 1260,customer1260@example.com,,Home & garden,4.0,38.21,0.11,Debit Card,FALSE
+ORD-21040,2026-05-20,Customer 1140,  customer1140@example.com ,United States,beauty,5.0,130.59,0.19,PayPal,no
+ORD-21137,03/18/2025,Customer 1237,customer1237@example.com,United states,,5.0,179.38,0.06,PayPal,FALSE
+ORD-20007,"December 17, 2025",Customer 1007,  customer1007@example.com ,United states,Beuaty,4.0,32.43,0.23,PayPal,FALSE
+ORD-20173,06/08/2026,Customer 1173,customer1173@example.com,AUSTRALIA,beauty,2.0,39.87,0.12,Credit Card,No
+ORD-20446,16-Mar-2025,Customer 1446,  customer1446@example.com ,australia, Apparel,2.0,84.12,0.14,Gift Card,FALSE
+ORD-21512,2025-10-02,Customer 1612,customer1612@example.com,germany,Appreal,3.0,122.91,0.23,Credit Card,N
+ORD-20828,2026-06-04,Customer 1828,customer1828@example.com,United states,Sports ,2.0,$105.56,0.22,Debit Card,N
+ORD-20866,11-Dec-2025,Customer 1866,customer1866@example.com,Australia,beauty,4.0,$187.48,0.21,PayPal,1
+ORD-20579,"April 12, 2026",Customer 1579,  customer1579@example.com ,CA,Appreal,1.0,157.82,0.01,Credit Card,0
+ORD-21531,"February 24, 2026",Customer 1631,customer1631@example.com,Australia,HOME & GARDEN,1.0,68.02,0.27,Debit Card,no
+ORD-20204,2025-09-23,Customer 1204,customer1204@example.com,USA,electronics,1.0,197.24,0.29,PayPal,false
+ORD-20902,24-Jun-2026,Customer 1002,customer1002@example.com,UK,Electronics ,1.0,143.61,0.01,Gift Card,false
+ORD-20580,2026-06-15,Customer 1580,  customer1580@example.com ,germany,Electronics ,5.0,$168.44,0.28,Gift Card,0
+ORD-21496,2025-08-18,Customer 1596,customer1596@example.com,, Beauty,3.0,68.18,0.3,Gift Card,0
+ORD-21136,2025-11-01,Customer 1236,customer1236@example.com,U.K.,Home & Garden,1.0,142.23,,Credit Card,FALSE
+ORD-21416,2025-11-12,Customer 1516,customer1516@example.com,United Kingdom,Beuaty,4.0,$204.04,,Debit Card,false
+ORD-20485,12/22/2025,Customer 1485,  customer1485@example.com ,canada,Electronics,3.0,$159.84,0.04,Gift Card,FALSE
+ORD-21000,2026-07-24,Customer 1100,customer1100@example.com,germany,Home & garden,3.0,60.15,0.23,Credit Card,0
+ORD-20644,2026-07-17,Customer 1644,  customer1644@example.com ,Germany, Beauty,1.0,83.18,,Gift Card,FALSE
+ORD-21541,02/27/2025,Customer 1641,customer1641@example.com,GERMANY,sports,4.0,37.75,0.16,Debit Card,false
+ORD-21504,2026-03-19,Customer 1604,customer1604@example.com,GERMANY,Sports ,4.0,66.4,0.28,Gift Card,N
+ORD-20859,"April 03, 2026",Customer 1859,customer1859@example.com,england,HOME & GARDEN,1.0,212.68,0.01,Credit Card,false
+ORD-21561,06/01/2025,Customer 1661,customer1661@example.com,,ELECTRONICS,3.0,135.63,,PayPal,FALSE
+ORD-20003,"September 07, 2025",Customer 1003,customer1003@example.com,United Kingdom,home and garden,5.0,137.78,0.23,Credit Card,No
+ORD-21392,2025-07-06,Customer 1492,customer1492@example.com,U.K.,Home & garden,,167.6,,Credit Card,0
+ORD-20358,06-Apr-2025,Customer 1358,,CANADA,apparel,4.0,41.55,0.23,PayPal,no
+ORD-20428,2026-05-29,Customer 1428,customer1428@example.com,australia,Apparel,4.0,$179.21,0.22,Debit Card,FALSE
+ORD-20276,2025-05-01,Customer 1276,  customer1276@example.com ,U.S.A.,,2.0,86.86,0.25,Gift Card,1
+ORD-20266,04-Aug-2026,Customer 1266,customer1266@example.com,england,Home & Garden,4.0,$219.83,0.24,Gift Card,TRUE
+ORD-20749,05/11/2025,Customer 1749,customer1749@example.com,australia,Electronics,3.0,$21.12,0.29,PayPal,FALSE
+ORD-21412,2025-07-03,Customer 1512,customer1512@example.com,canada,Home & garden,5.0,57.05,0.12,Debit Card,FALSE
+ORD-20030,20-Nov-2025,Customer 1030,customer1030@example.com,USA,Sports,4.0,95.02,0.13,Debit Card,false
+ORD-20445,03/09/2025,Customer 1445,  customer1445@example.com ,United Kingdom,APPAREL,4.0,43.43,0.12,PayPal,No
+ORD-20760,2025-03-08,Customer 1760,customer1760@example.com,GERMANY,beauty,2.0,$77.47,0.26,PayPal,No
+ORD-20373,10/28/2025,Customer 1373,customer1373@example.com,us,electronics,5.0,$87.16,0.19,Credit Card,false
+ORD-21256,2026-01-25,Customer 1356,customer1356@example.com,United States,Electronic,4.0,166.66,0.11,Gift Card,1
+ORD-21281,07/09/2026,Customer 1381,,AUS,BEAUTY,5.0,$181.16,0.15,Credit Card,no
+ORD-21140,2026-06-23,Customer 1240,customer1240@example.com,AUSTRALIA,home and garden,2.0,168.44,0.19,Gift Card,true
+ORD-20617,05/10/2025,Customer 1617,customer1617@example.com,USA,,5.0,27.0,0.23,Debit Card,FALSE
+ORD-21553,03/19/2026,Customer 1653,customer1653@example.com,United kingdom,Electronics,4.0,27.17,0.28,Credit Card,FALSE
+ORD-21224,2026-04-17,Customer 1324,customer1324@example.com,Germany, Beauty,5.0,$199.90,0.01,,N
+ORD-21348,2026-07-26,Customer 1448,,CA, Beauty,3.0,$93.40,0.12,Credit Card,N
+ORD-20342,20-Sep-2025,Customer 1342,customer1342@example.com,AUSTRALIA,HOME & GARDEN,3.0,45.16,0.09,PayPal,false
+ORD-21469,05/27/2025,Customer 1569,  customer1569@example.com ,australia,Beuaty,5.0,67.48,0.18,Gift Card,no
+ORD-21430,24-Feb-2026,Customer 1530,  customer1530@example.com ,australia,Beuaty,5.0,$199.91,0.14,Credit Card,N
+ORD-21485,05/16/2025,Customer 1585,  customer1585@example.com ,United kingdom,,3.0,91.3,0.07,Debit Card,No
+ORD-20944,2025-06-25,Customer 1044,  customer1044@example.com ,england,Home & garden,4.0,$143.96,0.18,Debit Card,N
+ORD-20391,"March 27, 2026",Customer 1391,customer1391@example.com,America,Electronics,3.0,184.26,0.05,Gift Card,no
+ORD-20228,2026-04-14,Customer 1228,customer1228@example.com,canada,ELECTRONICS,2.0,214.71,0.08,Debit Card,N
+ORD-21545,01/19/2026,Customer 1645,  customer1645@example.com ,CA,Home & garden,1.0,13.45,0.05,PayPal,false
+ORD-20517,07/19/2026,Customer 1517,customer1517@example.com,CANADA,BEAUTY,4.0,63.4,0.02,PayPal,no
+ORD-20479,"June 27, 2025",Customer 1479,customer1479@example.com,United kingdom,Appreal,2.0,198.78,0.02,Debit Card,false
+ORD-20799,"March 17, 2025",Customer 1799,customer1799@example.com,Australia,beauty,2.0,150.7,0.26,Credit Card,0
+ORD-20034,08-Aug-2026,Customer 1034,  customer1034@example.com ,United states,Sport,5.0,17.61,0.24,Debit Card,No
+ORD-20008,2025-10-02,Customer 1008,  customer1008@example.com ,CA,Beuaty,4.0,22.2,0.13,Debit Card,0
+ORD-20231,"July 20, 2025",Customer 1231,customer1231@example.com,Australia,Sport,4.0,66.87,0.07,Debit Card,false
+ORD-20440,2026-01-13,Customer 1440,  customer1440@example.com ,germany,,2.0,144.34,0.12,Gift Card,N
+ORD-20525,07/24/2026,Customer 1525,customer1525@example.com,germany,home and garden,3.0,158.77,0.15,Gift Card,No
+ORD-20624,2025-11-08,Customer 1624,  customer1624@example.com ,AUSTRALIA,beauty,,30.62,0.2,PayPal,0
+ORD-21542,22-Jul-2026,Customer 1642,customer1642@example.com,australia,Beuaty,3.0,$51.96,0.06,Gift Card,false
+ORD-20094,05-Mar-2025,Customer 1094,customer1094@example.com,USA, Apparel,1.0,40.73,0.07,Credit Card,1
+ORD-20543,"June 17, 2025",Customer 1543,customer1543@example.com,australia,Sports,3.0,214.88,0.01,PayPal,yes
+ORD-21342,14-Sep-2025,Customer 1442,customer1442@example.com,UK, Apparel,1.0,165.76,0.3,Gift Card,0
+ORD-20970,01-Mar-2025,Customer 1070,customer1070@example.com,Germany,apparel,1.0,$201.09,0.05,PayPal,false
+ORD-21357,07/09/2026,Customer 1457,  customer1457@example.com ,germany, Apparel,2.0,$153.18,0.1,PayPal,No
+ORD-20209,11/18/2025,Customer 1209,customer1209@example.com,U.K.,Sport,2.0,22.04,0.26,Debit Card,false
+ORD-21199,"May 11, 2025",Customer 1299,customer1299@example.com,AUSTRALIA,Home & Garden,4.0,127.0,0.25,Gift Card,N
+ORD-20281,08/28/2025,Customer 1281,customer1281@example.com,United kingdom,Home & Garden,5.0,$103.06,0.2,Credit Card,no
+ORD-21130,02-Mar-2026,Customer 1230,customer1230@example.com,Australia,Electronic,4.0,176.46,0.15,Credit Card,no
+ORD-20389,04/17/2026,Customer 1389,customer1389@example.com,australia,apparel,1.0,$195.71,2.41,Debit Card,No
+ORD-20948,2026-07-22,Customer 1048,  customer1048@example.com ,GERMANY,beauty,4.0,$191.12,0.18,Gift Card,false
+ORD-20251,"March 23, 2025",Customer 1251,customer1251@example.com,germany,sports,3.0,35.5,0.03,Debit Card,false
+ORD-21426,11-Jul-2025,Customer 1526,customer1526@example.com,DE,beauty,2.0,$205.88,0.11,PayPal,0
+ORD-21157,12/12/2025,Customer 1257,customer1257@example.com,United states,sports,4.0,$14.79,0.07,PayPal,no
+ORD-20890,19-May-2025,Customer 1890,  customer1890@example.com ,United kingdom, Beauty,5.0,$149.65,0.08,Credit Card,no
+ORD-21435,"July 29, 2025",Customer 1535,customer1535@example.com,United states,BEAUTY,3.0,$27.47,,PayPal,no
+ORD-20520,2026-01-02,Customer 1520,customer1520@example.com,UK,Appreal,5.0,75.83,0.04,Gift Card,FALSE
+ORD-21036,2025-09-04,Customer 1136,  customer1136@example.com ,USA,electronics,1.0,185.18,0.01,Gift Card,0
+ORD-21398,11-Sep-2025,Customer 1498,customer1498@example.com,canada,Sport,3.0,$194.11,0.29,PayPal,0
+ORD-20668,2025-06-27,Customer 1668,customer1668@example.com,,Apparel,3.0,42.81,0.02,Gift Card,No
+ORD-21459,"August 11, 2026",Customer 1559,customer1559@example.com,germany,Home&Garden,4.0,44.74,0.04,Credit Card,N
+ORD-20876,2026-05-03,Customer 1876,customer1876@example.com,Germany,HOME & GARDEN,4.0,208.49,0.29,Credit Card,no
+ORD-21374,20-Jun-2026,Customer 1474,  customer1474@example.com ,Canada,Apparel,1.0,142.77,0.22,Gift Card,FALSE
+ORD-21429,07/23/2025,Customer 1529,  customer1529@example.com ,DE, Apparel,1.0,$163.00,0.2,Gift Card,No
+ORD-21013,11/13/2025,Customer 1113,customer1113@example.com,U.K.,beauty,,42.42,0.02,PayPal,No
+ORD-21451,"September 24, 2025",Customer 1551,  customer1551@example.com ,CA,Sport,1.0,$115.17,0.05,Gift Card,false
+ORD-20753,03/28/2026,Customer 1753,customer1753@example.com,USA,Beauty,5.0,60.46,0.14,Gift Card,No
+ORD-21262,12-Apr-2025,Customer 1362,customer1362@example.com,DE,Home&Garden,3.0,$16.48,0.11,Credit Card,false
+ORD-20213,10/20/2025,Customer 1213,  customer1213@example.com ,AUS, Beauty,2.0,134.71,0.13,Credit Card,FALSE
+ORD-21240,2025-06-14,Customer 1340,  customer1340@example.com ,U.K.,Appreal,,$31.69,0.26,PayPal,no
+ORD-20957,10/29/2025,Customer 1057,customer1057@example.com,U.K.,Sports ,5.0,80.65,0.09,Gift Card,no
+ORD-21393,03/16/2025,Customer 1493,  customer1493@example.com ,germany,Sports,2.0,$130.57,0.21,Gift Card,0
+ORD-20567,"July 08, 2026",Customer 1567,customer1567@example.com,,BEAUTY,3.0,$178.03,0.06,Debit Card,N
+ORD-20068,2026-03-14,Customer 1068,customer1068@example.com,United Kingdom, Apparel,1.0,201.92,0.11,PayPal,FALSE
+ORD-20085,04/14/2026,Customer 1085,customer1085@example.com,AUSTRALIA,HOME & GARDEN,3.0,$131.64,0.05,Gift Card,no
+ORD-21413,04/19/2026,Customer 1513,customer1513@example.com,,HOME & GARDEN,3.0,127.67,0.26,Credit Card,0
+ORD-20912,2026-06-25,Customer 1012,  customer1012@example.com ,us,Electronic,3.0,$132.05,0.04,Credit Card,No
+ORD-20466,10-Jun-2025,Customer 1466,customer1466@example.com,us,electronics,3.0,$93.29,0.1,Debit Card,no
+ORD-20879,"April 04, 2025",Customer 1879,  customer1879@example.com ,United Kingdom,home and garden,1.0,171.86,0.08,PayPal,no
+ORD-20429,04/16/2025,Customer 1429,customer1429@example.com,United States,Sports,5.0,126.62,0.15,PayPal,No
+ORD-20417,07/03/2025,Customer 1417,customer1417@example.com,USA,Home & garden,5.0,$96.99,,Credit Card,false
+ORD-20412,2025-10-16,Customer 1412,customer1412@example.com,Germany,BEAUTY,3.0,162.21,0.17,Debit Card,N
+ORD-20196,2026-03-18,Customer 1196,  customer1196@example.com ,USA,Sport,2.0,32.19,0.19,Credit Card,false
+ORD-21490,30-Dec-2025,Customer 1590,  customer1590@example.com ,AUS,Beuaty,1.0,$79.60,0.1,Gift Card,0
+ORD-20284,2026-01-10,Customer 1284,customer1284@example.com,Canada,apparel,1.0,$214.28,0.13,,0
+ORD-21135,"March 18, 2026",Customer 1235,customer1235@example.com,DE, Apparel,3.0,$120.12,0.15,Credit Card,false
+ORD-21169,02/07/2026,Customer 1269,customer1269@example.com,CA,Electronic,1.0,$127.66,0.01,Gift Card,N
+ORD-20666,26-Nov-2025,Customer 1666,  customer1666@example.com ,UK,Home & Garden,2.0,39.65,0.3,PayPal,0
+ORD-20684,2025-09-12,Customer 1684,customer1684@example.com,Germany,apparel,3.0,57.28,0.12,Gift Card,yes
+ORD-20380,2025-10-06,Customer 1380,customer1380@example.com,CANADA, Beauty,4.0,$67.64,0.2,PayPal,0
+ORD-21012,2026-03-28,Customer 1112,customer1112@example.com,Germany,Apparel,3.0,$170.35,0.1,Debit Card,TRUE
+ORD-21419,"March 24, 2025",Customer 1519,customer1519@example.com,us,Sports ,5.0,$97.60,0.27,Debit Card,No
+ORD-20290,11-May-2025,Customer 1290,customer1290@example.com,CANADA,Sport,1.0,76.02,0.02,Debit Card,0
+ORD-20359,"August 16, 2025",Customer 1359,,CANADA,home and garden,4.0,$72.97,0.29,Gift Card,No
+ORD-20364,2025-11-05,Customer 1364,customer1364@example.com,United kingdom,BEAUTY,4.0,$176.42,0.24,PayPal,true
+ORD-20524,2025-06-11,Customer 1524,,DE, Beauty,2.0,80.8,0.24,Credit Card,0
+ORD-20574,26-Nov-2025,Customer 1574,  customer1574@example.com ,Australia,ELECTRONICS,2.0,106.22,0.24,Gift Card,false
+ORD-20693,08/04/2026,Customer 1693,customer1693@example.com,england,APPAREL,4.0,$48.95,0.23,PayPal,false
+ORD-20704,2025-09-14,Customer 1704,customer1704@example.com,Australia,Home&Garden,5.0,29.58,0.14,,No
+ORD-20112,2025-11-10,Customer 1112,customer1112@example.com,australia,Beuaty,2.0,$84.46,0.04,PayPal,N
+ORD-21126,19-Apr-2025,Customer 1226,customer1226@example.com,CANADA,Appreal,5.0,99.83,0.23,Credit Card,FALSE
+ORD-20414,16-May-2026,Customer 1414,  customer1414@example.com ,us, Apparel,5.0,158.32,0.29,PayPal,0
+ORD-20589,06/11/2025,Customer 1589,customer1589@example.com,AUSTRALIA,HOME & GARDEN,5.0,82.01,0.11,Gift Card,No
+ORD-21214,13-Dec-2025,Customer 1314,customer1314@example.com,U.K.,HOME & GARDEN,1.0,$203.74,0.24,Gift Card,FALSE
+ORD-21538,29-May-2025,Customer 1638,customer1638@example.com,australia,Beuaty,4.0,$83.66,0.04,Debit Card,FALSE
+ORD-20486,18-Aug-2025,Customer 1486,customer1486@example.com,U.K.,electronics,5.0,$154.87,0.27,Gift Card,N
+ORD-21076,2025-06-03,Customer 1176,  customer1176@example.com ,United Kingdom,Apparel,2.0,13.49,0.02,Credit Card,true
+ORD-21052,2025-07-17,Customer 1152,  customer1152@example.com ,America,Sport,1.0,$98.66,0.04,Gift Card,no
+ORD-21089,06/02/2025,Customer 1189,customer1189@example.com,england,beauty,5.0,154.53,0.27,PayPal,FALSE
+ORD-20874,21-Jan-2026,Customer 1874,  customer1874@example.com ,australia,electronics,5.0,153.96,0.24,,false
+ORD-21424,2026-07-14,Customer 1524,customer1524@example.com,canada,Home&Garden,3.0,114.01,0.04,PayPal,TRUE
+ORD-20843,"June 26, 2026",Customer 1843,customer1843@example.com,GERMANY,ELECTRONICS,4.0,137.59,0.06,Credit Card,0
+ORD-20966,30-May-2026,Customer 1066,customer1066@example.com,germany,Electronics,2.0,180.28,0.24,PayPal,FALSE
+ORD-20594,11-Feb-2026,Customer 1594,customer1594@example.com,AUSTRALIA,BEAUTY,5.0,109.86,0.23,Credit Card,N
+ORD-20927,"December 31, 2025",Customer 1027,customer1027@example.com,canada,apparel,1.0,$56.20,0.23,PayPal,No
+ORD-20308,2025-12-02,Customer 1308,  customer1308@example.com ,U.K.,SPORTS,3.0,81.58,0.25,,false
+ORD-20058,20-Apr-2025,Customer 1058,customer1058@example.com,AUSTRALIA,home and garden,2.0,36.61,0.14,Credit Card,No
+ORD-20159,"March 11, 2026",Customer 1159,  customer1159@example.com ,Australia,beauty,3.0,$91.32,0.1,Debit Card,no
+ORD-20982,03-May-2025,Customer 1082,customer1082@example.com,DE,Electronics ,1.0,38.3,0.2,PayPal,false
+ORD-20186,27-Jul-2025,Customer 1186,customer1186@example.com,United Kingdom,Beuaty,2.0,$50.21,0.0,Credit Card,false
+ORD-20244,2025-06-07,Customer 1244,customer1244@example.com,GERMANY,Beuaty,3.0,75.56,0.23,PayPal,0
+ORD-21544,2026-02-04,Customer 1644,customer1644@example.com,United States,Home & Garden,3.0,$58.69,0.25,Credit Card,false
+ORD-20157,05/12/2025,Customer 1157,  customer1157@example.com ,CANADA,Home & garden,3.0,175.0,0.21,Debit Card,No
+ORD-20126,10-Mar-2026,Customer 1126,customer1126@example.com,Germany, Beauty,3.0,156.1,0.1,Debit Card,yes
+ORD-20322,26-Apr-2025,Customer 1322,customer1322@example.com,United states,APPAREL,1.0,12.65,0.09,Gift Card,No
+ORD-21083,"August 08, 2025",Customer 1183,  customer1183@example.com ,United states,Home & garden,3.0,$162.73,0.24,Debit Card,No
+ORD-20804,2026-01-01,Customer 1804,customer1804@example.com,U.S.A.,HOME & GARDEN,2.0,171.66,0.16,PayPal,false
+ORD-21236,2026-03-15,Customer 1336,customer1336@example.com,America,HOME & GARDEN,3.0,$94.29,0.03,Debit Card,No
+ORD-20777,02/10/2026,Customer 1777,  customer1777@example.com ,Canada,Electronics,4.0,$15.56,0.13,PayPal,false
+ORD-21127,"July 07, 2025",Customer 1227,customer1227@example.com,United states,Beauty,2.0,$214.32,0.23,PayPal,yes
+ORD-21347,"February 27, 2025",Customer 1447,customer1447@example.com,United kingdom, Beauty,3.0,$95.45,0.05,Gift Card,FALSE
+ORD-21356,2025-12-28,Customer 1456,customer1456@example.com,,,5.0,131.19,0.22,Credit Card,no
+ORD-20845,05/10/2026,Customer 1845,customer1845@example.com,UK,Apparel,5.0,181.34,0.3,Credit Card,N
+ORD-21334,10-Jan-2026,Customer 1434,customer1434@example.com,england,Electronics ,1.0,29.97,,Credit Card,no
+ORD-21252,2025-12-22,Customer 1352,  customer1352@example.com ,CANADA,Home & Garden,5.0,$179.00,0.23,Credit Card,false
+ORD-20273,12/22/2025,Customer 1273,customer1273@example.com,America,Electronics ,1.0,$95.16,0.16,Gift Card,FALSE
+ORD-20875,"April 29, 2026",Customer 1875,  customer1875@example.com ,GERMANY,beauty,5.0,49.86,0.07,Credit Card,No
+ORD-20182,30-Oct-2025,Customer 1182,  customer1182@example.com ,GERMANY, Apparel,5.0,$149.51,0.24,Gift Card,0
+ORD-21365,07/23/2026,Customer 1465,  customer1465@example.com ,UK,SPORTS,2.0,188.0,0.29,PayPal,false
+ORD-21075,"February 22, 2026",Customer 1175,customer1175@example.com,USA,electronics,2.0,138.57,0.2,Debit Card,No
+ORD-21221,02/19/2026,Customer 1321,customer1321@example.com,AUS,sports,2.0,88.51,0.0,Credit Card,No
+ORD-20462,02-Dec-2025,Customer 1462,customer1462@example.com,Canada,SPORTS,5.0,131.21,,Debit Card,No
+ORD-20089,01/11/2026,Customer 1089,  customer1089@example.com ,,Sport,1.0,$202.88,0.12,Credit Card,N
+ORD-21248,2026-04-25,Customer 1348,customer1348@example.com,CA,apparel,4.0,145.55,0.23,PayPal,0
+ORD-21484,2026-02-20,Customer 1584,customer1584@example.com,Australia,Home & Garden,3.0,$121.25,0.09,Credit Card,false
+ORD-20050,26-May-2026,Customer 1050,customer1050@example.com,canada,Home & Garden,4.0,125.17,0.27,Credit Card,FALSE
+ORD-20853,05/05/2025,Customer 1853,customer1853@example.com,CA,apparel,5.0,171.39,0.3,Credit Card,FALSE
+ORD-20415,"March 30, 2025",Customer 1415,customer1415@example.com,USA, Apparel,2.0,9.12,0.3,Gift Card,0
+ORD-20676,2026-02-24,Customer 1676,  customer1676@example.com ,canada,sports,1.0,76.84,0.27,PayPal,false
+ORD-20534,07-Aug-2026,Customer 1534,customer1534@example.com,germany,Home&Garden,3.0,$50.00,0.14,PayPal,No
+ORD-20234,25-Apr-2025,Customer 1234,customer1234@example.com,CA,home and garden,5.0,196.4,0.07,Credit Card,FALSE
+ORD-20680,2025-04-07,Customer 1680,  customer1680@example.com ,Germany,Electronics,5.0,$50.41,0.14,Credit Card,N
+ORD-20581,03/04/2026,Customer 1581,customer1581@example.com,germany,beauty,1.0,150.12,,PayPal,FALSE
+ORD-20401,10/28/2025,Customer 1401,  customer1401@example.com ,U.S.A.,Home & garden,1.0,$84.12,0.2,Gift Card,FALSE
+ORD-20698,02-Sep-2025,Customer 1698,  customer1698@example.com ,U.K.,Home & garden,1.0,$53.36,0.12,,0
+ORD-20438,09-Aug-2025,Customer 1438,  customer1438@example.com ,United states,beauty,2.0,$121.92,0.16,Gift Card,No
+ORD-20527,"June 15, 2025",Customer 1527,  customer1527@example.com ,Germany,Home&Garden,2.0,$35.96,0.19,Gift Card,no
+ORD-21377,04/07/2025,Customer 1477,customer1477@example.com,AUSTRALIA, Apparel,2.0,91.31,0.09,PayPal,no
+ORD-20717,06/14/2026,Customer 1717,customer1717@example.com,australia,sports,3.0,219.43,0.01,Credit Card,false
+ORD-21175,"April 27, 2025",Customer 1275,  customer1275@example.com ,AUS,Sports ,2.0,$121.49,0.12,Gift Card,no
+ORD-20132,2025-05-15,Customer 1132,,australia,Sport,1.0,20.89,0.28,PayPal,no
+ORD-20738,24-Aug-2025,Customer 1738,  customer1738@example.com ,CANADA,,1.0,$46.49,0.05,Debit Card,N
+ORD-20029,11/28/2025,Customer 1029,  customer1029@example.com ,CANADA,,2.0,21.04,0.23,PayPal,0
+ORD-20639,"March 24, 2026",Customer 1639,  customer1639@example.com ,germany,Appreal,2.0,202.72,0.0,PayPal,No
+ORD-20238,22-Jun-2026,Customer 1238,,australia,Sports ,4.0,$210.15,0.09,Debit Card,0
+ORD-21359,"May 12, 2026",Customer 1459,  customer1459@example.com ,United states,HOME & GARDEN,3.0,150.52,0.08,Credit Card,false
+ORD-20323,"February 16, 2026",Customer 1323,customer1323@example.com,germany,,4.0,80.2,,Credit Card,0
+ORD-20628,2026-05-14,Customer 1628,customer1628@example.com,United States,Beuaty,2.0,12.69,0.03,Credit Card,N
+ORD-21546,07-Dec-2025,Customer 1646,  customer1646@example.com ,Germany,Home&Garden,4.0,176.75,0.16,PayPal,FALSE
+ORD-20769,10/21/2025,Customer 1769,customer1769@example.com,Australia,ELECTRONICS,1.0,68.09,0.29,Credit Card,no
+ORD-21573,06/08/2026,Customer 1673,customer1673@example.com,CA,HOME & GARDEN,1.0,177.83,0.18,Debit Card,FALSE
+ORD-21503,"June 28, 2025",Customer 1603,customer1603@example.com,UK,BEAUTY,5.0,$105.29,0.09,PayPal,no
+ORD-21020,2026-03-24,Customer 1120,  customer1120@example.com ,United kingdom,sports,4.0,$21.12,0.23,PayPal,No
+ORD-20379,"April 03, 2025",Customer 1379,customer1379@example.com,AUS,Home & Garden,1.0,162.96,0.12,PayPal,N
+ORD-20747,"June 26, 2025",Customer 1747,customer1747@example.com,U.K.,Apparel,4.0,154.14,0.05,Debit Card,No
+ORD-21054,21-Apr-2025,Customer 1154,,england,apparel,4.0,103.29,0.03,Gift Card,no
+ORD-20350,15-Mar-2025,Customer 1350,customer1350@example.com,Australia,home and garden,3.0,$136.98,0.26,Debit Card,No
+ORD-21272,2026-07-01,Customer 1372,customer1372@example.com,CANADA,HOME & GARDEN,2.0,$209.40,0.09,Gift Card,Y
+ORD-20051,"December 22, 2025",Customer 1051,customer1051@example.com,AUSTRALIA,electronics,2.0,95.15,0.29,Gift Card,FALSE
+ORD-20507,"July 21, 2025",Customer 1507,,australia,HOME & GARDEN,3.0,$95.02,0.24,Gift Card,false
+ORD-21060,2025-04-29,Customer 1160,customer1160@example.com,UK,Electronics ,1.0,73.57,0.08,Credit Card,false
+ORD-21102,20-Apr-2025,Customer 1202,customer1202@example.com,UK,,1.0,$35.59,0.03,Debit Card,false
+ORD-21037,11/13/2025,Customer 1137,  customer1137@example.com ,CA,Electronic,3.0,170.52,0.24,Debit Card,0
+ORD-21082,10-Nov-2025,Customer 1182,customer1182@example.com,USA,HOME & GARDEN,4.0,25.72,,PayPal,0
+ORD-20575,"May 22, 2025",Customer 1575,customer1575@example.com,, Beauty,3.0,$65.22,,,false
+ORD-20233,10/28/2025,Customer 1233,customer1233@example.com,CA,Appreal,2.0,$72.16,0.05,PayPal,No
+ORD-21418,11-Nov-2025,Customer 1518,,us,beauty,2.0,152.91,0.03,Credit Card,no
+ORD-21511,"March 17, 2025",Customer 1611,  customer1611@example.com ,DE,Home & garden,3.0,48.65,0.1,Credit Card,false
+ORD-20743,"July 30, 2026",Customer 1743,  customer1743@example.com ,australia,sports,3.0,$85.28,0.28,Gift Card,FALSE
+ORD-20478,24-Apr-2026,Customer 1478,customer1478@example.com,us,sports,2.0,130.74,0.27,Gift Card,N
+ORD-20999,"July 06, 2025",Customer 1099,customer1099@example.com,CANADA,Sport,1.0,12.49,0.0,Credit Card,0
+ORD-20193,07/21/2025,Customer 1193,customer1193@example.com,australia, Beauty,2.0,73.47,0.01,Debit Card,N
+ORD-20404,2025-06-02,Customer 1404,customer1404@example.com,United kingdom,HOME & GARDEN,5.0,211.93,0.03,Gift Card,FALSE
+ORD-21069,03/29/2025,Customer 1169,customer1169@example.com,Australia,SPORTS,2.0,33.29,0.24,Gift Card,No
+ORD-20883,"September 24, 2025",Customer 1883,,Australia,Electronics,4.0,$166.91,0.03,Debit Card,FALSE
+ORD-20487,"November 20, 2025",Customer 1487,customer1487@example.com,CANADA,APPAREL,2.0,119.75,,Credit Card,N
+ORD-21048,2026-02-01,Customer 1148,customer1148@example.com,UK,home and garden,3.0,57.03,0.04,Gift Card,false
+ORD-20471,"April 25, 2025",Customer 1471,customer1471@example.com,UK, Beauty,5.0,$138.20,0.27,PayPal,no
+ORD-20256,2026-07-13,Customer 1256,customer1256@example.com,Germany,SPORTS,4.0,32.7,0.18,Debit Card,Yes
+ORD-20894,28-Jun-2025,Customer 1894,customer1894@example.com,Germany,Home & Garden,4.0,141.96,0.19,Credit Card,0
+ORD-21478,23-Jul-2026,Customer 1578,customer1578@example.com,America, Beauty,1.0,$124.75,0.01,Gift Card,no
+ORD-20138,27-Jul-2026,Customer 1138,customer1138@example.com,australia,apparel,5.0,$20.01,1.53,PayPal,N
+ORD-20491,"May 27, 2025",Customer 1491,customer1491@example.com,America,Home & Garden,3.0,143.21,0.12,PayPal,FALSE
+ORD-21270,18-Oct-2025,Customer 1370,customer1370@example.com,America,electronics,3.0,81.01,0.12,Credit Card,FALSE
+ORD-21146,12-Sep-2025,Customer 1246,customer1246@example.com,us,Home&Garden,4.0,$176.33,0.28,Gift Card,true
+ORD-20578,11-May-2026,Customer 1578,customer1578@example.com,england,beauty,2.0,$114.63,0.19,PayPal,No
+ORD-20706,07-Oct-2025,Customer 1706,customer1706@example.com,germany,Sport,4.0,59.72,0.28,Credit Card,FALSE
+ORD-20206,23-Apr-2025,Customer 1206,  customer1206@example.com ,canada,HOME & GARDEN,5.0,$154.44,0.07,Gift Card,N
+ORD-21200,2025-05-12,Customer 1300,customer1300@example.com,Canada,Beauty,2.0,193.54,0.2,Credit Card,false
+ORD-20848,2025-08-18,Customer 1848,customer1848@example.com,CANADA,Home&Garden,5.0,$108.23,0.22,Credit Card,no
+ORD-21428,2026-05-03,Customer 1528,  customer1528@example.com ,United States,Beuaty,1.0,$200.58,0.03,PayPal,TRUE
+ORD-21473,04/22/2026,Customer 1573,  customer1573@example.com ,canada,ELECTRONICS,1.0,62.17,0.29,Debit Card,0
+ORD-20000,2026-07-27,Customer 1000,customer1000@example.com,AUS,electronics,5.0,$40.01,0.22,Gift Card,false
+ORD-20226,17-Aug-2026,Customer 1226,customer1226@example.com,Australia, Beauty,2.0,$164.52,0.1,PayPal,false
+ORD-21583,"November 28, 2025",Customer 1683,  customer1683@example.com ,DE,Sports ,5.0,199.84,0.17,Debit Card,0
+ORD-20249,07/02/2025,Customer 1249,customer1249@example.com,AUS,beauty,4.0,192.29,0.21,Credit Card,no
+ORD-20889,01/17/2026,Customer 1889,  customer1889@example.com ,AUSTRALIA,Sport,3.0,123.48,0.1,PayPal,No
+ORD-21132,2026-03-07,Customer 1232,customer1232@example.com,United States,Beauty,4.0,25.43,0.03,PayPal,false
+ORD-20705,05/12/2026,Customer 1705,customer1705@example.com,U.K.,electronics,4.0,50.37,0.28,Gift Card,no
+ORD-20979,"December 09, 2025",Customer 1079,customer1079@example.com,germany,ELECTRONICS,5.0,$85.43,0.01,Debit Card,0
+ORD-21029,04/01/2025,Customer 1129,,UK,Home & garden,1.0,$150.28,0.01,Debit Card,true
+ORD-21284,2026-07-14,Customer 1384,customer1384@example.com,Canada,HOME & GARDEN,3.0,20.95,0.01,Debit Card,no
+ORD-20283,"October 25, 2025",Customer 1283,customer1283@example.com,us,Home&Garden,2.0,162.22,0.25,Gift Card,FALSE
+ORD-20313,05/20/2026,Customer 1313,customer1313@example.com,CANADA,Home&Garden,1.0,105.44,0.28,PayPal,false
+ORD-20596,2025-10-02,Customer 1596,customer1596@example.com,Australia,Home & Garden,5.0,123.39,0.05,Gift Card,No
+ORD-20059,"February 11, 2026",Customer 1059,  customer1059@example.com ,USA,apparel,2.0,202.76,0.26,Gift Card,false
+ORD-21369,03/26/2025,Customer 1469,customer1469@example.com,United Kingdom,Sports,5.0,$180.90,0.09,Credit Card,No
+ORD-20047,"January 24, 2026",Customer 1047,  customer1047@example.com ,USA,Sports,1.0,115.46,0.21,PayPal,No
+ORD-21522,07-Oct-2025,Customer 1622,customer1622@example.com,AUSTRALIA,beauty,3.0,217.03,0.09,Debit Card,false
+ORD-21326,26-Jun-2025,Customer 1426,customer1426@example.com,Canada,Home & garden,2.0,166.77,0.24,Debit Card,false
+ORD-21466,13-Apr-2026,Customer 1566,customer1566@example.com,Germany,ELECTRONICS,2.0,$152.78,0.2,Debit Card,0
+ORD-20986,03-Jan-2026,Customer 1086,,UK,Beuaty,5.0,180.34,0.06,Credit Card,false
+ORD-20969,08/19/2026,Customer 1069,customer1069@example.com,us,home and garden,5.0,25.58,0.17,Gift Card,0
+ORD-21310,10-Jul-2026,Customer 1410,customer1410@example.com,America, Apparel,1.0,95.0,0.19,Debit Card,No
+ORD-21563,"June 26, 2026",Customer 1663,customer1663@example.com,Germany,Electronics ,2.0,$15.68,0.11,Gift Card,No
+ORD-21547,"December 17, 2025",Customer 1647,  customer1647@example.com ,Canada,APPAREL,2.0,$50.49,,PayPal,false
+ORD-20758,23-Dec-2025,Customer 1758,  customer1758@example.com ,United states,Electronic,3.0,200.22,0.03,PayPal,no
+ORD-20978,16-Feb-2026,Customer 1078,customer1078@example.com,england,sports,3.0,88.21,0.19,Gift Card,FALSE
+ORD-21508,2025-09-27,Customer 1608,  customer1608@example.com ,GERMANY,home and garden,2.0,147.77,0.15,Credit Card,No
+ORD-20312,2025-11-26,Customer 1312,customer1312@example.com,United Kingdom,Sports ,4.0,$102.50,0.12,PayPal,N
+ORD-20091,"June 30, 2026",Customer 1091,,GERMANY,Sports,1.0,$125.95,0.27,Gift Card,yes
+ORD-20721,04/23/2026,Customer 1721,customer1721@example.com,CANADA,Sports,3.0,$51.21,0.21,Gift Card,Yes
+ORD-21265,05/11/2026,Customer 1365,  customer1365@example.com ,CA, Apparel,2.0,218.84,0.09,Credit Card,N
+ORD-20734,18-Sep-2025,Customer 1734,customer1734@example.com,AUSTRALIA,Sport,4.0,66.41,0.1,Gift Card,false
+ORD-20811,"January 28, 2026",Customer 1811,  customer1811@example.com ,Australia,SPORTS,5.0,$116.24,0.15,Credit Card,no
+ORD-20459,"June 10, 2026",Customer 1459,customer1459@example.com,United kingdom,apparel,2.0,84.42,0.24,Gift Card,false
+ORD-21382,13-Aug-2026,Customer 1482,  customer1482@example.com ,AUSTRALIA,Sport,1.0,$36.55,0.18,PayPal,No
+ORD-20849,01/21/2026,Customer 1849,customer1849@example.com,Canada,BEAUTY,2.0,61.97,0.19,Gift Card,FALSE
+ORD-20383,"April 04, 2025",Customer 1383,customer1383@example.com,America,Apparel,4.0,176.91,,Credit Card,N
+ORD-20017,03/14/2025,Customer 1017,customer1017@example.com,U.K.,Apparel,3.0,$130.27,0.03,Gift Card,no
+ORD-20955,"June 09, 2026",Customer 1055,customer1055@example.com,United States,Beuaty,1.0,$90.34,0.14,Debit Card,No
+ORD-21462,26-Feb-2025,Customer 1562,customer1562@example.com,Australia, Beauty,3.0,174.47,0.28,Debit Card,FALSE
+ORD-21066,14-May-2025,Customer 1166,customer1166@example.com,CANADA,Apparel,2.0,128.48,0.18,Gift Card,false
+ORD-21209,06/29/2026,Customer 1309,customer1309@example.com,Germany,BEAUTY,3.0,200.41,0.29,Gift Card,N
+ORD-20987,"July 27, 2026",Customer 1087,customer1087@example.com,england,Beauty,5.0,53.76,0.06,Gift Card,false
+ORD-21014,10-Jun-2025,Customer 1114,  customer1114@example.com ,canada, Apparel,2.0,$23.18,0.21,PayPal,No
+ORD-21567,"July 31, 2025",Customer 1667,customer1667@example.com,Australia,BEAUTY,5.0,26.52,0.04,Gift Card,no
+ORD-21536,2025-11-13,Customer 1636,customer1636@example.com,United Kingdom,apparel,2.0,118.98,0.11,PayPal,false
+ORD-20125,05/17/2025,Customer 1125,customer1125@example.com,Germany,Beauty,3.0,104.82,0.23,Gift Card,FALSE
+ORD-20511,"July 30, 2025",Customer 1511,customer1511@example.com,CANADA,Home & Garden,1.0,180.73,0.09,Gift Card,0
+ORD-20076,2026-02-19,Customer 1076,  customer1076@example.com ,australia,home and garden,1.0,161.61,0.08,Debit Card,0
+ORD-20930,19-Oct-2025,Customer 1030,  customer1030@example.com ,CA,,4.0,74.61,0.2,PayPal,no
+ORD-20141,11/20/2025,Customer 1141,customer1141@example.com,canada,beauty,2.0,81.88,0.28,Gift Card,No
+ORD-21581,12/29/2025,Customer 1681,customer1681@example.com,CA,electronics,4.0,120.77,0.1,Credit Card,0
+ORD-20585,03/11/2025,Customer 1585,customer1585@example.com,australia,beauty,4.0,$189.89,0.23,Credit Card,FALSE
+ORD-20818,15-Dec-2025,Customer 1818,  customer1818@example.com ,DE,Apparel,5.0,$214.31,0.01,Gift Card,false
+ORD-21570,10-Oct-2025,Customer 1670,customer1670@example.com,America,apparel,3.0,$40.04,0.21,Gift Card,no
+ORD-20787,"July 08, 2026",Customer 1787,customer1787@example.com,us,Beauty,2.0,$213.31,0.28,Debit Card,false
+ORD-20555,"September 22, 2025",Customer 1555,customer1555@example.com,CA,Sports ,5.0,121.82,0.12,Credit Card,no
+ORD-21176,2025-11-29,Customer 1276,  customer1276@example.com ,DE,Apparel,3.0,57.29,0.27,Gift Card,0
+ORD-21056,2025-10-05,Customer 1156,  customer1156@example.com ,CA,Electronics ,2.0,153.97,0.09,PayPal,FALSE
+ORD-20015,"July 25, 2025",Customer 1015,  customer1015@example.com ,United States,SPORTS,4.0,$208.52,0.01,Gift Card,0
+ORD-20435,"August 27, 2025",Customer 1435,customer1435@example.com,AUS,APPAREL,5.0,54.57,0.15,Credit Card,0
+ORD-20498,24-Mar-2026,Customer 1498,customer1498@example.com,AUS,Apparel,5.0,$139.55,0.17,PayPal,0
+ORD-20619,"June 06, 2026",Customer 1619,customer1619@example.com,,Electronics ,4.0,10.97,,Debit Card,0
+ORD-21427,"May 31, 2025",Customer 1527,  customer1527@example.com ,CANADA,Electronics,2.0,84.83,0.07,PayPal,No
+ORD-20450,01-Apr-2026,Customer 1450,  customer1450@example.com ,UK,beauty,1.0,159.95,0.04,Debit Card,no
+ORD-20766,13-Apr-2025,Customer 1766,  customer1766@example.com ,GERMANY,Home & garden,4.0,$44.89,0.01,PayPal,no
+ORD-20035,"November 25, 2025",Customer 1035,  customer1035@example.com ,england,Home & Garden,2.0,$9.90,0.24,Debit Card,No
+ORD-20947,"May 03, 2026",Customer 1047,customer1047@example.com,GERMANY,ELECTRONICS,5.0,92.66,0.26,Gift Card,0
+ORD-21249,09/07/2025,Customer 1349,customer1349@example.com,australia,Appreal,3.0,$55.62,0.15,Debit Card,No
+ORD-21196,2025-06-27,Customer 1296,customer1296@example.com,canada,BEAUTY,4.0,$154.98,0.13,PayPal,0
+ORD-20981,07/03/2025,Customer 1081,customer1081@example.com,United Kingdom,Home & Garden,5.0,59.3,0.16,,No
+ORD-20241,02/11/2026,Customer 1241,customer1241@example.com,england,,5.0,$144.07,0.16,PayPal,0
+ORD-20529,09/21/2025,Customer 1529,customer1529@example.com,DE,sports,3.0,$35.56,0.04,Gift Card,no
+ORD-20343,"March 05, 2025",Customer 1343,  customer1343@example.com ,DE,Home & Garden,4.0,192.0,0.02,Gift Card,Yes
+ORD-21180,2026-03-09,Customer 1280,customer1280@example.com,australia,Electronic,3.0,35.16,0.09,Gift Card,no
+ORD-21442,21-May-2026,Customer 1542,customer1542@example.com,United kingdom,Beauty,4.0,124.44,0.18,Gift Card,FALSE
+ORD-21530,20-Jan-2026,Customer 1630,customer1630@example.com,United States,electronics,3.0,$213.56,0.07,Debit Card,No
+ORD-20886,07-Jan-2026,Customer 1886,customer1886@example.com,GERMANY,Home & garden,5.0,215.17,0.16,Debit Card,no
+ORD-20506,15-Jun-2025,Customer 1506,customer1506@example.com,AUSTRALIA,apparel,1.0,$203.38,0.14,Debit Card,N
+ORD-21376,2025-06-25,Customer 1476,  customer1476@example.com ,germany,ELECTRONICS,4.0,14.89,0.14,Credit Card,FALSE
+ORD-20215,"May 08, 2025",Customer 1215,customer1215@example.com,CA,,3.0,53.96,0.23,PayPal,false
+ORD-20208,2025-03-11,Customer 1208,  customer1208@example.com ,Germany,APPAREL,3.0,129.64,0.18,Credit Card,0
+ORD-20945,02/28/2025,Customer 1045,  customer1045@example.com ,United States,beauty,,$198.28,0.11,Gift Card,FALSE
+ORD-20064,2025-09-27,Customer 1064,customer1064@example.com,Germany,Sports,2.0,$17.98,0.24,Debit Card,false
+ORD-20010,28-Jul-2026,Customer 1010,customer1010@example.com,australia,sports,5.0,$8.48,0.04,PayPal,No
+ORD-21202,19-Dec-2025,Customer 1302,customer1302@example.com,AUSTRALIA,sports,1.0,83.94,0.07,Debit Card,FALSE
+ORD-20252,2026-04-12,Customer 1252,,GERMANY,sports,4.0,132.22,0.14,Gift Card,N
+ORD-20603,"March 22, 2026",Customer 1603,  customer1603@example.com ,Germany,beauty,1.0,18.44,0.08,PayPal,false
+ORD-20805,01/31/2026,Customer 1805,customer1805@example.com,Australia,BEAUTY,5.0,$172.01,0.15,PayPal,false
+ORD-21285,09/21/2025,Customer 1385,customer1385@example.com,us,Sports,3.0,167.43,0.28,Gift Card,0
+ORD-21124,2025-10-05,Customer 1224,customer1224@example.com,Canada,ELECTRONICS,1.0,195.43,0.05,Gift Card,0
+ORD-21191,"June 29, 2025",Customer 1291,  customer1291@example.com ,America,ELECTRONICS,4.0,$109.61,0.3,Debit Card,No
+ORD-20314,12-Jul-2025,Customer 1314,customer1314@example.com,U.K.,sports,2.0,$125.85,0.01,PayPal,0
+ORD-20518,11-Mar-2025,Customer 1518,  customer1518@example.com ,Australia,,1.0,$113.58,0.28,PayPal,TRUE
+ORD-20465,05/01/2025,Customer 1465,customer1465@example.com,DE, Apparel,3.0,143.48,0.05,Debit Card,FALSE
+ORD-20931,"November 13, 2025",Customer 1031,  customer1031@example.com ,United Kingdom,beauty,2.0,$197.77,0.07,PayPal,N
+ORD-20963,"March 30, 2026",Customer 1063,customer1063@example.com,AUSTRALIA,beauty,3.0,$27.29,0.15,PayPal,FALSE
+ORD-20842,12-Jun-2026,Customer 1842,customer1842@example.com,DE,Sport,4.0,$162.06,0.01,Gift Card,N
+ORD-21470,11-Feb-2026,Customer 1570,customer1570@example.com,canada,HOME & GARDEN,1.0,141.91,0.18,,0
+ORD-21569,04/10/2026,Customer 1669,customer1669@example.com,AUSTRALIA,Apparel,2.0,134.04,0.26,Gift Card,false
+ORD-20367,"March 19, 2025",Customer 1367,customer1367@example.com,DE,Electronics ,5.0,$215.02,0.1,PayPal,false
+ORD-20145,02/16/2026,Customer 1145,customer1145@example.com,United kingdom,apparel,5.0,$108.23,0.15,Credit Card,No
+ORD-20362,13-Jun-2025,Customer 1362,customer1362@example.com,U.K.,Sport,4.0,52.67,0.1,Debit Card,No
+ORD-20630,12-May-2025,Customer 1630,customer1630@example.com,United states,SPORTS,5.0,170.92,0.14,Credit Card,FALSE
+ORD-20090,23-Dec-2025,Customer 1090,customer1090@example.com,CANADA,Home & Garden,2.0,$98.12,,Credit Card,No
+ORD-20321,10/04/2025,Customer 1321,  customer1321@example.com ,Canada,Sports ,3.0,46.55,0.21,Debit Card,N
+ORD-20185,12/16/2025,Customer 1185,customer1185@example.com,DE,BEAUTY,2.0,123.15,0.28,Debit Card,N
+ORD-20924,2025-06-02,Customer 1024,customer1024@example.com,United Kingdom,home and garden,1.0,$25.31,0.1,Credit Card,FALSE
+ORD-21156,2026-06-10,Customer 1256,customer1256@example.com,U.K.,beauty,4.0,79.82,0.24,PayPal,false
+ORD-20868,2026-06-03,Customer 1868,  customer1868@example.com ,United States,BEAUTY,2.0,40.01,0.21,Gift Card,No
+ORD-20756,2025-06-13,Customer 1756,customer1756@example.com,canada,SPORTS,1.0,11.2,0.04,Debit Card,No
+ORD-20119,"July 22, 2026",Customer 1119,customer1119@example.com,CA,SPORTS,,$73.81,0.19,PayPal,No
+ORD-21062,06-Jan-2026,Customer 1162,customer1162@example.com,U.S.A.,electronics,5.0,$84.80,0.03,Gift Card,Yes
+ORD-20840,2025-11-16,Customer 1840,customer1840@example.com,canada,ELECTRONICS,1.0,71.26,0.18,Credit Card,N
+ORD-20493,05/15/2025,Customer 1493,  customer1493@example.com ,United states,Beuaty,3.0,147.02,0.07,Gift Card,no
+ORD-20443,"July 28, 2026",Customer 1443,customer1443@example.com,germany,ELECTRONICS,5.0,$140.30,0.29,Debit Card,yes
+ORD-20338,23-Aug-2025,Customer 1338,  customer1338@example.com ,,home and garden,5.0,156.52,0.22,Gift Card,N
+ORD-21108,2026-07-25,Customer 1208,customer1208@example.com,australia,Electronics ,2.0,184.76,0.3,Gift Card,false
+ORD-20224,2026-02-20,Customer 1224,customer1224@example.com,AUSTRALIA,Beuaty,5.0,29.99,0.28,Debit Card,no
+ORD-20019,"April 22, 2025",Customer 1019,  customer1019@example.com ,Australia, Apparel,2.0,$20.90,0.09,PayPal,false
+ORD-21096,2026-08-04,Customer 1196,customer1196@example.com,Canada, Beauty,3.0,$199.49,0.02,Debit Card,no
+ORD-20418,17-Jul-2026,Customer 1418,customer1418@example.com,germany,HOME & GARDEN,3.0,10.34,0.15,PayPal,no
+ORD-21099,"March 21, 2025",Customer 1199,customer1199@example.com,CA,home and garden,3.0,98.81,0.2,PayPal,false
+ORD-21404,2026-04-30,Customer 1504,customer1504@example.com,Australia,SPORTS,3.0,$136.49,0.02,Debit Card,false
+ORD-20991,"November 28, 2025",Customer 1091,customer1091@example.com,United kingdom,Electronics ,4.0,29.85,0.28,Debit Card,0
+ORD-20385,01/27/2026,Customer 1385,customer1385@example.com,Australia,Sports,5.0,144.82,0.05,Credit Card,0
+ORD-20929,09/01/2025,Customer 1029,customer1029@example.com,DE,Home&Garden,4.0,$162.43,2.19,Gift Card,No
+ORD-20452,2026-02-07,Customer 1452,customer1452@example.com,Canada,SPORTS,1.0,113.1,0.2,Gift Card,1
+ORD-20264,2025-09-01,Customer 1264,customer1264@example.com,england,HOME & GARDEN,1.0,$172.56,0.16,Credit Card,true
+ORD-21064,2025-11-10,Customer 1164,  customer1164@example.com ,America,Sport,4.0,$15.26,0.25,Debit Card,FALSE
+ORD-21452,2025-04-22,Customer 1552,customer1552@example.com,AUSTRALIA,Electronics,3.0,48.55,0.04,Gift Card,1
+ORD-20160,2025-12-06,Customer 1160,  customer1160@example.com ,USA,Home&Garden,4.0,36.93,0.03,Credit Card,false
+ORD-20110,30-Apr-2025,Customer 1110,customer1110@example.com,DE,Beauty,1.0,134.69,0.29,PayPal,0
+ORD-20303,"April 30, 2025",Customer 1303,customer1303@example.com,CANADA,Home & Garden,4.0,122.96,,Debit Card,No
+ORD-21587,"May 30, 2025",Customer 1687,customer1687@example.com,AUSTRALIA,Electronics,4.0,137.18,0.1,Debit Card,0
+ORD-20048,2026-02-16,Customer 1048,customer1048@example.com,America,Sport,5.0,72.43,0.11,PayPal,no
+ORD-20509,01/26/2026,Customer 1509,  customer1509@example.com ,U.K.,ELECTRONICS,2.0,164.09,0.09,Gift Card,0
+ORD-20018,24-May-2026,Customer 1018,customer1018@example.com,Canada, Apparel,2.0,$24.83,0.0,Debit Card,N
+ORD-21067,"March 03, 2026",Customer 1167,customer1167@example.com,U.S.A.,APPAREL,4.0,$62.01,0.25,Credit Card,N
+ORD-21297,05/28/2025,Customer 1397,customer1397@example.com,GERMANY,APPAREL,4.0,80.54,0.14,PayPal,no
+ORD-21467,"April 01, 2026",Customer 1567,  customer1567@example.com ,United kingdom,SPORTS,5.0,64.91,0.24,PayPal,N
+ORD-20934,16-Mar-2025,Customer 1034,customer1034@example.com,Canada,Sport,4.0,15.72,0.14,PayPal,FALSE
+ORD-21114,01-Nov-2025,Customer 1214,customer1214@example.com,United States,BEAUTY,4.0,$206.12,0.21,PayPal,false
+ORD-20885,02/26/2026,Customer 1885,customer1885@example.com,CA,Beuaty,,71.78,0.24,Debit Card,false
+ORD-20275,"April 21, 2026",Customer 1275,customer1275@example.com,UK,ELECTRONICS,3.0,47.56,0.03,Credit Card,FALSE
+ORD-20114,10-Aug-2026,Customer 1114,customer1114@example.com,United kingdom,Home&Garden,3.0,$85.23,0.15,Debit Card,1
+ORD-21352,2025-03-07,Customer 1452,,USA,beauty,2.0,$33.79,0.3,PayPal,false
+ORD-21489,10/03/2025,Customer 1589,  customer1589@example.com ,U.S.A.,Electronics ,4.0,124.92,0.04,PayPal,No
+ORD-20727,"February 28, 2026",Customer 1727,  customer1727@example.com ,U.S.A.,home and garden,5.0,$200.08,0.03,Debit Card,N
+ORD-21155,"July 24, 2025",Customer 1255,customer1255@example.com,,HOME & GARDEN,4.0,108.75,0.28,Gift Card,FALSE
+ORD-20001,12/12/2025,Customer 1001,customer1001@example.com,AUSTRALIA, Apparel,3.0,$126.00,0.23,Credit Card,false
+ORD-20227,"August 06, 2025",Customer 1227,  customer1227@example.com ,United Kingdom,HOME & GARDEN,2.0,131.52,0.1,PayPal,FALSE
+ORD-20133,03/08/2026,Customer 1133,  customer1133@example.com ,United kingdom,Beuaty,5.0,52.85,0.0,Credit Card,FALSE
+ORD-20248,2025-04-10,Customer 1248,customer1248@example.com,CA,Apparel,2.0,$166.88,0.21,PayPal,no
+ORD-21307,"December 06, 2025",Customer 1407,  customer1407@example.com ,U.K.,Home & garden,5.0,$40.47,0.11,Credit Card,no
+ORD-20496,2025-10-21,Customer 1496,customer1496@example.com,Australia,electronics,4.0,$41.80,0.07,Credit Card,false
+ORD-20960,2025-06-07,Customer 1060,  customer1060@example.com ,canada,Apparel,2.0,195.16,0.12,Credit Card,0
+ORD-20335,"August 18, 2026",Customer 1335,  customer1335@example.com ,germany,SPORTS,3.0,$130.19,0.29,PayPal,false
+ORD-20439,"June 29, 2026",Customer 1439,,,HOME & GARDEN,4.0,$138.97,0.01,Credit Card,N
+ORD-21287,"January 01, 2026",Customer 1387,  customer1387@example.com ,America,Sports ,4.0,122.03,0.04,PayPal,no
+ORD-21166,11-Apr-2025,Customer 1266,customer1266@example.com,United states,Apparel,1.0,25.91,0.14,Debit Card,FALSE
+ORD-21269,06/26/2025,Customer 1369,  customer1369@example.com ,CANADA,APPAREL,4.0,182.47,0.1,Gift Card,no
+ORD-20812,2025-02-27,Customer 1812,  customer1812@example.com ,United kingdom,Home & garden,1.0,147.45,0.23,,no
+ORD-21051,"June 27, 2026",Customer 1151,customer1151@example.com,Germany,Electronics ,5.0,94.3,0.11,Debit Card,false
+ORD-20441,03/03/2026,Customer 1441,customer1441@example.com,America,Home & garden,,$177.79,,Credit Card,false
+ORD-21162,15-Jul-2025,Customer 1262,  customer1262@example.com ,AUS, Apparel,5.0,190.16,0.17,Gift Card,FALSE
+ORD-21387,"May 12, 2025",Customer 1487,  customer1487@example.com ,us,Electronic,4.0,$198.92,0.2,Credit Card,N
+ORD-21113,05/02/2026,Customer 1213,customer1213@example.com,,Electronic,3.0,$94.19,0.27,Credit Card,No
+ORD-20838,16-Aug-2026,Customer 1838,customer1838@example.com,DE,Beauty,5.0,164.35,0.07,Debit Card,N
+ORD-21047,"June 29, 2025",Customer 1147,customer1147@example.com,AUSTRALIA,home and garden,5.0,70.83,0.21,Credit Card,1
+ORD-21103,"June 14, 2026",Customer 1203,,United kingdom,APPAREL,5.0,25.95,0.28,PayPal,no
+ORD-21149,06/22/2025,Customer 1249,  customer1249@example.com ,AUS, Beauty,3.0,$166.64,0.04,Gift Card,N
+ORD-20242,30-Sep-2025,Customer 1242,customer1242@example.com,United States,Electronics ,4.0,$112.38,0.12,Gift Card,false
+ORD-21394,14-Jan-2026,Customer 1494,customer1494@example.com,DE,Sport,2.0,$170.71,0.23,Gift Card,false
+ORD-20683,"October 08, 2025",Customer 1683,customer1683@example.com,GERMANY,Beauty,2.0,20.9,0.28,Gift Card,0
+ORD-21350,02-Feb-2026,Customer 1450,customer1450@example.com,, Beauty,3.0,33.8,0.14,Gift Card,yes
+ORD-20657,07/09/2026,Customer 1657,customer1657@example.com,U.K.,apparel,3.0,156.45,0.1,Credit Card,no
+ORD-20504,2025-10-17,Customer 1504,customer1504@example.com,Australia,SPORTS,,$98.65,0.26,Debit Card,no
+ORD-20408,2026-08-15,Customer 1408,customer1408@example.com,canada,Appreal,5.0,128.99,0.29,Debit Card,0
+ORD-20123,"December 16, 2025",Customer 1123,customer1123@example.com,AUS, Beauty,4.0,55.76,0.05,Gift Card,false
+ORD-21105,10/27/2025,Customer 1205,customer1205@example.com,Canada,Sports ,2.0,$186.59,0.05,PayPal,false
+ORD-21492,2025-04-14,Customer 1592,  customer1592@example.com ,australia,ELECTRONICS,3.0,187.31,0.07,PayPal,false
+ORD-21255,"March 25, 2025",Customer 1355,customer1355@example.com,GERMANY,Apparel,5.0,182.67,0.05,Debit Card,N
+ORD-21525,05/31/2026,Customer 1625,customer1625@example.com,DE,BEAUTY,1.0,13.48,0.1,PayPal,Yes
+ORD-21061,09/15/2025,Customer 1161,customer1161@example.com,AUS,SPORTS,4.0,191.38,0.07,Credit Card,FALSE
+ORD-20140,2025-11-12,Customer 1140,customer1140@example.com,CANADA,Appreal,5.0,$43.13,0.2,Debit Card,FALSE
+ORD-20546,08-Sep-2025,Customer 1546,customer1546@example.com,germany,Sports,4.0,$171.75,0.19,PayPal,N
+ORD-20900,2025-09-13,Customer 1000,customer1000@example.com,CA,BEAUTY,2.0,$129.08,0.22,PayPal,Yes
+ORD-20637,10/09/2025,Customer 1637,customer1637@example.com,United kingdom,Home&Garden,1.0,$84.47,0.15,Debit Card,yes
+ORD-21260,2025-09-14,Customer 1360,customer1360@example.com,Australia,Sports ,3.0,199.16,0.07,Gift Card,false
+ORD-21440,2025-04-15,Customer 1540,customer1540@example.com,CANADA,Sports ,4.0,150.97,0.15,PayPal,FALSE
+ORD-20688,2025-04-22,Customer 1688,customer1688@example.com,DE, Apparel,2.0,$135.40,,Debit Card,TRUE
+ORD-20621,08/25/2025,Customer 1621,customer1621@example.com,CA,Apparel,4.0,137.5,0.11,PayPal,0
+ORD-20850,16-May-2025,Customer 1850,  customer1850@example.com ,United Kingdom,BEAUTY,1.0,173.46,0.2,Gift Card,FALSE
+ORD-20583,"November 05, 2025",Customer 1583,  customer1583@example.com ,australia,Apparel,4.0,98.79,0.03,PayPal,no
+ORD-20332,2026-08-03,Customer 1332,  customer1332@example.com ,CANADA,apparel,3.0,$154.61,0.13,Gift Card,Yes
+ORD-21293,05/03/2026,Customer 1393,  customer1393@example.com ,CA,apparel,4.0,205.71,0.01,Debit Card,FALSE
+ORD-21361,07/21/2025,Customer 1461,customer1461@example.com,GERMANY,beauty,1.0,81.59,2.46,Debit Card,0
+ORD-21115,"March 01, 2026",Customer 1215,customer1215@example.com,Australia,Electronics,4.0,$118.82,0.15,Debit Card,N
+ORD-21104,2025-06-22,Customer 1204,customer1204@example.com,United kingdom,Beauty,4.0,204.11,0.23,PayPal,no
